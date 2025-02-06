@@ -1,0 +1,27 @@
+{
+  "_id": "ex7Mqv42SKZrfUL0",
+  "name": "Military",
+  "type": "background",
+  "system": {
+    "description": "An Imperial or Skovlander soldier, a mercenary, an intelligence operative, a strategist, a training instructor, etc."
+  },
+  "folder": "YkuVHwuSV9IfsxU0",
+  "sort": 500000,
+  "flags": {},
+  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.2_67.png",
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ex7Mqv42SKZrfUL0"
+}

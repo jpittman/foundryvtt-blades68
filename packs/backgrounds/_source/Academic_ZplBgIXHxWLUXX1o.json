@@ -1,0 +1,27 @@
+{
+  "_id": "ZplBgIXHxWLUXX1o",
+  "name": "Academic",
+  "type": "background",
+  "system": {
+    "description": "A scholar, a professor or student from Doskvol Academy, a philosopher or journalist, etc."
+  },
+  "folder": "YkuVHwuSV9IfsxU0",
+  "sort": 100000,
+  "flags": {},
+  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.2_81.png",
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ZplBgIXHxWLUXX1o"
+}
