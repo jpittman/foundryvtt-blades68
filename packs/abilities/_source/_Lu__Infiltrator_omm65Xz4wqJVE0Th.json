@@ -1,0 +1,32 @@
+{
+  "_id": "omm65Xz4wqJVE0Th",
+  "name": "(Lu) Infiltrator",
+  "type": "ability",
+  "system": {
+    "description": "You are not affected by quality or Tier when you bypass security measures.",
+    "class": "Lurk",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "folder": "7gkE4yoqYZiTi9EB",
+  "sort": 100001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!omm65Xz4wqJVE0Th"
+}

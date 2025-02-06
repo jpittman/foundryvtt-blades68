@@ -1,0 +1,76 @@
+{
+  "_id": "BW4k9Qr3AGw6sEut",
+  "name": "(W) Iron Will",
+  "type": "ability",
+  "system": {
+    "description": "You're immune to the terror that some supernatural entities inflict on sight. Take +1d to resistance rolls with Resolve.",
+    "class": "Whisper",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "folder": "5Sb9YUatUQwtpdMZ",
+  "sort": 300001,
+  "flags": {},
+  "effects": [
+    {
+      "name": "+1d Resist with Resolve",
+      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "origin": "Compendium.blades-in-the-dark.ability.Item.BW4k9Qr3AGw6sEut",
+      "duration": {
+        "rounds": null,
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "EVVzEWf3VoaMaB33",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.attributes.resolve.bonus",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.327",
+        "systemId": "blades-in-the-dark",
+        "systemVersion": "5.1.4.0",
+        "createdTime": 1719793010836,
+        "modifiedTime": 1720115754485,
+        "lastModifiedBy": "AvRW5m1Jijf76WiA"
+      },
+      "_key": "!items.effects!BW4k9Qr3AGw6sEut.EVVzEWf3VoaMaB33"
+    }
+  ],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!BW4k9Qr3AGw6sEut"
+}

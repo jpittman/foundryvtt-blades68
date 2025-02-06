@@ -1,0 +1,33 @@
+{
+  "_id": "v0tyV4dS1BqGb44h",
+  "name": "(Sp) Veteran",
+  "type": "ability",
+  "system": {
+    "description": "Choose a special ability from another source.",
+    "class": "Spider",
+    "price": "3",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "folder": null,
+  "sort": 200001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!v0tyV4dS1BqGb44h"
+}

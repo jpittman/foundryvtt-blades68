@@ -1,0 +1,32 @@
+{
+  "_id": "ubiQP80zuYu0jkBt",
+  "name": "(Lu) Daredevil",
+  "type": "ability",
+  "system": {
+    "description": "When you roll a desperate action, you get +1d to your roll if you also take -1d to any resistance rolls against consequences from your action.",
+    "class": "Lurk",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "folder": "7gkE4yoqYZiTi9EB",
+  "sort": 300001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ubiQP80zuYu0jkBt"
+}

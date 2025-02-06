@@ -1,0 +1,32 @@
+{
+  "_id": "npFfvkY95OWza0Mo",
+  "name": "(W) Warded",
+  "type": "ability",
+  "system": {
+    "description": "You may expend your special armor to resist a supernatural consequence, or to push yourself when you deal with arcane forces.",
+    "class": "Whisper",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "folder": "5Sb9YUatUQwtpdMZ",
+  "sort": 800001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!npFfvkY95OWza0Mo"
+}

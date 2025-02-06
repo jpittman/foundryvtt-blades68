@@ -1,0 +1,32 @@
+{
+  "_id": "4kNuvKoOQQzM5jLl",
+  "name": "(H) Ghost Hunter",
+  "type": "ability",
+  "system": {
+    "description": "Your hunting pet is imbued with spirit energy. It  gains  potency  when  tracking  or  fighting  the  supernatural,  and  gains an arcane ability: ghost-form, mind-link, or arrow-swift. Take this ability again to choose an additional arcane ability for your pet.",
+    "class": "Hound",
+    "price": "2",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "folder": "PaUiEAoDgddaXGEi",
+  "sort": 300001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!4kNuvKoOQQzM5jLl"
+}

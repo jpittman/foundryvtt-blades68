@@ -1,0 +1,32 @@
+{
+  "_id": "qw5Nzte5I60PiBbh",
+  "name": "(Lu) Expertise",
+  "type": "ability",
+  "system": {
+    "description": "Choose one of your action ratings. When you lead a group action using that action, you can suffer only 1 stress at most regardless of the number of failed rolls.",
+    "class": "Lurk",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "folder": "7gkE4yoqYZiTi9EB",
+  "sort": 500001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!qw5Nzte5I60PiBbh"
+}

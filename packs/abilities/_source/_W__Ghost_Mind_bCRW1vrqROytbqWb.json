@@ -1,0 +1,32 @@
+{
+  "_id": "bCRW1vrqROytbqWb",
+  "name": "(W) Ghost Mind",
+  "type": "ability",
+  "system": {
+    "description": "You're always aware of supernatural entities in your presence. Take +1d when you gather info about the supernatural.",
+    "class": "Whisper",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "folder": "5Sb9YUatUQwtpdMZ",
+  "sort": 200001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!bCRW1vrqROytbqWb"
+}

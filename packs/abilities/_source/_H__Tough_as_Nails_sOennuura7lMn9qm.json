@@ -1,0 +1,32 @@
+{
+  "_id": "sOennuura7lMn9qm",
+  "name": "(H) Tough as Nails",
+  "type": "ability",
+  "system": {
+    "description": "Penalties from harm are one level less severe (though level 4 harm is still fatal).",
+    "class": "Hound",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "folder": "PaUiEAoDgddaXGEi",
+  "sort": 600001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!sOennuura7lMn9qm"
+}

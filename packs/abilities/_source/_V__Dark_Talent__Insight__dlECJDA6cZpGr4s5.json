@@ -1,0 +1,142 @@
+{
+  "name": "(V) Dark Talent (Insight)",
+  "type": "ability",
+  "system": {
+    "description": "Choose Insight, Prowess, or Resolve. Your max rating for actions under that attribute becomes 5. When you take this ability, add +1 dot to the resistance rating of the attribute you've chosen.",
+    "class": "Vampire",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [
+    {
+      "name": "+1d Resist with Insight",
+      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "origin": "Compendium.blades-in-the-dark.ability.Item.dlECJDA6cZpGr4s5",
+      "duration": {
+        "rounds": null,
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "iYmG7aLfZr9gqFSr",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.attributes.insight.bonus",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.327",
+        "systemId": "blades-in-the-dark",
+        "systemVersion": "5.1.4.0",
+        "createdTime": 1719793831544,
+        "modifiedTime": 1719794011315,
+        "lastModifiedBy": "AvRW5m1Jijf76WiA"
+      },
+      "_key": "!items.effects!dlECJDA6cZpGr4s5.iYmG7aLfZr9gqFSr"
+    },
+    {
+      "name": "Insight Action Ratings 5",
+      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "origin": "Compendium.blades-in-the-dark.ability.Item.dlECJDA6cZpGr4s5",
+      "duration": {
+        "rounds": null,
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "LLq1gqUOtW9zhDkF",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.attributes.insight.skills.hunt.max",
+          "mode": 4,
+          "value": "5",
+          "priority": null
+        },
+        {
+          "key": "system.attributes.insight.skills.study.max",
+          "mode": 4,
+          "value": "5",
+          "priority": null
+        },
+        {
+          "key": "system.attributes.insight.skills.survey.max",
+          "mode": 4,
+          "value": "5",
+          "priority": null
+        },
+        {
+          "key": "system.attributes.insight.skills.tinker.max",
+          "mode": 4,
+          "value": "5",
+          "priority": null
+        }
+      ],
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.327",
+        "systemId": "blades-in-the-dark",
+        "systemVersion": "5.1.4.0",
+        "createdTime": 1719793901601,
+        "modifiedTime": 1719794192601,
+        "lastModifiedBy": "AvRW5m1Jijf76WiA"
+      },
+      "_key": "!items.effects!dlECJDA6cZpGr4s5.LLq1gqUOtW9zhDkF"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.KdtF8wI4cpY6l1h0"
+    }
+  },
+  "_id": "dlECJDA6cZpGr4s5",
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": "blades-in-the-dark",
+    "systemVersion": "5.1.4.0",
+    "createdTime": null,
+    "modifiedTime": 1719793778349,
+    "lastModifiedBy": "AvRW5m1Jijf76WiA",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "hp9rhyB0AtTZTutm": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!dlECJDA6cZpGr4s5"
+}

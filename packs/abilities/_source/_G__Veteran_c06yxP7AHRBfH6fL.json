@@ -1,0 +1,37 @@
+{
+  "name": "(G) Veteran",
+  "type": "ability",
+  "system": {
+    "description": "Choose a special ability from another source.",
+    "class": "Ghost",
+    "price": 1,
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.6xCaYqjjZpEXegRn"
+    }
+  },
+  "_id": "c06yxP7AHRBfH6fL",
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "hp9rhyB0AtTZTutm": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!c06yxP7AHRBfH6fL"
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "GFcTs25hSqVfPccB",
+  "name": "(C) Savage",
+  "type": "ability",
+  "system": {
+    "description": "When you unleash physical violence, it's especially frightening. When you Command a frightened target, take +1d.",
+    "class": "Cutter",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "folder": "cJPDzs27jPdqAVDV",
+  "sort": 700000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!GFcTs25hSqVfPccB"
+}

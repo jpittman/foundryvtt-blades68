@@ -1,0 +1,32 @@
+{
+  "_id": "iRMpss4mzoC4WNFp",
+  "name": "(W) Compel",
+  "type": "ability",
+  "system": {
+    "description": "You can Attune to the ghost field to force a nearby ghost to appear and obey a command you give it. You are not supernaturally terrified by a ghost you summon or compel (though your allies may be).",
+    "class": "Whisper",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "folder": "5Sb9YUatUQwtpdMZ",
+  "sort": 100001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!iRMpss4mzoC4WNFp"
+}

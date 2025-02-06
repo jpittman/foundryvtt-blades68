@@ -1,0 +1,32 @@
+{
+  "_id": "KhryFnEwDPtPCuEY",
+  "name": "(Le) Ghost Ward",
+  "type": "ability",
+  "system": {
+    "description": "You know how to Wreck an area with arcane substances and methods so it is either anathema or enticing to spirits (your choice).",
+    "class": "Leech",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "folder": "EorKoKOCKsvC93ZA",
+  "sort": 500001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!KhryFnEwDPtPCuEY"
+}

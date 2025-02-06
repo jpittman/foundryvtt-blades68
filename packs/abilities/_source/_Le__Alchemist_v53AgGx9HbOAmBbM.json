@@ -1,0 +1,32 @@
+{
+  "_id": "v53AgGx9HbOAmBbM",
+  "name": "(Le) Alchemist",
+  "type": "ability",
+  "system": {
+    "description": "When you invent or craft a creation with alchemicalfeatures, take +1 result level to your roll. You begin with one special formula already known.",
+    "class": "Leech",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "folder": "EorKoKOCKsvC93ZA",
+  "sort": 100001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!v53AgGx9HbOAmBbM"
+}

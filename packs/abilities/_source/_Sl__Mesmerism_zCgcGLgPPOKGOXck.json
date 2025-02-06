@@ -1,0 +1,32 @@
+{
+  "_id": "zCgcGLgPPOKGOXck",
+  "name": "(Sl) Mesmerism",
+  "type": "ability",
+  "system": {
+    "description": "When  you  Sway  someone,  you  may  cause  them  to  forget that it's happened until they next interact with you.",
+    "class": "Slide",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "folder": "537uDqf28OmWJoAM",
+  "sort": 600001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!zCgcGLgPPOKGOXck"
+}

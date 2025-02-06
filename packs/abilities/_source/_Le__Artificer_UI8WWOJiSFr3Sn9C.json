@@ -1,0 +1,32 @@
+{
+  "_id": "UI8WWOJiSFr3Sn9C",
+  "name": "(Le) Artificer",
+  "type": "ability",
+  "system": {
+    "description": "When you invent or craft a creation with spark-craftfeatures, take +1 result level to your roll. You begin with one special design already known.",
+    "class": "Leech",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "folder": "EorKoKOCKsvC93ZA",
+  "sort": 300001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!UI8WWOJiSFr3Sn9C"
+}

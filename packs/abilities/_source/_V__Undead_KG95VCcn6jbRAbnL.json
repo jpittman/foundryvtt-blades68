@@ -1,0 +1,105 @@
+{
+  "_id": "KG95VCcn6jbRAbnL",
+  "name": "(V) Undead",
+  "type": "ability",
+  "system": {
+    "description": "You are a spirit which animates an undead body. Your trauma is maxed out. Choose four trauma conditions which reflect your vampiric nature. Arcane attacks are potent against you. If you suffer fatal harm or trauma, your undead spirit is overwhelmed. You take level 3 harm: \"Incapacitated\" until you feed enough to recover. If you suffer arcane harm while in this state, you are destroyed utterly. Your XP tracks are longer (you now advance more slowly). You have more stress boxes.",
+    "class": "Vampire",
+    "price": "1",
+    "purchased": false,
+    "class_default": true,
+    "logic": ""
+  },
+  "effects": [
+    {
+      "_id": "ron5Vdsnb8WcFrPC",
+      "changes": [
+        {
+          "key": "system.experience_max",
+          "mode": 5,
+          "value": "10",
+          "priority": null
+        },
+        {
+          "key": "system.attributes.insight.exp_max",
+          "mode": 5,
+          "value": "8",
+          "priority": null
+        },
+        {
+          "key": "system.attributes.prowess.exp_max",
+          "mode": 5,
+          "value": "8",
+          "priority": null
+        },
+        {
+          "key": "system.attributes.resolve.exp_max",
+          "mode": 5,
+          "value": "8",
+          "priority": null
+        },
+        {
+          "key": "system.stress.max",
+          "mode": 5,
+          "value": "12",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "origin": "Item.tjZrc7AAYU8eGPWv",
+      "transfer": true,
+      "flags": {},
+      "tint": "#ffffff",
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Undead",
+      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
+      "_key": "!items.effects!KG95VCcn6jbRAbnL.ron5Vdsnb8WcFrPC"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.tjZrc7AAYU8eGPWv"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "hp9rhyB0AtTZTutm": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!KG95VCcn6jbRAbnL"
+}

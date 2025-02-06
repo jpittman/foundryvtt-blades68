@@ -1,0 +1,32 @@
+{
+  "_id": "1G5jzLtr2Xy5K5I2",
+  "name": "(Sl) Cloak & Dagger",
+  "type": "ability",
+  "system": {
+    "description": "When you use a disguise or other form of covert misdirection, you get +1d to rolls to confuse or deflect suspicion. When you throw off your disguise, the resulting surprise gives you the initiative in the situation.",
+    "class": "Slide",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "folder": "537uDqf28OmWJoAM",
+  "sort": 200001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!1G5jzLtr2Xy5K5I2"
+}

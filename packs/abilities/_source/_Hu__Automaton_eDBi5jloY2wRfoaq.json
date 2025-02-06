@@ -1,0 +1,99 @@
+{
+  "_id": "eDBi5jloY2wRfoaq",
+  "name": "(Hu) Automaton",
+  "type": "ability",
+  "system": {
+    "description": "You are a spirit animating a clockwork body. You have human-like strength and senses, by default. Your hull has natural armor (this doesn't count for your load). Your former human feelings, interests, and connections are only dim memories. You now exist to fulfill your functions. Choose three (at left). You may be rebuilt if damaged or destroyed. If your soul vessel is shattered, you are freed from servitude and become a Ghost. Whenever you would take stress, take drain instead.",
+    "class": "Hull",
+    "price": 1,
+    "purchased": false,
+    "class_default": true,
+    "logic": ""
+  },
+  "effects": [
+    {
+      "_id": "xUueJ7VIRbLa7PNo",
+      "changes": [
+        {
+          "key": "system.stress.max",
+          "mode": 5,
+          "value": "10",
+          "priority": null
+        },
+        {
+          "key": "system.stress.name",
+          "mode": 5,
+          "value": "BITD.Drain",
+          "priority": null
+        },
+        {
+          "key": "system.trauma.name",
+          "mode": 5,
+          "value": "BITD.Wear",
+          "priority": null
+        },
+        {
+          "key": "system.trauma.options",
+          "mode": 5,
+          "value": "[\"clanking\", \"leaking\", \"fixated\", \"smoking\", \"sparking\", \"unstable\"]",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "origin": "Item.z1kysRvqqbX5lRVA",
+      "transfer": true,
+      "flags": {},
+      "tint": "#ffffff",
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Automaton",
+      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
+      "_key": "!items.effects!eDBi5jloY2wRfoaq.xUueJ7VIRbLa7PNo"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.z1kysRvqqbX5lRVA"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "hp9rhyB0AtTZTutm": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!eDBi5jloY2wRfoaq"
+}

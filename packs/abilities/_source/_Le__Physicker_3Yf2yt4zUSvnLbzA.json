@@ -1,0 +1,32 @@
+{
+  "_id": "3Yf2yt4zUSvnLbzA",
+  "name": "(Le) Physicker",
+  "type": "ability",
+  "system": {
+    "description": "You can Tinker with bones, blood, and bodily humours to treat wounds or stabilize the dying. You may study a malady or corpse. Everyone in your crew gets +1d to their healing treatment rolls.",
+    "class": "Leech",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "folder": "EorKoKOCKsvC93ZA",
+  "sort": 600001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!3Yf2yt4zUSvnLbzA"
+}

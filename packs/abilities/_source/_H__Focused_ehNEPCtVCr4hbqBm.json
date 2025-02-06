@@ -1,0 +1,32 @@
+{
+  "_id": "ehNEPCtVCr4hbqBm",
+  "name": "(H) Focused",
+  "type": "ability",
+  "system": {
+    "description": "You may expend your special armor to resist a consequence of surprise or mental harm (fear, confusion, losing track of someone) or to push yourself for ranged combat or tracking.",
+    "class": "Hound",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "folder": "PaUiEAoDgddaXGEi",
+  "sort": 200001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ehNEPCtVCr4hbqBm"
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "r6dry3SxyDBP84bD",
+  "name": "(Lu) Ghost Veil",
+  "type": "ability",
+  "system": {
+    "description": "You may shift partially into the ghost field, becoming shadowy and insubstantial for a few moments. Take 2 stress when you shift, plus 1 stress for each extra feature: It lasts for a few minutes rather than moments - you are invisible rather than shadowy - you may float through the air like a ghost.",
+    "class": "Lurk",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "folder": "7gkE4yoqYZiTi9EB",
+  "sort": 600001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!r6dry3SxyDBP84bD"
+}

@@ -1,0 +1,76 @@
+{
+  "_id": "0IDmKmW3AiaNEBpE",
+  "name": "(H) Survivor",
+  "type": "ability",
+  "system": {
+    "description": "From  hard  won  experience  or  occult  ritual,  you  are  immune to the poisonous miasma of the deathlands and are able to subsist on the strange flora and fauna there. You get +1 stress box.",
+    "class": "Hound",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "folder": "PaUiEAoDgddaXGEi",
+  "sort": 500001,
+  "flags": {},
+  "effects": [
+    {
+      "name": "+1 Stress box",
+      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "origin": "Compendium.blades-in-the-dark.ability.Item.0IDmKmW3AiaNEBpE",
+      "duration": {
+        "rounds": null,
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "6sRHNmAz1hNyMfLm",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.stress.max",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.327",
+        "systemId": "blades-in-the-dark",
+        "systemVersion": "5.1.4.0",
+        "createdTime": 1719789236973,
+        "modifiedTime": 1719791838597,
+        "lastModifiedBy": "AvRW5m1Jijf76WiA"
+      },
+      "_key": "!items.effects!0IDmKmW3AiaNEBpE.6sRHNmAz1hNyMfLm"
+    }
+  ],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!0IDmKmW3AiaNEBpE"
+}

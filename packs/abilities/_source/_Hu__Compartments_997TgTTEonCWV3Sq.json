@@ -1,0 +1,81 @@
+{
+  "name": "(Hu) Compartments",
+  "type": "ability",
+  "system": {
+    "description": "Your items are built-in to your frame and may recess beneath panels out of sight. Your frame can now carry +2 load.",
+    "class": "Hull",
+    "price": 1,
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [
+    {
+      "_id": "A8tnAf75orjXExQO",
+      "changes": [
+        {
+          "key": "system.base_max_load",
+          "mode": 2,
+          "value": "2",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "origin": "Item.5goOpDb9pPrONuRS",
+      "transfer": true,
+      "flags": {},
+      "tint": "#ffffff",
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Compartments",
+      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
+      "_key": "!items.effects!997TgTTEonCWV3Sq.A8tnAf75orjXExQO"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "Item.5goOpDb9pPrONuRS"
+    }
+  },
+  "_id": "997TgTTEonCWV3Sq",
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "hp9rhyB0AtTZTutm": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!997TgTTEonCWV3Sq"
+}

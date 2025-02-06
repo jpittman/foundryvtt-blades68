@@ -1,0 +1,32 @@
+{
+  "_id": "rNafmXeBlQ9eDpF9",
+  "name": "(Lu) Reflexes",
+  "type": "ability",
+  "system": {
+    "description": "When there's a question about who acts first, the answer is you (two characters with Reflexes act simultaneously).",
+    "class": "Lurk",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "folder": "7gkE4yoqYZiTi9EB",
+  "sort": 700001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!rNafmXeBlQ9eDpF9"
+}

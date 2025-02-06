@@ -1,0 +1,32 @@
+{
+  "_id": "LL4ALumWoSfHBuEC",
+  "name": "(C) Battleborn",
+  "type": "ability",
+  "system": {
+    "description": "You may expend your special armor to reduce harm from an attack in combat or to push yourself during a fight.",
+    "class": "Cutter",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "folder": "cJPDzs27jPdqAVDV",
+  "sort": 100000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!LL4ALumWoSfHBuEC"
+}

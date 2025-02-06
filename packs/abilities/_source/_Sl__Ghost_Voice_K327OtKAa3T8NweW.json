@@ -1,0 +1,32 @@
+{
+  "_id": "K327OtKAa3T8NweW",
+  "name": "(Sl) Ghost Voice",
+  "type": "ability",
+  "system": {
+    "description": "You know the secret method to interact with a ghost or demon as if it was a normal human, regardless of how wild or feral it appears. You gain potency when communicating with the supernatural.",
+    "class": "Slide",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "folder": "537uDqf28OmWJoAM",
+  "sort": 300001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!K327OtKAa3T8NweW"
+}
