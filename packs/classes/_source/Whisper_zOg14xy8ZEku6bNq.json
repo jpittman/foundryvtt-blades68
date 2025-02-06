@@ -1,0 +1,172 @@
+{
+  "_id": "zOg14xy8ZEku6bNq",
+  "name": "Whisper",
+  "type": "class",
+  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.6_88.png",
+  "system": {
+    "description": "An Arcane adept and channeler",
+    "logic": "",
+    "experience_clues": "You addressed a challenge with knowledge or arcane power.",
+    "base_skills": {
+      "hunt": [
+        0
+      ],
+      "study": [
+        1
+      ],
+      "survey": [
+        0
+      ],
+      "tinker": [
+        0
+      ],
+      "finesse": [
+        0
+      ],
+      "prowl": [
+        0
+      ],
+      "skirmish": [
+        0
+      ],
+      "wreck": [
+        0
+      ],
+      "attune": [
+        2
+      ],
+      "command": [
+        0
+      ],
+      "consort": [
+        0
+      ],
+      "sway": [
+        0
+      ]
+    }
+  },
+  "effects": [
+    {
+      "_id": "IYpODw0CDIJni6vS",
+      "changes": [
+        {
+          "key": "system.acquaintances_label",
+          "mode": 5,
+          "value": "BITD.StrangeFriends",
+          "priority": null
+        },
+        {
+          "key": "system.experience_clues",
+          "mode": 2,
+          "value": "BITD.ExpChallengeKnowledge",
+          "priority": null
+        },
+        {
+          "key": "system.playbook",
+          "mode": 5,
+          "value": "Whisper",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "origin": "Compendium.blades-in-the-dark.class.zOg14xy8ZEku6bNq",
+      "transfer": true,
+      "flags": {},
+      "tint": "#ffffff",
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1719968551308,
+        "lastModifiedBy": "AvRW5m1Jijf76WiA",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Whisper Playbook",
+      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
+      "_key": "!items.effects!zOg14xy8ZEku6bNq.IYpODw0CDIJni6vS"
+    },
+    {
+      "name": "Whisper Action Ratings",
+      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "origin": "Compendium.blades-in-the-dark.class.Item.zOg14xy8ZEku6bNq",
+      "duration": {
+        "rounds": null,
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "JELr9mlbcrZJ4ApB",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.attributes.resolve.skills.attune.min",
+          "mode": 2,
+          "value": "2",
+          "priority": null
+        },
+        {
+          "key": "system.attributes.insight.skills.study.min",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.327",
+        "systemId": "blades-in-the-dark",
+        "systemVersion": "5.1.4.0",
+        "createdTime": 1719968553384,
+        "modifiedTime": 1719968683771,
+        "lastModifiedBy": "AvRW5m1Jijf76WiA"
+      },
+      "_key": "!items.effects!zOg14xy8ZEku6bNq.JELr9mlbcrZJ4ApB"
+    }
+  ],
+  "folder": null,
+  "sort": 200000,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!zOg14xy8ZEku6bNq"
+}

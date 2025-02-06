@@ -1,0 +1,243 @@
+{
+  "_id": "C3x5KKJL4JBj1U1R",
+  "name": "Vampire",
+  "type": "class",
+  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.1_19.png",
+  "system": {
+    "description": "A spirit animating an undead body",
+    "logic": "",
+    "experience_clues": "You display your dominance or slay without mercy (OVERRIDES DEFAULT EXP CLUES).",
+    "base_skills": {
+      "hunt": [
+        1
+      ],
+      "study": [
+        0
+      ],
+      "survey": [
+        0
+      ],
+      "tinker": [
+        0
+      ],
+      "finesse": [
+        0
+      ],
+      "prowl": [
+        1
+      ],
+      "skirmish": [
+        1
+      ],
+      "wreck": [
+        0
+      ],
+      "attune": [
+        1
+      ],
+      "command": [
+        1
+      ],
+      "consort": [
+        0
+      ],
+      "sway": [
+        1
+      ]
+    }
+  },
+  "effects": [
+    {
+      "_id": "mEFqoSXApZBGu1hZ",
+      "changes": [
+        {
+          "key": "system.acquaintances_label",
+          "mode": 5,
+          "value": "BITD.DarkServants",
+          "priority": null
+        },
+        {
+          "key": "system.trauma.options",
+          "mode": 5,
+          "value": "[\"BITD.TraumaCold\", \"BITD.TraumaHaunted\", \"BITD.TraumaObsessed\", \"BITD.TraumaParanoid\", \"BITD.TraumaRuthless\", \"BITD.TraumaSecretive\", \"BITD.TraumaUnstable\", \"BITD.TraumaVicious\"]",
+          "priority": null
+        },
+        {
+          "key": "system.stress.max",
+          "mode": 2,
+          "value": "3",
+          "priority": null
+        },
+        {
+          "key": "system.experience_max",
+          "mode": 2,
+          "value": "2",
+          "priority": null
+        },
+        {
+          "key": "system.attributes.insight.exp_max",
+          "mode": 5,
+          "value": "8",
+          "priority": null
+        },
+        {
+          "key": "system.attributes.prowess.exp_max",
+          "mode": 5,
+          "value": "8",
+          "priority": null
+        },
+        {
+          "key": "system.attributes.resolve.exp_max",
+          "mode": 5,
+          "value": "8",
+          "priority": null
+        },
+        {
+          "key": "system.experience_clues",
+          "mode": 2,
+          "value": "BITD.ExpDisplayedDominance",
+          "priority": null
+        },
+        {
+          "key": "system.playbook",
+          "mode": 5,
+          "value": "Vampire",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "origin": "Compendium.blades-in-the-dark.class.QzcDnJbWCY1ueVt7",
+      "transfer": true,
+      "flags": {},
+      "tint": "#ffffff",
+      "name": "Vampire Playbook",
+      "description": "",
+      "statuses": [],
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1720116289176,
+        "lastModifiedBy": "AvRW5m1Jijf76WiA",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "type": "base",
+      "system": {},
+      "sort": 0,
+      "_key": "!items.effects!C3x5KKJL4JBj1U1R.mEFqoSXApZBGu1hZ"
+    },
+    {
+      "name": "Vampire Action Ratings",
+      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "origin": "Compendium.blades-in-the-dark.class.Item.C3x5KKJL4JBj1U1R",
+      "duration": {
+        "rounds": null,
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "L9ul98UWAiEBNQUa",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.attributes.insight.skills.hunt.min",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        },
+        {
+          "key": "system.attributes.prowess.skills.prowl.min",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        },
+        {
+          "key": "system.attributes.prowess.skills.skirmish.min",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        },
+        {
+          "key": "system.attributes.resolve.skills.attune.min",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        },
+        {
+          "key": "system.attributes.resolve.skills.command.min",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        },
+        {
+          "key": "system.attributes.resolve.skills.sway.min",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.327",
+        "systemId": "blades-in-the-dark",
+        "systemVersion": "5.1.4.0",
+        "createdTime": 1719968771224,
+        "modifiedTime": 1719968864488,
+        "lastModifiedBy": "AvRW5m1Jijf76WiA"
+      },
+      "_key": "!items.effects!C3x5KKJL4JBj1U1R.L9ul98UWAiEBNQUa"
+    }
+  ],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.blades-in-the-dark.class.QzcDnJbWCY1ueVt7"
+    },
+    "exportSource": {
+      "world": "blades",
+      "system": "blades-in-the-dark",
+      "coreVersion": "10.291",
+      "systemVersion": "4.6"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ObIyIN2CggLIOVUw": 3
+  },
+  "_stats": {
+    "systemId": "blades-in-the-dark",
+    "systemVersion": "4.9",
+    "coreVersion": "12.327",
+    "createdTime": 1686682652146,
+    "modifiedTime": 1711075037254,
+    "lastModifiedBy": "B7A33cKMwj3J5fQB",
+    "compendiumSource": "Compendium.blades-in-the-dark.class.QzcDnJbWCY1ueVt7",
+    "duplicateSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!C3x5KKJL4JBj1U1R"
+}

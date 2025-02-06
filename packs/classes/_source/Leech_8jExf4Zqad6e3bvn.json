@@ -1,0 +1,172 @@
+{
+  "_id": "8jExf4Zqad6e3bvn",
+  "name": "Leech",
+  "type": "class",
+  "img": "systems/blades-in-the-dark/styles/assets/icons/Icons8_64.png",
+  "system": {
+    "description": "A saboteur and technician",
+    "logic": "",
+    "experience_clues": "You addressed a challenge with technical skill or mayhem.",
+    "base_skills": {
+      "hunt": [
+        0
+      ],
+      "study": [
+        0
+      ],
+      "survey": [
+        0
+      ],
+      "tinker": [
+        2
+      ],
+      "finesse": [
+        0
+      ],
+      "prowl": [
+        0
+      ],
+      "skirmish": [
+        0
+      ],
+      "wreck": [
+        1
+      ],
+      "attune": [
+        0
+      ],
+      "command": [
+        0
+      ],
+      "consort": [
+        0
+      ],
+      "sway": [
+        0
+      ]
+    }
+  },
+  "effects": [
+    {
+      "_id": "N4jYP0USRceDlCC1",
+      "changes": [
+        {
+          "key": "system.acquaintances_label",
+          "mode": 5,
+          "value": "BITD.CleverFriends",
+          "priority": null
+        },
+        {
+          "key": "system.experience_clues",
+          "mode": 2,
+          "value": "BITD.ExpChallengeTechnical",
+          "priority": null
+        },
+        {
+          "key": "system.playbook",
+          "mode": 5,
+          "value": "Leech",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "origin": "Compendium.blades-in-the-dark.class.8jExf4Zqad6e3bvn",
+      "transfer": true,
+      "flags": {},
+      "tint": "#ffffff",
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1719968156481,
+        "lastModifiedBy": "AvRW5m1Jijf76WiA",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Leech Playbook",
+      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
+      "_key": "!items.effects!8jExf4Zqad6e3bvn.N4jYP0USRceDlCC1"
+    },
+    {
+      "name": "Leech Action Ratings",
+      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "origin": "Compendium.blades-in-the-dark.class.Item.8jExf4Zqad6e3bvn",
+      "duration": {
+        "rounds": null,
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "FkArHMAx8iiDjfmf",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.attributes.insight.skills.tinker.min",
+          "mode": 2,
+          "value": "2",
+          "priority": null
+        },
+        {
+          "key": "system.attributes.prowess.skills.wreck.min",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.327",
+        "systemId": "blades-in-the-dark",
+        "systemVersion": "5.1.4.0",
+        "createdTime": 1719968185742,
+        "modifiedTime": 1719968226456,
+        "lastModifiedBy": "AvRW5m1Jijf76WiA"
+      },
+      "_key": "!items.effects!8jExf4Zqad6e3bvn.FkArHMAx8iiDjfmf"
+    }
+  ],
+  "folder": null,
+  "sort": 400000,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!8jExf4Zqad6e3bvn"
+}

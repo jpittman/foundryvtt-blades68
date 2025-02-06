@@ -1,0 +1,172 @@
+{
+  "_id": "JGxBjlbooxuUHe4E",
+  "name": "Hound",
+  "type": "class",
+  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_33.png",
+  "system": {
+    "description": "A deadly sharpshooter and tracker",
+    "logic": "",
+    "experience_clues": "You addressed a challenge with tracking or violence.",
+    "base_skills": {
+      "hunt": [
+        2
+      ],
+      "study": [
+        0
+      ],
+      "survey": [
+        1
+      ],
+      "tinker": [
+        0
+      ],
+      "finesse": [
+        0
+      ],
+      "prowl": [
+        0
+      ],
+      "skirmish": [
+        0
+      ],
+      "wreck": [
+        0
+      ],
+      "attune": [
+        0
+      ],
+      "command": [
+        0
+      ],
+      "consort": [
+        0
+      ],
+      "sway": [
+        0
+      ]
+    }
+  },
+  "effects": [
+    {
+      "_id": "e4KGBnKo7Wmjrz1I",
+      "changes": [
+        {
+          "key": "system.acquaintances_label",
+          "mode": 5,
+          "value": "BITD.DeadlyFriends",
+          "priority": null
+        },
+        {
+          "key": "system.experience_clues",
+          "mode": 2,
+          "value": "BITD.ExpChallengeTracking",
+          "priority": null
+        },
+        {
+          "key": "system.playbook",
+          "mode": 5,
+          "value": "Hound",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "origin": "Compendium.blades-in-the-dark.class.JGxBjlbooxuUHe4E",
+      "transfer": true,
+      "flags": {},
+      "tint": "#ffffff",
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1719967754955,
+        "lastModifiedBy": "AvRW5m1Jijf76WiA",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Hound Playbook",
+      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
+      "_key": "!items.effects!JGxBjlbooxuUHe4E.e4KGBnKo7Wmjrz1I"
+    },
+    {
+      "name": "Hound Action Ratings",
+      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "origin": "Compendium.blades-in-the-dark.class.Item.JGxBjlbooxuUHe4E",
+      "duration": {
+        "rounds": null,
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "ZRDsYoxZzP2Lanz2",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.attributes.insight.skills.hunt.min",
+          "mode": 2,
+          "value": "2",
+          "priority": null
+        },
+        {
+          "key": "system.attributes.insight.skills.survey.min",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.327",
+        "systemId": "blades-in-the-dark",
+        "systemVersion": "5.1.4.0",
+        "createdTime": 1719967725571,
+        "modifiedTime": 1719968104978,
+        "lastModifiedBy": "AvRW5m1Jijf76WiA"
+      },
+      "_key": "!items.effects!JGxBjlbooxuUHe4E.ZRDsYoxZzP2Lanz2"
+    }
+  ],
+  "folder": null,
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!JGxBjlbooxuUHe4E"
+}

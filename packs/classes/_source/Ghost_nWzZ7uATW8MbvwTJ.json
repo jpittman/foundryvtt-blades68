@@ -1,0 +1,207 @@
+{
+  "_id": "nWzZ7uATW8MbvwTJ",
+  "name": "Ghost",
+  "type": "class",
+  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.6_18.png",
+  "system": {
+    "description": "A disembodied spirit, craving vengeance",
+    "logic": "[\n{\"attribute\":\"data.stress.name\",\"operator\":\"attribute_change\",\"value\":\"BITD.Drain\",\"requirement\":\"\"},\n{\"attribute\":\"data.trauma.name\",\"operator\":\"attribute_change\",\"value\":\"BITD.Gloom\",\"requirement\":\"\"}\n]",
+    "experience_clues": "You exact vengeance upon those you deem deserving - You express your outrage or anger.",
+    "base_skills": {
+      "hunt": [
+        1
+      ],
+      "study": [
+        0
+      ],
+      "survey": [
+        0
+      ],
+      "tinker": [
+        0
+      ],
+      "finesse": [
+        0
+      ],
+      "prowl": [
+        1
+      ],
+      "skirmish": [
+        0
+      ],
+      "wreck": [
+        0
+      ],
+      "attune": [
+        1
+      ],
+      "command": [
+        0
+      ],
+      "consort": [
+        0
+      ],
+      "sway": [
+        0
+      ]
+    }
+  },
+  "effects": [
+    {
+      "_id": "C1OuwtxoYPfQfacD",
+      "changes": [
+        {
+          "key": "system.acquaintances_label",
+          "mode": 5,
+          "value": "BITD.EnemiesRivals",
+          "priority": null
+        },
+        {
+          "key": "system.stress.name",
+          "mode": 5,
+          "value": "BITD.Drain",
+          "priority": null
+        },
+        {
+          "key": "system.trauma.name",
+          "mode": 5,
+          "value": "BITD.Gloom",
+          "priority": null
+        },
+        {
+          "key": "system.trauma.options",
+          "mode": 5,
+          "value": "[\"BITD.TraumaChaotic\", \"BITD.TraumaDestructive\", \"BITD.TraumaFurious\", \"BITD.TraumaObsessive\", \"BITD.TraumaTerritorial\", \"BITD.TraumaSavage\"]",
+          "priority": null
+        },
+        {
+          "key": "system.experience_clues",
+          "mode": 5,
+          "value": "[\"BITD.ExpStruggledNeedGloom\", \"BITD.ExpExpressedAnger\", \"BITD.ExpExactedVengeance\"]",
+          "priority": null
+        },
+        {
+          "key": "system.playbook",
+          "mode": 5,
+          "value": "Ghost",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "origin": "Compendium.blades-in-the-dark.class.GjmMFKjGfUaoDiTr",
+      "transfer": true,
+      "flags": {},
+      "tint": "#ffffff",
+      "name": "Ghost",
+      "description": "",
+      "statuses": [],
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1719967281899,
+        "lastModifiedBy": "AvRW5m1Jijf76WiA",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "type": "base",
+      "system": {},
+      "sort": 0,
+      "_key": "!items.effects!nWzZ7uATW8MbvwTJ.C1OuwtxoYPfQfacD"
+    },
+    {
+      "name": "Ghost Action Ratings",
+      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "origin": "Compendium.blades-in-the-dark.class.Item.nWzZ7uATW8MbvwTJ",
+      "duration": {
+        "rounds": null,
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "Dc02eqkrL5IV5Vnc",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.attributes.insight.skills.hunt.min",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        },
+        {
+          "key": "system.attributes.prowess.skills.prowl.min",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        },
+        {
+          "key": "system.attributes.resolve.skills.attune.min",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.327",
+        "systemId": "blades-in-the-dark",
+        "systemVersion": "5.1.4.0",
+        "createdTime": 1719967330569,
+        "modifiedTime": 1719967670604,
+        "lastModifiedBy": "AvRW5m1Jijf76WiA"
+      },
+      "_key": "!items.effects!nWzZ7uATW8MbvwTJ.Dc02eqkrL5IV5Vnc"
+    }
+  ],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.blades-in-the-dark.class.GjmMFKjGfUaoDiTr"
+    },
+    "exportSource": {
+      "world": "blades",
+      "system": "blades-in-the-dark",
+      "coreVersion": "10.291",
+      "systemVersion": "4.6"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ObIyIN2CggLIOVUw": 3
+  },
+  "_stats": {
+    "systemId": "blades-in-the-dark",
+    "systemVersion": "4.9",
+    "coreVersion": "12.327",
+    "createdTime": 1686682646892,
+    "modifiedTime": 1711074720134,
+    "lastModifiedBy": "B7A33cKMwj3J5fQB",
+    "compendiumSource": "Compendium.blades-in-the-dark.class.GjmMFKjGfUaoDiTr",
+    "duplicateSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!nWzZ7uATW8MbvwTJ"
+}

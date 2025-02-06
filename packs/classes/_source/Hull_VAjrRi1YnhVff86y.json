@@ -1,0 +1,201 @@
+{
+  "_id": "VAjrRi1YnhVff86y",
+  "name": "Hull",
+  "type": "class",
+  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.1_80.png",
+  "system": {
+    "description": "A spirit animating a spark-craft frame",
+    "logic": "[\n{\"attribute\":\"data.stress.max\",\"operator\":\"addition\",\"value\":1,\"requirement\":\"\"},{\"attribute\":\"data.stress.name\",\"operator\":\"attribute_change\",\"value\":\"BITD.Drain\",\"requirement\":\"\"},\n{\"attribute\":\"data.trauma.name\",\"operator\":\"attribute_change\",\"value\":\"BITD.Wear\",\"requirement\":\"\"}\n]",
+    "experience_clues": "You fulfill your functions despite difficulty or danger.- You suppress or ignore your former human qualities (OVERRIDES DEFAULT EXP CLUES).",
+    "base_skills": {
+      "hunt": [
+        0
+      ],
+      "study": [
+        0
+      ],
+      "survey": [
+        0
+      ],
+      "tinker": [
+        0
+      ],
+      "finesse": [
+        0
+      ],
+      "prowl": [
+        0
+      ],
+      "skirmish": [
+        1
+      ],
+      "wreck": [
+        0
+      ],
+      "attune": [
+        1
+      ],
+      "command": [
+        0
+      ],
+      "consort": [
+        0
+      ],
+      "sway": [
+        0
+      ]
+    }
+  },
+  "effects": [
+    {
+      "_id": "yr5VMN1tPcW1JQb4",
+      "changes": [
+        {
+          "key": "system.acquaintances_label",
+          "mode": 5,
+          "value": "BITD.Blank",
+          "priority": null
+        },
+        {
+          "key": "system.stress.name",
+          "mode": 5,
+          "value": "BITD.Drain",
+          "priority": null
+        },
+        {
+          "key": "system.trauma.name",
+          "mode": 5,
+          "value": "BITD.Wear",
+          "priority": null
+        },
+        {
+          "key": "system.trauma.options",
+          "mode": 5,
+          "value": "[\"BITD.TraumaClanking\", \"BITD.TraumaLeaking\", \"BITD.TraumaFixated\", \"BITD.TraumaSmoking\", \"BITD.TraumaSparking\", \"BITD.TraumaUnstable\"]",
+          "priority": null
+        },
+        {
+          "key": "system.experience_clues",
+          "mode": 5,
+          "value": "[\"BITD.ExpStruggledWear\", \"BITD.ExpSuppressedHumanLife\", \"BITD.ExpFulfilledFunctions\"]",
+          "priority": null
+        },
+        {
+          "key": "system.playbook",
+          "mode": 5,
+          "value": "Hull",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "origin": "Compendium.blades-in-the-dark.class.rhFEHGjEP61N9hfv",
+      "transfer": true,
+      "flags": {},
+      "tint": "#ffffff",
+      "name": "Hull Playbook",
+      "description": "",
+      "statuses": [],
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1719967916631,
+        "lastModifiedBy": "AvRW5m1Jijf76WiA",
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "type": "base",
+      "system": {},
+      "sort": 0,
+      "_key": "!items.effects!VAjrRi1YnhVff86y.yr5VMN1tPcW1JQb4"
+    },
+    {
+      "name": "Hull Action Ratings",
+      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "origin": "Compendium.blades-in-the-dark.class.Item.VAjrRi1YnhVff86y",
+      "duration": {
+        "rounds": null,
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "RyrJ9zHewYnCbwbw",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.attributes.prowess.skills.skirmish.min",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        },
+        {
+          "key": "system.attributes.resolve.skills.attune.min",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.327",
+        "systemId": "blades-in-the-dark",
+        "systemVersion": "5.1.4.0",
+        "createdTime": 1719967961938,
+        "modifiedTime": 1719968062616,
+        "lastModifiedBy": "AvRW5m1Jijf76WiA"
+      },
+      "_key": "!items.effects!VAjrRi1YnhVff86y.RyrJ9zHewYnCbwbw"
+    }
+  ],
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.blades-in-the-dark.class.rhFEHGjEP61N9hfv"
+    },
+    "exportSource": {
+      "world": "blades",
+      "system": "blades-in-the-dark",
+      "coreVersion": "10.291",
+      "systemVersion": "4.6"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "ObIyIN2CggLIOVUw": 3
+  },
+  "_stats": {
+    "systemId": "blades-in-the-dark",
+    "systemVersion": "4.9",
+    "coreVersion": "12.327",
+    "createdTime": 1686640027168,
+    "modifiedTime": 1711074610810,
+    "lastModifiedBy": "B7A33cKMwj3J5fQB",
+    "compendiumSource": "Compendium.blades-in-the-dark.class.rhFEHGjEP61N9hfv",
+    "duplicateSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!VAjrRi1YnhVff86y"
+}
