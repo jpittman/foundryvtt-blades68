@@ -1,0 +1,27 @@
+{
+  "_id": "0GbyUKjjMof6D8fb",
+  "name": "Faith",
+  "type": "vice",
+  "system": {
+    "description": "- Mother Narya, House of the Weeping Lady, Six Towers.\n- Ilacille, the ruins of the Temple to forgotten gods, Coalridge.\n- Nelisanne, The Church of the Ecstasy of the Flesh, Brightstone.\n- Lord Penderyn, the Archive of Echoes, Charterhall."
+  },
+  "folder": "Jz1yD35kaDA2NZtZ",
+  "sort": 100000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!0GbyUKjjMof6D8fb"
+}

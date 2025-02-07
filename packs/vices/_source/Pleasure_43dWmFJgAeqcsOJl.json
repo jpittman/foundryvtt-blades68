@@ -1,0 +1,27 @@
+{
+  "_id": "43dWmFJgAeqcsOJl",
+  "name": "Pleasure",
+  "type": "vice",
+  "system": {
+    "description": "- Singer, bath house, Crow’s Foot.\n- Harvale Brogan, the Centuralia Club, Brightstone.\n- Dunridge & Sons fine fabrics and tailoring, Nightmarket.\n- Chef Roselle, the Golden Plum restaurant, Six Towers.\n- Maestro Helleren, Spiregarden theater, Whitecrown.\n- Mardin Gull, the Leaky Bucket, tavern,  Crow’s Foot.\n- Pux Bolin, the Harping Monkey, tavern, Nightmarket.\n- Helene, Silver Stag casino, Silkshore.\n- Lady Freyla, the Emperor’s Cask, bar, Whitecrown.\n- Avrick, powder dealer, Barrowcleft.\n- Rolan Volaris, the Veil, social club, Nightmarket.\n- Madame Tesslyn, the Red Lamp,  brothel, Silkshore.\n- Eldrin Prichard, the Silver Swan pleasure barge, Brightstone canals.\n- Jewel, Bird, and Shine, Catcrawl Alley, the Docks.\n- Traven’s smoke shop, Coalridge."
+  },
+  "folder": "Jz1yD35kaDA2NZtZ",
+  "sort": 500000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!43dWmFJgAeqcsOJl"
+}
