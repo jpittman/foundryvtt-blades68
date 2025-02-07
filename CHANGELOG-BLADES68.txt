@@ -1,0 +1,9 @@
+v.0.0.1
+- Updated metadata on existing Blades system to new Blades '68.
+- Added header image for Blades '68 and configured it for the system.
+- Serializing data in the repository via json files.
+	- Removed old approach that stored binary files, plus cruft.
+	- Made use of the foundryVTT-cli approach to packing and unpacking of data.
+	- Added scripts to serialize and deserialize the data for dev and testing.
+	- Added in scripts to do that as apart of the release process.
+
