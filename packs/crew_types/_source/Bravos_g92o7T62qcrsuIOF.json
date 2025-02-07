@@ -1,0 +1,196 @@
+{
+  "_id": "g92o7T62qcrsuIOF",
+  "name": "Bravos",
+  "type": "crew_type",
+  "system": {
+    "description": "<p>Mercenaries, Thugs, &amp; Killers</p>",
+    "experience_clues": "- Execute a successful battle, extortion, sabotage, or smash & grab operation.\n- Contend with challenges above your current station.\n- Bolster your crew's reputation or develop a new one.\n- Express the goals, drives, inner conflict, or essential nature of the crew.",
+    "turfs": {
+      "1": {
+        "name": "Barracks",
+        "value": false,
+        "description": "Your <b>Thug</b> cohorts get <b>+1 scale</b>.",
+        "connects": {
+          "left": false,
+          "top": false,
+          "right": true,
+          "bottom": true
+        }
+      },
+      "2": {
+        "name": "BITD.Turf",
+        "value": false,
+        "description": "",
+        "connects": {
+          "left": true,
+          "top": false,
+          "right": true,
+          "bottom": false
+        }
+      },
+      "3": {
+        "name": "Terrorized Citizens",
+        "value": false,
+        "description": "You get <b>+2 coin</b> in <b>payoff</b> for scores that involve battle or extortion.",
+        "connects": {
+          "left": true,
+          "top": false,
+          "right": false,
+          "bottom": true
+        }
+      },
+      "4": {
+        "name": "Informants",
+        "value": false,
+        "description": "You get <b>+1d</b> to gather information for a score.",
+        "connects": {
+          "left": false,
+          "top": false,
+          "right": true,
+          "bottom": true
+        }
+      },
+      "5": {
+        "name": "Protection Racket",
+        "value": false,
+        "description": "During downtime, roll <b>Tier</b> dice. Earn <b>coin</b> equal to the highest result, minus your <b>heat</b>.",
+        "connects": {
+          "left": true,
+          "top": false,
+          "right": false,
+          "bottom": false
+        }
+      },
+      "6": {
+        "name": "Fighting Pits",
+        "value": false,
+        "description": "During downtime, roll <b>Tier</b> dice. Earn <b>coin</b> equal to the highest result, minus your <b>heat</b>.",
+        "connects": {
+          "left": false,
+          "top": true,
+          "right": true,
+          "bottom": true
+        }
+      },
+      "7": {
+        "name": "BITD.Turf",
+        "value": false,
+        "description": "",
+        "connects": {
+          "left": true,
+          "top": false,
+          "right": true,
+          "bottom": true
+        }
+      },
+      "8": {
+        "name": "BITD.Lair",
+        "value": true,
+        "description": "",
+        "connects": {
+          "left": true,
+          "top": true,
+          "right": true,
+          "bottom": true
+        }
+      },
+      "9": {
+        "name": "BITD.Turf",
+        "value": false,
+        "description": "",
+        "connects": {
+          "left": true,
+          "top": true,
+          "right": true,
+          "bottom": true
+        }
+      },
+      "10": {
+        "name": "BITD.Turf",
+        "value": false,
+        "description": "",
+        "connects": {
+          "left": true,
+          "top": true,
+          "right": false,
+          "bottom": true
+        }
+      },
+      "11": {
+        "name": "Infirmary",
+        "value": false,
+        "description": "You get <b>+1d</b> to healing treatment rolls.",
+        "connects": {
+          "left": false,
+          "top": true,
+          "right": true,
+          "bottom": false
+        }
+      },
+      "12": {
+        "name": "Bluecoat Intimidation",
+        "value": false,
+        "description": "You get <b>-2 heat</b> per score.",
+        "connects": {
+          "left": true,
+          "top": true,
+          "right": false,
+          "bottom": false
+        }
+      },
+      "13": {
+        "name": "Street Fence",
+        "value": false,
+        "description": "You get <b>+2 coin</b> in your payoff for scores that involve lower-class targets.",
+        "connects": {
+          "left": false,
+          "top": true,
+          "right": true,
+          "bottom": false
+        }
+      },
+      "14": {
+        "name": "Warehouses",
+        "value": false,
+        "description": "You get <b>+1d</b> to <b>acquire asset</b> rolls.",
+        "connects": {
+          "left": true,
+          "top": true,
+          "right": true,
+          "bottom": false
+        }
+      },
+      "15": {
+        "name": "Bluecoat Confederates",
+        "value": false,
+        "description": "You get <b>+1d</b> to the <b>engagement roll</b> for <b>assault</b> plans.",
+        "connects": {
+          "left": true,
+          "top": true,
+          "right": false,
+          "bottom": false
+        }
+      }
+    }
+  },
+  "folder": null,
+  "sort": 200001,
+  "flags": {},
+  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_31.png",
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "_stats": {
+    "systemId": "blades-in-the-dark",
+    "systemVersion": "4.9",
+    "coreVersion": "12.328",
+    "createdTime": null,
+    "modifiedTime": 1710725475897,
+    "lastModifiedBy": "B7A33cKMwj3J5fQB",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!g92o7T62qcrsuIOF"
+}

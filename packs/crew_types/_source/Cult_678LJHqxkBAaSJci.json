@@ -1,0 +1,378 @@
+{
+  "_id": "678LJHqxkBAaSJci",
+  "name": "Cult",
+  "type": "crew_type",
+  "system": {
+    "description": "Acolytes of a Deity",
+    "experience_clues": "<p>- Advance the agenda of your deity or embody its precepts in action. - Contend with challenges above your current station. - Bolster your crew's reputation or develop a new one. - Express the goals, drives, inner conflict, or essential nature of the crew.</p>",
+    "turfs": {
+      "1": {
+        "name": "Cloister",
+        "value": false,
+        "description": "Your <b>Adept</b> cohorts get <b>+1 scale</b>.",
+        "connects": {
+          "left": false,
+          "top": false,
+          "right": true,
+          "bottom": true
+        },
+        "connected": [
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "2": {
+        "name": "Vice Den",
+        "value": false,
+        "description": "During downtime, roll <b>Tier</b> dice. Earn <b>coin</b> equal to the highest result, minus your <b>heat</b>.",
+        "connects": {
+          "left": true,
+          "top": false,
+          "right": true,
+          "bottom": true
+        },
+        "connected": [
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "3": {
+        "name": "Offertory",
+        "value": false,
+        "description": "You get <b>+2 coin</b> in <b>payoff</b> for scores that involve occult operations.",
+        "connects": {
+          "left": true,
+          "top": false,
+          "right": false,
+          "bottom": true
+        },
+        "connected": [
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "4": {
+        "name": "Ancient Obelisk",
+        "value": false,
+        "description": "<b>-1 stress</b> cost for all arcane powers and rituals.",
+        "connects": {
+          "left": false,
+          "top": false,
+          "right": true,
+          "bottom": false
+        },
+        "connected": [
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "5": {
+        "name": "Ancient Tower",
+        "value": false,
+        "description": "You get <b>+1d</b> to <b>Consort</b> with arcane entities on-site.",
+        "connects": {
+          "left": true,
+          "top": false,
+          "right": false,
+          "bottom": true
+        },
+        "connected": [
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "6": {
+        "name": "BITD.Turf",
+        "value": false,
+        "description": "",
+        "connects": {
+          "left": false,
+          "top": true,
+          "right": true,
+          "bottom": false
+        },
+        "connected": [
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "7": {
+        "name": "BITD.Turf",
+        "value": false,
+        "description": "",
+        "connects": {
+          "left": true,
+          "top": true,
+          "right": true,
+          "bottom": true
+        },
+        "connected": [
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "8": {
+        "name": "BITD.Lair",
+        "value": true,
+        "description": "",
+        "connects": {
+          "left": true,
+          "top": true,
+          "right": true,
+          "bottom": true
+        },
+        "connected": [
+          false,
+          false,
+          false,
+          true
+        ]
+      },
+      "9": {
+        "name": "BITD.Turf",
+        "value": false,
+        "description": "",
+        "connects": {
+          "left": true,
+          "top": false,
+          "right": true,
+          "bottom": true
+        },
+        "connected": [
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "10": {
+        "name": "BITD.Turf",
+        "value": false,
+        "description": "",
+        "connects": {
+          "left": true,
+          "top": true,
+          "right": false,
+          "bottom": true
+        },
+        "connected": [
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "11": {
+        "name": "Spirit Well",
+        "value": false,
+        "description": "You get <b>+1d</b> to <b>Attune</b> rolls on-site.",
+        "connects": {
+          "left": false,
+          "top": false,
+          "right": true,
+          "bottom": false
+        },
+        "connected": [
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "12": {
+        "name": "Ancient Gate",
+        "value": false,
+        "description": "Safe passage in the Deathlands.",
+        "connects": {
+          "left": true,
+          "top": true,
+          "right": false,
+          "bottom": false
+        },
+        "connected": [
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "13": {
+        "name": "Sanctuary",
+        "value": false,
+        "description": "You get <b>+1d</b> to <b>Command</b> and <b>Sway</b> on-site.",
+        "connects": {
+          "left": false,
+          "top": true,
+          "right": false,
+          "bottom": false
+        },
+        "connected": [
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "14": {
+        "name": "Sacred Nexus",
+        "value": false,
+        "description": "You get <b>+1d</b> to healing treatment rolls.",
+        "connects": {
+          "left": false,
+          "top": true,
+          "right": true,
+          "bottom": false
+        },
+        "connected": [
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "15": {
+        "name": "Ancient Altar",
+        "value": false,
+        "description": "You get <b>+1d</b> to the <b>engagement roll</b> for <b>occult</b> plans.",
+        "connects": {
+          "left": true,
+          "top": true,
+          "right": false,
+          "bottom": false
+        },
+        "connected": [
+          false,
+          false,
+          false,
+          false
+        ]
+      }
+    }
+  },
+  "folder": null,
+  "sort": 100001,
+  "flags": {},
+  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.7_29.png",
+  "effects": [
+    {
+      "name": "Sacred Sites",
+      "origin": "Compendium.blades-in-the-dark.crew_type.Item.678LJHqxkBAaSJci",
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "9Z4XShxzsTzRjjEk",
+      "changes": [
+        {
+          "key": "system.hunting_grounds_label",
+          "mode": 5,
+          "value": "BITD.SacredSites",
+          "priority": null
+        }
+      ],
+      "description": "",
+      "transfer": true,
+      "statuses": [],
+      "flags": {},
+      "tint": "#ffffff",
+      "_stats": {
+        "coreVersion": "12.328",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "type": "base",
+      "system": {},
+      "sort": 0,
+      "_key": "!items.effects!678LJHqxkBAaSJci.9Z4XShxzsTzRjjEk"
+    },
+    {
+      "name": "Deity Description",
+      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "origin": "Compendium.blades-in-the-dark.crew_type.Item.678LJHqxkBAaSJci",
+      "duration": {
+        "rounds": null,
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "IR7b5pFklAEGrPsb",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.rep2.visible",
+          "mode": 5,
+          "value": "true",
+          "priority": null
+        },
+        {
+          "key": "system.rep2.label",
+          "mode": 5,
+          "value": "BITD.DeityDescription",
+          "priority": null
+        }
+      ],
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.330",
+        "systemId": "blades-in-the-dark",
+        "systemVersion": "5.3.2",
+        "createdTime": 1737313429762,
+        "modifiedTime": 1737313567996,
+        "lastModifiedBy": "AvRW5m1Jijf76WiA"
+      },
+      "_key": "!items.effects!678LJHqxkBAaSJci.IR7b5pFklAEGrPsb"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "systemId": "blades-in-the-dark",
+    "systemVersion": "4.9",
+    "coreVersion": "12.328",
+    "createdTime": 1710719871336,
+    "modifiedTime": 1710807307667,
+    "lastModifiedBy": "B7A33cKMwj3J5fQB",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!678LJHqxkBAaSJci"
+}

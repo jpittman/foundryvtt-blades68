@@ -1,0 +1,240 @@
+{
+  "_id": "WV5R1gcd0eRWY7dk",
+  "name": "Smugglers",
+  "type": "crew_type",
+  "system": {
+    "description": "<p>Suppliers of illicit goods</p>",
+    "experience_clues": "- Execute a successful smuggling or acquire new clients or contraband sources.\n- Contend with challenges above your current station.\n- Bolster your crew's reputation or develop a new one.\n- Express the goals, drives, inner conflict, or essential nature of the crew.",
+    "turfs": {
+      "1": {
+        "name": "BITD.Turf",
+        "value": false,
+        "description": "",
+        "connects": {
+          "left": false,
+          "top": false,
+          "right": true,
+          "bottom": true
+        }
+      },
+      "2": {
+        "name": "Side Business",
+        "value": false,
+        "description": "During downtime, roll <b>Tier</b> dice. Earn <b>coin</b> equal to the highest result, minus your <b>heat</b>.",
+        "connects": {
+          "left": true,
+          "top": false,
+          "right": true,
+          "bottom": true
+        }
+      },
+      "3": {
+        "name": "Luxury Fence",
+        "value": false,
+        "description": "You get <b>+2 coin</b> in your payoff for scores that involve high-class targets.",
+        "connects": {
+          "left": true,
+          "top": false,
+          "right": false,
+          "bottom": true
+        }
+      },
+      "4": {
+        "name": "Vice Den",
+        "value": false,
+        "description": "During downtime, roll <b>Tier</b> dice. Earn <b>coin</b> equal to the highest result, minus your <b>heat</b>.",
+        "connects": {
+          "left": false,
+          "top": false,
+          "right": true,
+          "bottom": true
+        }
+      },
+      "5": {
+        "name": "Tavern",
+        "value": false,
+        "description": "You get <b>+1d</b> to <b>Consort</b> and <b>Sway</b> rolls on-site.",
+        "connects": {
+          "left": true,
+          "top": false,
+          "right": false,
+          "bottom": true
+        }
+      },
+      "6": {
+        "name": "Ancient Gate",
+        "value": false,
+        "description": "Safe passage in Deathlands.",
+        "connects": {
+          "left": false,
+          "top": true,
+          "right": false,
+          "bottom": true
+        }
+      },
+      "7": {
+        "name": "BITD.Turf",
+        "value": false,
+        "description": "",
+        "connects": {
+          "left": false,
+          "top": true,
+          "right": true,
+          "bottom": true
+        }
+      },
+      "8": {
+        "name": "BITD.Lair",
+        "value": true,
+        "description": "",
+        "connects": {
+          "left": true,
+          "top": true,
+          "right": true,
+          "bottom": true
+        }
+      },
+      "9": {
+        "name": "BITD.Turf",
+        "value": false,
+        "description": "",
+        "connects": {
+          "left": true,
+          "top": true,
+          "right": true,
+          "bottom": true
+        }
+      },
+      "10": {
+        "name": "BITD.Turf",
+        "value": false,
+        "description": "",
+        "connects": {
+          "left": true,
+          "top": true,
+          "right": false,
+          "bottom": true
+        }
+      },
+      "11": {
+        "name": "Secret Routes",
+        "value": false,
+        "description": "You get <b>+1d</b> to the <b>engagement roll</b> for <b>transport</b> plans.",
+        "connects": {
+          "left": false,
+          "top": true,
+          "right": true,
+          "bottom": false
+        }
+      },
+      "12": {
+        "name": "Informants",
+        "value": false,
+        "description": "You get <b>+1d</b> to gather information for a score.",
+        "connects": {
+          "left": true,
+          "top": true,
+          "right": false,
+          "bottom": false
+        }
+      },
+      "13": {
+        "name": "Fleet",
+        "value": false,
+        "description": "Your cohorts have their own vehicles.",
+        "connects": {
+          "left": false,
+          "top": true,
+          "right": false,
+          "bottom": false
+        }
+      },
+      "14": {
+        "name": "Cover Operation",
+        "value": false,
+        "description": "You get <b>-2 heat</b> per score.",
+        "connects": {
+          "left": false,
+          "top": true,
+          "right": true,
+          "bottom": false
+        }
+      },
+      "15": {
+        "name": "Warehouses",
+        "value": false,
+        "description": "You get <b>+1d</b> to <b>acquire asset</b> rolls.",
+        "connects": {
+          "left": true,
+          "top": true,
+          "right": false,
+          "bottom": false
+        }
+      }
+    }
+  },
+  "folder": null,
+  "sort": 500001,
+  "flags": {},
+  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.6_46.png",
+  "effects": [
+    {
+      "name": "Cargo Types",
+      "origin": "Compendium.blades-in-the-dark.crew_type.Item.WV5R1gcd0eRWY7dk",
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "wznLXNvf3EKwKylZ",
+      "changes": [
+        {
+          "key": "system.hunting_grounds_label",
+          "mode": 5,
+          "value": "BITD.CargoTypes",
+          "priority": null
+        }
+      ],
+      "description": "",
+      "transfer": true,
+      "statuses": [],
+      "flags": {},
+      "tint": "#ffffff",
+      "_stats": {
+        "coreVersion": "12.328",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "type": "base",
+      "system": {},
+      "sort": 0,
+      "_key": "!items.effects!WV5R1gcd0eRWY7dk.wznLXNvf3EKwKylZ"
+    }
+  ],
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "_stats": {
+    "systemId": "blades-in-the-dark",
+    "systemVersion": "4.9",
+    "coreVersion": "12.328",
+    "createdTime": 1710725273520,
+    "modifiedTime": 1710807359633,
+    "lastModifiedBy": "B7A33cKMwj3J5fQB",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!WV5R1gcd0eRWY7dk"
+}
