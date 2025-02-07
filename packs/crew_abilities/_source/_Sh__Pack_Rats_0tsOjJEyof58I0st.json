@@ -1,0 +1,32 @@
+{
+  "_id": "0tsOjJEyof58I0st",
+  "name": "(Sh) Pack Rats",
+  "type": "crew_ability",
+  "system": {
+    "description": "Your lair is a jumble of stolen items. When you roll to acquire an asset, take +1d.",
+    "class": "Shadows",
+    "price": "1",
+    "purchased": false,
+    "class_default": false
+  },
+  "folder": null,
+  "sort": 2800001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!0tsOjJEyof58I0st"
+}

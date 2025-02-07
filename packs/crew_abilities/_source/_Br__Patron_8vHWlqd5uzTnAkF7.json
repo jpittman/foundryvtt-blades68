@@ -1,0 +1,32 @@
+{
+  "_id": "8vHWlqd5uzTnAkF7",
+  "name": "(Br) Patron",
+  "type": "crew_ability",
+  "system": {
+    "description": "When you advance your Tier, it costs half the coin it normally would. Who is your patron? Why do they help you?",
+    "class": "Bravos",
+    "price": "1",
+    "purchased": false,
+    "class_default": false
+  },
+  "folder": null,
+  "sort": 1400001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!8vHWlqd5uzTnAkF7"
+}

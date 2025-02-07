@@ -1,0 +1,32 @@
+{
+  "_id": "2ChYseY3wDC7CXy1",
+  "name": "(H) Accord",
+  "type": "crew_ability",
+  "system": {
+    "description": "Sometimes  friends  are  as  good  as  territory.  You  may  count up to three +3 faction statuses you hold as if they are turf.",
+    "class": "Hawkers",
+    "price": "1",
+    "purchased": false,
+    "class_default": false
+  },
+  "folder": null,
+  "sort": 1900001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!2ChYseY3wDC7CXy1"
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "Zaqqsd7hyClYnxB9",
+  "name": "(C) Chosen",
+  "type": "crew_ability",
+  "system": {
+    "description": "Each PC may add +1 action rating to Attune, Study, or Sway (up to a max rating of 3).",
+    "class": "Cult",
+    "price": "1",
+    "purchased": false,
+    "class_default": false
+  },
+  "folder": null,
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "_key": "!items!Zaqqsd7hyClYnxB9"
+}

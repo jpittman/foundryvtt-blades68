@@ -1,0 +1,32 @@
+{
+  "_id": "E2qeBJPNpuJ0d6E0",
+  "name": "(H) Veteran",
+  "type": "crew_ability",
+  "system": {
+    "description": "Choose a special ability from another crew.",
+    "class": "Hawkers",
+    "price": "2",
+    "purchased": false,
+    "class_default": false
+  },
+  "folder": null,
+  "sort": 2500001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!E2qeBJPNpuJ0d6E0"
+}

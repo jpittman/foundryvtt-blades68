@@ -1,0 +1,32 @@
+{
+  "_id": "Osh2XOrfWVxi5PSo",
+  "name": "(Sh) Slippery",
+  "type": "crew_ability",
+  "system": {
+    "description": "When you roll entanglements, roll twice and keep the one you want. When you reduce heat on the crew, take +1d.",
+    "class": "Shadows",
+    "price": "1",
+    "purchased": false,
+    "class_default": false
+  },
+  "folder": null,
+  "sort": 3100001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Osh2XOrfWVxi5PSo"
+}

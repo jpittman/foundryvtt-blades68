@@ -1,0 +1,32 @@
+{
+  "_id": "CL18nKNdhXqjFNzv",
+  "name": "(H) Silver Tongues",
+  "type": "crew_ability",
+  "system": {
+    "description": "Each PC may add +1 action rating to Command, Consort, or Sway (up to a max rating of 3).",
+    "class": "Hawkers",
+    "price": "1",
+    "purchased": false,
+    "class_default": false
+  },
+  "folder": null,
+  "sort": 1800001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!CL18nKNdhXqjFNzv"
+}

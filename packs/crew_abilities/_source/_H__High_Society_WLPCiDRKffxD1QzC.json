@@ -1,0 +1,32 @@
+{
+  "_id": "WLPCiDRKffxD1QzC",
+  "name": "(H) High Society",
+  "type": "crew_ability",
+  "system": {
+    "description": "It's all about who you know. Take -1 heat during downtime and +1d to gather info about the city's elite.",
+    "class": "Hawkers",
+    "price": "1",
+    "purchased": false,
+    "class_default": false
+  },
+  "folder": null,
+  "sort": 2200001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!WLPCiDRKffxD1QzC"
+}

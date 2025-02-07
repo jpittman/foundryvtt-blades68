@@ -1,0 +1,32 @@
+{
+  "_id": "lU3qfE0CS33D3Ire",
+  "name": "(H) Hooked",
+  "type": "crew_ability",
+  "system": {
+    "description": "Your gang members use your product. Add the savage,unreliable, or wild flaw to your gangs to give them +1 quality.",
+    "class": "Hawkers",
+    "price": "1",
+    "purchased": false,
+    "class_default": false
+  },
+  "folder": null,
+  "sort": 2300001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!lU3qfE0CS33D3Ire"
+}

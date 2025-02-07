@@ -1,0 +1,32 @@
+{
+  "_id": "RSVMhP1X0A5sxDYd",
+  "name": "(Br) Forged In The Fire",
+  "type": "crew_ability",
+  "system": {
+    "description": "Each PC has been toughened by cruel experience. You get +1d to resistance rolls.",
+    "class": "Bravos",
+    "price": "1",
+    "purchased": false,
+    "class_default": false
+  },
+  "folder": null,
+  "sort": 1300001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!RSVMhP1X0A5sxDYd"
+}

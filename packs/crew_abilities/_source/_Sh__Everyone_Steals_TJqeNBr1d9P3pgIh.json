@@ -1,0 +1,32 @@
+{
+  "_id": "TJqeNBr1d9P3pgIh",
+  "name": "(Sh) Everyone Steals",
+  "type": "crew_ability",
+  "system": {
+    "description": "Each PC may add +1 action rating to Prowl, Finesse, or Tinker (up to a max rating of 3).",
+    "class": "Shadows",
+    "price": "1",
+    "purchased": false,
+    "class_default": false
+  },
+  "folder": null,
+  "sort": 2600001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!TJqeNBr1d9P3pgIh"
+}

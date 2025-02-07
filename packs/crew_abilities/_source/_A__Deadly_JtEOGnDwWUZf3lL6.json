@@ -1,0 +1,32 @@
+{
+  "_id": "JtEOGnDwWUZf3lL6",
+  "name": "(A) Deadly",
+  "type": "crew_ability",
+  "system": {
+    "description": "Each PC may add +1 action rating to Hunt, Prowl, or Skirmish (up to a max rating of 3).",
+    "class": "Assassins",
+    "price": "1",
+    "purchased": false,
+    "class_default": false
+  },
+  "folder": null,
+  "sort": 100001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!JtEOGnDwWUZf3lL6"
+}

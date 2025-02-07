@@ -1,0 +1,32 @@
+{
+  "_id": "R41SLHgLaq8TJa6N",
+  "name": "(Sh) Second Story",
+  "type": "crew_ability",
+  "system": {
+    "description": "When you execute a clandestine infiltration, you get +1d to the engagement roll.",
+    "class": "Shadows",
+    "price": "1",
+    "purchased": false,
+    "class_default": false
+  },
+  "folder": null,
+  "sort": 3000001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!R41SLHgLaq8TJa6N"
+}

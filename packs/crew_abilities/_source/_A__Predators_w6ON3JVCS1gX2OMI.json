@@ -1,0 +1,32 @@
+{
+  "_id": "w6ON3JVCS1gX2OMI",
+  "name": "(A) Predators",
+  "type": "crew_ability",
+  "system": {
+    "description": "When you use stealth or subterfuge to commit murder, take +1d to the engagement roll.",
+    "class": "Assassins",
+    "price": "1",
+    "purchased": false,
+    "class_default": false
+  },
+  "folder": null,
+  "sort": 600001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!w6ON3JVCS1gX2OMI"
+}

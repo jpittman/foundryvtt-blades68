@@ -1,0 +1,32 @@
+{
+  "_id": "zr7tgtWEL4Ft3ifu",
+  "name": "(C) Anointed",
+  "type": "crew_ability",
+  "system": {
+    "description": "You get +1d to resistance rolls against supernatural threats. You get +1d to healing rolls when you have supernatural harm.",
+    "class": "Cult",
+    "price": "1",
+    "purchased": false,
+    "class_default": false
+  },
+  "folder": null,
+  "sort": 200001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "_key": "!items!zr7tgtWEL4Ft3ifu"
+}
