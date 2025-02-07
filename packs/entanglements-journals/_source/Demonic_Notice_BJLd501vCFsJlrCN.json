@@ -1,0 +1,65 @@
+{
+  "name": "Demonic Notice",
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {
+      "sourceId": "JournalEntry.cxGl35wCdByk8N9x"
+    }
+  },
+  "_id": "BJLd501vCFsJlrCN",
+  "pages": [
+    {
+      "name": "Demonic Notice",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<p>A demon approaches the crew with a dark offer. Accept their bargain, hide until it loses interest (forfeit<strong> 3 rep</strong>), or deal with it another way.</p>"
+      },
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_id": "KkXpB4xr2Z0Yd9fm",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!BJLd501vCFsJlrCN.KkXpB4xr2Z0Yd9fm"
+    }
+  ],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "thWDvNEhl7M3mC2d": 3
+  },
+  "_key": "!journal!BJLd501vCFsJlrCN",
+  "categories": []
+}
