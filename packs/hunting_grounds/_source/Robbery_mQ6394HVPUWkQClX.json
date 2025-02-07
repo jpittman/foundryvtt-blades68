@@ -1,0 +1,29 @@
+{
+  "name": "Robbery",
+  "type": "hunting_grounds",
+  "_id": "mQ6394HVPUWkQClX",
+  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.6_53.png",
+  "system": {
+    "description": "<p>Theft by force or threats.</p>",
+    "class": "Shadows"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 2000000,
+  "ownership": {
+    "default": 0,
+    "B7A33cKMwj3J5fQB": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "blades-in-the-dark",
+    "systemVersion": "4.9",
+    "coreVersion": "12.331",
+    "createdTime": 1710724182226,
+    "modifiedTime": 1710727696525,
+    "lastModifiedBy": "B7A33cKMwj3J5fQB",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!mQ6394HVPUWkQClX"
+}
