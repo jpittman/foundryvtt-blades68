@@ -1,0 +1,35 @@
+{
+  "_id": "ZKTUbCZOIV9VAI0J",
+  "name": "(H) Fine long rifle",
+  "type": "item",
+  "system": {
+    "description": "A finely crafted hunting rifle, deadly at long range, unwieldy in close quarters.",
+    "logic": "",
+    "class": "Hound",
+    "load": "2",
+    "uses": 1,
+    "additional_info": "",
+    "equipped": false,
+    "num_available": 1
+  },
+  "folder": null,
+  "sort": 700000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ZKTUbCZOIV9VAI0J"
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "1HFCRcguQS4pS7xR",
+  "name": "(H) Fine pair of pistols",
+  "type": "item",
+  "system": {
+    "description": "A matched pair of handguns, made for greater accuracy, with double barrels that allow for two shots before reloading.",
+    "logic": "",
+    "class": "Hound",
+    "load": "1",
+    "uses": 1,
+    "additional_info": "",
+    "equipped": false,
+    "num_available": 1
+  },
+  "folder": null,
+  "sort": 600000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!1HFCRcguQS4pS7xR"
+}

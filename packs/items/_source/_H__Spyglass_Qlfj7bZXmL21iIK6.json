@@ -1,0 +1,35 @@
+{
+  "_id": "Qlfj7bZXmL21iIK6",
+  "name": "(H) Spyglass",
+  "type": "item",
+  "system": {
+    "description": "A brass tube with lenses that allow long-distance vision. Collapsible. May attach to a rifle.",
+    "logic": "",
+    "class": "Hound",
+    "load": "1",
+    "uses": 1,
+    "additional_info": "",
+    "equipped": false,
+    "num_available": 1
+  },
+  "folder": null,
+  "sort": 1000000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!Qlfj7bZXmL21iIK6"
+}

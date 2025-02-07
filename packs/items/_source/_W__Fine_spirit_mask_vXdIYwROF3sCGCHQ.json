@@ -1,0 +1,35 @@
+{
+  "_id": "vXdIYwROF3sCGCHQ",
+  "name": "(W) Fine spirit mask",
+  "type": "item",
+  "system": {
+    "description": "An arcane item that allows the trained user to see supernatural energies in great detail. Also affords some measure of protection against ghostly possession. Each spirit mask is unique. What does yours look like? What makes it strange and disturbing to see?",
+    "logic": "",
+    "class": "Whisper",
+    "load": "1",
+    "uses": 1,
+    "additional_info": "",
+    "equipped": false,
+    "num_available": 1
+  },
+  "folder": null,
+  "sort": 3200000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!vXdIYwROF3sCGCHQ"
+}

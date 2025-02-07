@@ -1,0 +1,34 @@
+{
+  "_id": "cIa0ZZUXpOcqPtKy",
+  "name": "Climbing Gear",
+  "type": "item",
+  "system": {
+    "description": "A large coil of rope. A small coil of rope. Grappling hooks. A small pouch of chalk dust. A climbing harness with loops and metal rings. A set of iron pitons and a small mallet.",
+    "logic": "",
+    "class": "",
+    "load": "2",
+    "uses": 1,
+    "additional_info": "",
+    "equipped": false,
+    "num_available": 1
+  },
+  "sort": 1000000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "folder": null,
+  "_key": "!items!cIa0ZZUXpOcqPtKy"
+}

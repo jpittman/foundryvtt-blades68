@@ -1,0 +1,34 @@
+{
+  "_id": "y9WkdMK6v8GxweL5",
+  "name": "A 2nd Pistol",
+  "type": "item",
+  "system": {
+    "description": "A heavy, single-shot, breech-loading firearm. Devastating at 20 paces, slow to reload.",
+    "logic": "",
+    "class": "",
+    "load": "1",
+    "uses": 1,
+    "additional_info": "",
+    "equipped": false,
+    "num_available": 1
+  },
+  "sort": 400000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "folder": null,
+  "_key": "!items!y9WkdMK6v8GxweL5"
+}

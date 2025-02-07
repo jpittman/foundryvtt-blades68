@@ -1,0 +1,35 @@
+{
+  "_id": "xaGzKxPZbV4PwfMN",
+  "name": "(Le) Bandolier",
+  "type": "item",
+  "system": {
+    "description": "A strap worn across the body, fitted with specially-padded pouches to hold three alchemical agents or spark-craft bombs. When you employ an alchemical or bomb from a bandolier, choose one from the list at right (or one of your custom-made formulas). See page 226 for more on alchemicals and bombs. During downtime, you automatically refill your bandoliers, so long as you have reasonable access to a supplier or workshop.",
+    "logic": "",
+    "class": "Leech",
+    "load": "1",
+    "uses": 1,
+    "additional_info": "",
+    "equipped": false,
+    "num_available": 1
+  },
+  "folder": null,
+  "sort": 1400000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!xaGzKxPZbV4PwfMN"
+}

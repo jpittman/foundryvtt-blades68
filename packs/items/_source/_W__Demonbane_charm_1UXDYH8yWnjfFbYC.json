@@ -1,0 +1,35 @@
+{
+  "_id": "1UXDYH8yWnjfFbYC",
+  "name": "(W) Demonbane charm",
+  "type": "item",
+  "system": {
+    "description": "An arcane trinket that demons prefer to avoid.",
+    "logic": "",
+    "class": "Whisper",
+    "load": "0",
+    "uses": 1,
+    "additional_info": "",
+    "equipped": false,
+    "num_available": 1
+  },
+  "folder": null,
+  "sort": 3500000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!1UXDYH8yWnjfFbYC"
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "rfgJiaaxEmBFnbGm",
+  "name": "(W) Ghost key",
+  "type": "item",
+  "system": {
+    "description": "An arcane device that can open ghost doors. There’s an echo of the entire city, across the ages, trapped in the ghost field. Sometimes a door to that place can be found.",
+    "logic": "",
+    "class": "Whisper",
+    "load": "0",
+    "uses": 1,
+    "additional_info": "",
+    "equipped": false,
+    "num_available": 1
+  },
+  "folder": null,
+  "sort": 3400000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!rfgJiaaxEmBFnbGm"
+}

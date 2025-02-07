@@ -1,0 +1,34 @@
+{
+  "_id": "y1tNdNOesmsYbJkv",
+  "name": "Tinkering Tools",
+  "type": "item",
+  "system": {
+    "description": "An assortment for detailed mechanist work: jeweler’s loupe, tweezers, a small hammer, pliers, screwdriver, etc.",
+    "logic": "",
+    "class": "",
+    "load": "1",
+    "uses": 1,
+    "additional_info": "",
+    "equipped": false,
+    "num_available": 1
+  },
+  "sort": 1500000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "folder": null,
+  "_key": "!items!y1tNdNOesmsYbJkv"
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "VVZZ6TR09xgExvqU",
+  "name": "(Sl) Fine disguise kit",
+  "type": "item",
+  "system": {
+    "description": "A theatrical make-up kit equipped with an impressive array of expert appliances to fool the eye. The fine quality of this kit may increase the effect of your deceptive actions when you use it.",
+    "logic": "",
+    "class": "Slide",
+    "load": "1",
+    "uses": 1,
+    "additional_info": "",
+    "equipped": false,
+    "num_available": 1
+  },
+  "folder": null,
+  "sort": 2200000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!VVZZ6TR09xgExvqU"
+}

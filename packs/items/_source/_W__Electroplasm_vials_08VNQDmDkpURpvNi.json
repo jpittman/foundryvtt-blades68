@@ -1,0 +1,35 @@
+{
+  "_id": "08VNQDmDkpURpvNi",
+  "name": "(W) Electroplasm vials",
+  "type": "item",
+  "system": {
+    "description": "",
+    "logic": "",
+    "class": "Whisper",
+    "load": "0",
+    "uses": 1,
+    "additional_info": "",
+    "equipped": false,
+    "num_available": 1
+  },
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "hp9rhyB0AtTZTutm": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!items!08VNQDmDkpURpvNi"
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "RM4Qs7KnUDUWXOiz",
+  "name": "Subterfuge Supplies",
+  "type": "item",
+  "system": {
+    "description": "A theatrical make-up kit. A selection of blank documents, ready for the forger’s hand. Costume jewelry. A reversible cloak and distinctive hat. A forged badge of office.",
+    "logic": "",
+    "class": "",
+    "load": "1",
+    "uses": 1,
+    "additional_info": "",
+    "equipped": false,
+    "num_available": 1
+  },
+  "sort": 1300000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "folder": null,
+  "_key": "!items!RM4Qs7KnUDUWXOiz"
+}

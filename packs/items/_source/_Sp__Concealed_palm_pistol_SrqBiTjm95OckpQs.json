@@ -1,0 +1,35 @@
+{
+  "_id": "SrqBiTjm95OckpQs",
+  "name": "(Sp) Concealed palm pistol",
+  "type": "item",
+  "system": {
+    "description": "A small firearm with a weak charge, easily concealed in a sleeve or waistcoat. This pistol has extremely limited range; only a few feet. It’s very difficult to detect on your person, even if you’re searched.",
+    "logic": "",
+    "class": "Spider",
+    "load": "0",
+    "uses": 1,
+    "additional_info": "",
+    "equipped": false,
+    "num_available": 1
+  },
+  "folder": null,
+  "sort": 3000000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!SrqBiTjm95OckpQs"
+}

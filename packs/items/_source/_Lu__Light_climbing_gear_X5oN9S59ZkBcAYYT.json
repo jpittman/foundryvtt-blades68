@@ -1,0 +1,35 @@
+{
+  "_id": "X5oN9S59ZkBcAYYT",
+  "name": "(Lu) Light climbing gear",
+  "type": "item",
+  "system": {
+    "description": "A well-crafted set of climbing gear that is less bulky and heavy than a standard set.",
+    "logic": "",
+    "class": "Lurk",
+    "load": "1",
+    "uses": 1,
+    "additional_info": "",
+    "equipped": false,
+    "num_available": 1
+  },
+  "folder": null,
+  "sort": 1700000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!X5oN9S59ZkBcAYYT"
+}

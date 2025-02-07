@@ -1,0 +1,34 @@
+{
+  "_id": "MOZAojcYM92lrDcK",
+  "name": "A Large Weapon",
+  "type": "item",
+  "system": {
+    "description": "A weapon meant for two hands. A battle-axe, greatsword, warhammer, or pole-arm. A hunting rifle. A blunderbuss. A bow or crossbow.",
+    "logic": "",
+    "class": "",
+    "load": "2",
+    "uses": 1,
+    "additional_info": "",
+    "equipped": false,
+    "num_available": 1
+  },
+  "sort": 500000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "folder": null,
+  "_key": "!items!MOZAojcYM92lrDcK"
+}
