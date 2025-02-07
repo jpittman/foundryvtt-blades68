@@ -1,0 +1,162 @@
+{
+  "name": "Ironhook Prison",
+  "type": "prison",
+  "_id": "FgWSIa94h0dHrSZr",
+  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.6_41.png",
+  "system": {
+    "description": "",
+    "turfs": {
+      "1": {
+        "name": "Parole Influence",
+        "value": false,
+        "description": "Your prison terms are one level shorter",
+        "connects": {
+          "left": false,
+          "top": false,
+          "right": true,
+          "bottom": true
+        }
+      },
+      "2": {
+        "name": "Smuggling",
+        "value": false,
+        "description": "<b>+2 load</b> while incarcerated",
+        "connects": {
+          "left": true,
+          "top": false,
+          "right": true,
+          "bottom": true
+        }
+      },
+      "3": {
+        "name": "Allied Claim",
+        "value": false,
+        "description": "Take a non-turf claim from a different crew type",
+        "connects": {
+          "left": true,
+          "top": false,
+          "right": false,
+          "bottom": true
+        }
+      },
+      "4": {
+        "name": "Cell Block Control",
+        "value": false,
+        "description": "You don't take trauma from incarceration",
+        "connects": {
+          "left": false,
+          "top": false,
+          "right": false,
+          "bottom": true
+        }
+      },
+      "5": {
+        "name": "Guard Payoff",
+        "value": false,
+        "description": "Take <b>+1d</b> to incarceration rolls",
+        "connects": {
+          "left": false,
+          "top": true,
+          "right": true,
+          "bottom": true
+        }
+      },
+      "6": {
+        "name": "BITD.Prison",
+        "value": 1,
+        "description": "Ironhook",
+        "connects": {
+          "left": true,
+          "top": true,
+          "right": true,
+          "bottom": true
+        }
+      },
+      "7": {
+        "name": "Guard Payoff",
+        "value": false,
+        "description": "Take <b>+1d</b> to incarceration rolls",
+        "connects": {
+          "left": true,
+          "top": true,
+          "right": true,
+          "bottom": true
+        }
+      },
+      "8": {
+        "name": "Allied Claim",
+        "value": false,
+        "description": "Take a non-turf claim from a different crew type",
+        "connects": {
+          "left": true,
+          "top": true,
+          "right": false,
+          "bottom": true
+        }
+      },
+      "9": {
+        "name": "Hardcase",
+        "value": false,
+        "description": "-2 coin cost to advance tier",
+        "connects": {
+          "left": false,
+          "top": true,
+          "right": true,
+          "bottom": false
+        }
+      },
+      "10": {
+        "name": "Smuggling",
+        "value": false,
+        "description": "<b>+2 load</b> while incarcerated",
+        "connects": {
+          "left": true,
+          "top": true,
+          "right": true,
+          "bottom": false
+        }
+      },
+      "11": {
+        "name": "Allied Claim",
+        "value": false,
+        "description": "Take a non-turf claim from a different crew type",
+        "connects": {
+          "left": true,
+          "top": true,
+          "right": true,
+          "bottom": false
+        }
+      },
+      "12": {
+        "name": "Allied Claim",
+        "value": false,
+        "description": "Take a non-turf claim from a different crew type",
+        "connects": {
+          "left": true,
+          "top": true,
+          "right": false,
+          "bottom": false
+        }
+      }
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "B7A33cKMwj3J5fQB": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "blades-in-the-dark",
+    "systemVersion": "4.9",
+    "coreVersion": "12.331",
+    "createdTime": 1710641350815,
+    "modifiedTime": 1710641905985,
+    "lastModifiedBy": "B7A33cKMwj3J5fQB",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!FgWSIa94h0dHrSZr"
+}
