@@ -1,0 +1,27 @@
+{
+  "_id": "RrvbKXClyyNBYFBB",
+  "name": "Severos",
+  "type": "heritage",
+  "system": {
+    "description": "If you want to be from a place considered “wild” by the rest of the empire, you could be from Severos. Outside the few Imperial settlements, most Severosi live in nomadic horse-tribes scattered across the blasted deathlands, surviving within the ruins of ancient arcane fortresses which still repel spirits."
+  },
+  "sort": 400000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "folder": null,
+  "_key": "!items!RrvbKXClyyNBYFBB"
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "ANBgWHbSQVgUQecV",
+  "name": "Iruvia",
+  "type": "heritage",
+  "system": {
+    "description": "If you want to be from a culture considered “foreign” by the locals, you could be from Iruvia, a rich and powerful desert kingdom far to the south. It’s another diverse land of varying cultures similar to old Persia, Egypt, and India."
+  },
+  "sort": 300000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "img": "icons/svg/item-bag.svg",
+  "folder": null,
+  "_key": "!items!ANBgWHbSQVgUQecV"
+}
