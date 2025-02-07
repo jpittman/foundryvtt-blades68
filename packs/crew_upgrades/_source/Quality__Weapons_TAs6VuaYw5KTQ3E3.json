@@ -1,0 +1,32 @@
+{
+  "_id": "TAs6VuaYw5KTQ3E3",
+  "name": "Quality: Weapons",
+  "type": "crew_upgrade",
+  "system": {
+    "crew_type": "",
+    "description": "Upgrade improves the quality rating of all the PCs' items of that type, beyond the quality established by the crew's Tier and fine items.",
+    "class": "",
+    "price": "1",
+    "logic": ""
+  },
+  "folder": null,
+  "sort": 2600001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!TAs6VuaYw5KTQ3E3"
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "RNd0xDl7exuOnUDM",
+  "name": "Cohort 4",
+  "type": "crew_upgrade",
+  "system": {
+    "crew_type": "",
+    "description": "A cohort is a gang or a single expert NPC who works for your crew. ",
+    "class": "",
+    "price": "2",
+    "logic": ""
+  },
+  "folder": null,
+  "sort": 1000001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!RNd0xDl7exuOnUDM"
+}

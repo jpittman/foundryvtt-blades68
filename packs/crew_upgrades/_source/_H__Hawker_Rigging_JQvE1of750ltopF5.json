@@ -1,0 +1,32 @@
+{
+  "_id": "JQvE1of750ltopF5",
+  "name": "(H) Hawker Rigging",
+  "type": "crew_upgrade",
+  "system": {
+    "crew_type": "",
+    "description": "One carried item is concealed and has no load. For example, you could carry a load of drugs or a weapon, perfectly concealed, for zero load.",
+    "class": "Hawkers",
+    "price": "1",
+    "logic": ""
+  },
+  "folder": null,
+  "sort": 1600000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!JQvE1of750ltopF5"
+}

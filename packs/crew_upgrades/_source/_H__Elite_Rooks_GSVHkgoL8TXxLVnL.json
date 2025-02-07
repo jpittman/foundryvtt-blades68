@@ -1,0 +1,32 @@
+{
+  "_id": "GSVHkgoL8TXxLVnL",
+  "name": "(H) Elite Rooks",
+  "type": "crew_upgrade",
+  "system": {
+    "crew_type": "",
+    "description": "All of your cohorts with the Rooks type get +1d to quality rolls for Rook-related actions.",
+    "class": "Hawkers",
+    "price": "1",
+    "logic": ""
+  },
+  "folder": null,
+  "sort": 1800000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!GSVHkgoL8TXxLVnL"
+}

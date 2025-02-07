@@ -1,0 +1,32 @@
+{
+  "_id": "2qYGI57Zqfyoyeon",
+  "name": "(C) Cult Rigging",
+  "type": "crew_upgrade",
+  "system": {
+    "crew_type": "",
+    "description": "You get 2 free load worth of document or implement items. For example, you could carry a profane book of curses and a demon's hand for zero load.",
+    "class": "Cult",
+    "price": "1",
+    "logic": ""
+  },
+  "folder": null,
+  "sort": 1100000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!2qYGI57Zqfyoyeon"
+}

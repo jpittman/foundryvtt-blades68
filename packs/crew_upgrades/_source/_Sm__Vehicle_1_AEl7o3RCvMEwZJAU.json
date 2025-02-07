@@ -1,0 +1,32 @@
+{
+  "_id": "AEl7o3RCvMEwZJAU",
+  "name": "(Sm) Vehicle 1",
+  "type": "crew_upgrade",
+  "system": {
+    "crew_type": "",
+    "description": "All smugglers start with a vehicle.",
+    "class": "Smugglers",
+    "price": "0",
+    "logic": ""
+  },
+  "folder": null,
+  "sort": 3100000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!AEl7o3RCvMEwZJAU"
+}

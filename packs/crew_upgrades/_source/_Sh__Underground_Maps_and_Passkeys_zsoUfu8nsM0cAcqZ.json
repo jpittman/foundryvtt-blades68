@@ -1,0 +1,32 @@
+{
+  "_id": "zsoUfu8nsM0cAcqZ",
+  "name": "(Sh) Underground Maps and Passkeys",
+  "type": "crew_upgrade",
+  "system": {
+    "crew_type": "",
+    "description": "You have easy passage through the underground canals, tunnels, and basements of the city.",
+    "class": "Shadows",
+    "price": "1",
+    "logic": ""
+  },
+  "folder": null,
+  "sort": 2300000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!zsoUfu8nsM0cAcqZ"
+}

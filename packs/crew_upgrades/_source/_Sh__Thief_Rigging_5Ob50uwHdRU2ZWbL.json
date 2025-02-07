@@ -1,0 +1,32 @@
+{
+  "_id": "5Ob50uwHdRU2ZWbL",
+  "name": "(Sh) Thief Rigging",
+  "type": "crew_upgrade",
+  "system": {
+    "crew_type": "",
+    "description": "You get 2 free load worth of tool or gear items. For example, you could carry burglary gear and tinkering tools for zero load.",
+    "class": "Shadows",
+    "price": "1",
+    "logic": ""
+  },
+  "folder": null,
+  "sort": 2100000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!5Ob50uwHdRU2ZWbL"
+}

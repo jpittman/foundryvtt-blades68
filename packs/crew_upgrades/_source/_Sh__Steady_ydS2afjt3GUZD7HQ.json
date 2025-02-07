@@ -1,0 +1,76 @@
+{
+  "_id": "ydS2afjt3GUZD7HQ",
+  "name": "(Sh) Steady",
+  "type": "crew_upgrade",
+  "system": {
+    "crew_type": "",
+    "description": "Each PC gets +1 stress box.",
+    "class": "Shadows",
+    "price": "3",
+    "logic": ""
+  },
+  "folder": null,
+  "sort": 2500000,
+  "flags": {},
+  "effects": [
+    {
+      "name": "+1 Stress Box",
+      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "origin": "Compendium.blades-in-the-dark.crew_upgrade.Item.ydS2afjt3GUZD7HQ",
+      "duration": {
+        "rounds": null,
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "q4o4BM4NtWAgAYJx",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.scoundrel.add_stress",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.327",
+        "systemId": "blades-in-the-dark",
+        "systemVersion": "5.1.4.0",
+        "createdTime": 1720041332293,
+        "modifiedTime": 1720041353563,
+        "lastModifiedBy": "AvRW5m1Jijf76WiA"
+      },
+      "_key": "!items.effects!ydS2afjt3GUZD7HQ.q4o4BM4NtWAgAYJx"
+    }
+  ],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!ydS2afjt3GUZD7HQ"
+}

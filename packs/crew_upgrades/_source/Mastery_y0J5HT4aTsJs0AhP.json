@@ -1,0 +1,76 @@
+{
+  "_id": "y0J5HT4aTsJs0AhP",
+  "name": "Mastery",
+  "type": "crew_upgrade",
+  "system": {
+    "crew_type": "",
+    "description": "Your crew has access to master level training. You may advance your PCs' action ratings to 4 (until you unlock this upgrade, PC action ratings are capped at 3).",
+    "class": "",
+    "price": "4",
+    "logic": ""
+  },
+  "folder": null,
+  "sort": 1200001,
+  "flags": {},
+  "effects": [
+    {
+      "name": "4th Action Rating",
+      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "origin": "Compendium.blades-in-the-dark.crew_upgrade.Item.y0J5HT4aTsJs0AhP",
+      "duration": {
+        "rounds": null,
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "OStG5wvR4hE1UePV",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.scoundrel.mastery",
+          "mode": 5,
+          "value": "true",
+          "priority": null
+        }
+      ],
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.327",
+        "systemId": "blades-in-the-dark",
+        "systemVersion": "5.1.4.0",
+        "createdTime": 1720041443801,
+        "modifiedTime": 1720041476396,
+        "lastModifiedBy": "AvRW5m1Jijf76WiA"
+      },
+      "_key": "!items.effects!y0J5HT4aTsJs0AhP.OStG5wvR4hE1UePV"
+    }
+  ],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!y0J5HT4aTsJs0AhP"
+}

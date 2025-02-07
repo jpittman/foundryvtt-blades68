@@ -1,0 +1,76 @@
+{
+  "_id": "DsRbKI3ZVcVAFLi9",
+  "name": "(H) Composed",
+  "type": "crew_upgrade",
+  "system": {
+    "crew_type": "",
+    "description": "Each PC gets +1 stress box.",
+    "class": "Hawkers",
+    "price": "3",
+    "logic": ""
+  },
+  "folder": null,
+  "sort": 2000000,
+  "flags": {},
+  "effects": [
+    {
+      "name": "+1 Stress Box",
+      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "origin": "Compendium.blades-in-the-dark.crew_upgrade.Item.DsRbKI3ZVcVAFLi9",
+      "duration": {
+        "rounds": null,
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "uqulYlrKqq6UCZlA",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.scoundrel.add_stress",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.327",
+        "systemId": "blades-in-the-dark",
+        "systemVersion": "5.1.4.0",
+        "createdTime": 1720041274529,
+        "modifiedTime": 1720041292333,
+        "lastModifiedBy": "AvRW5m1Jijf76WiA"
+      },
+      "_key": "!items.effects!DsRbKI3ZVcVAFLi9.uqulYlrKqq6UCZlA"
+    }
+  ],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!DsRbKI3ZVcVAFLi9"
+}

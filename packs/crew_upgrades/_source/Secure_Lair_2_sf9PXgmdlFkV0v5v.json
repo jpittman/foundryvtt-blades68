@@ -1,0 +1,32 @@
+{
+  "_id": "sf9PXgmdlFkV0v5v",
+  "name": "Secure Lair 2",
+  "type": "crew_upgrade",
+  "system": {
+    "crew_type": "",
+    "description": "Improves the defenses to include arcane measures that work against spirits. You might roll your crew's Tier if these measures are ever put to the test, to see how well they thwart an intruder.",
+    "class": "",
+    "price": "1",
+    "logic": ""
+  },
+  "folder": null,
+  "sort": 1600001,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!sf9PXgmdlFkV0v5v"
+}

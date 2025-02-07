@@ -1,0 +1,32 @@
+{
+  "_id": "BcyqfNkeiDG7g1Iy",
+  "name": "(A) Assassin Rigging",
+  "type": "crew_upgrade",
+  "system": {
+    "crew_type": "",
+    "description": "You get 2 free load worth of weapon or gear items. For example, you could carry a pistol (a weapon) and burglary tools (gear) for zero load.",
+    "class": "Assassins",
+    "price": "1",
+    "logic": ""
+  },
+  "folder": null,
+  "sort": 100000,
+  "flags": {},
+  "effects": [],
+  "_stats": {
+    "coreVersion": "12.327",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "BwbqQh8sHfeKmUax": 3
+  },
+  "img": "icons/svg/item-bag.svg",
+  "_key": "!items!BcyqfNkeiDG7g1Iy"
+}
