@@ -12,8 +12,8 @@
   "effects": [
     {
       "name": "+1d Resist with Prowess",
-      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
-      "origin": "Compendium.blades-in-the-dark.ability.Item.dlECJDA6cZpGr4s5",
+      "img": "systems/blades68/styles/assets/icons/Icon.3_13.png",
+      "origin": "Compendium.blades68.ability.Item.dlECJDA6cZpGr4s5",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -45,7 +45,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.327",
-        "systemId": "blades-in-the-dark",
+        "systemId": "blades68",
         "systemVersion": "5.1.4.0",
         "createdTime": null,
         "modifiedTime": null,
@@ -55,8 +55,8 @@
     },
     {
       "name": "Prowess Action Ratings 5",
-      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
-      "origin": "Compendium.blades-in-the-dark.ability.Item.dlECJDA6cZpGr4s5",
+      "img": "systems/blades68/styles/assets/icons/Icon.3_13.png",
+      "origin": "Compendium.blades68.ability.Item.dlECJDA6cZpGr4s5",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -106,7 +106,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.327",
-        "systemId": "blades-in-the-dark",
+        "systemId": "blades68",
         "systemVersion": "5.1.4.0",
         "createdTime": null,
         "modifiedTime": null,
@@ -125,7 +125,7 @@
     "compendiumSource": "Item.KdtF8wI4cpY6l1h0",
     "duplicateSource": null,
     "coreVersion": "12.327",
-    "systemId": "blades-in-the-dark",
+    "systemId": "blades68",
     "systemVersion": "5.1.4.0",
     "createdTime": 1719795534021,
     "modifiedTime": 1719795534021,

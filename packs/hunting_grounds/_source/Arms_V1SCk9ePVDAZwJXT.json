@@ -2,7 +2,7 @@
   "name": "Arms",
   "type": "hunting_grounds",
   "_id": "V1SCk9ePVDAZwJXT",
-  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.4_08.png",
+  "img": "systems/blades68/styles/assets/icons/Icon.4_08.png",
   "system": {
     "description": "<p>Restricted military weapons, heavy ordnance, explosives.</p>",
     "class": "Smugglers"
@@ -16,7 +16,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "blades-in-the-dark",
+    "systemId": "blades68",
     "systemVersion": "4.9",
     "coreVersion": "12.331",
     "createdTime": 1710725035545,

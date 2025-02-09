@@ -176,14 +176,14 @@
   "folder": null,
   "sort": 200001,
   "flags": {},
-  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_31.png",
+  "img": "systems/blades68/styles/assets/icons/Icon.3_31.png",
   "effects": [],
   "ownership": {
     "default": 0,
     "BwbqQh8sHfeKmUax": 3
   },
   "_stats": {
-    "systemId": "blades-in-the-dark",
+    "systemId": "blades68",
     "systemVersion": "4.9",
     "coreVersion": "12.328",
     "createdTime": null,

@@ -16,8 +16,8 @@
   "effects": [
     {
       "name": "+1 Stress box",
-      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
-      "origin": "Compendium.blades-in-the-dark.ability.Item.0IDmKmW3AiaNEBpE",
+      "img": "systems/blades68/styles/assets/icons/Icon.3_13.png",
+      "origin": "Compendium.blades68.ability.Item.0IDmKmW3AiaNEBpE",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -49,7 +49,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.327",
-        "systemId": "blades-in-the-dark",
+        "systemId": "blades68",
         "systemVersion": "5.1.4.0",
         "createdTime": 1719789236973,
         "modifiedTime": 1719791838597,

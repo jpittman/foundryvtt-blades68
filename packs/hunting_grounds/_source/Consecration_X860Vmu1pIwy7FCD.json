@@ -2,7 +2,7 @@
   "name": "Consecration",
   "type": "hunting_grounds",
   "_id": "X860Vmu1pIwy7FCD",
-  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.5_14.png",
+  "img": "systems/blades68/styles/assets/icons/Icon.5_14.png",
   "system": {
     "description": "<p>Anoint a place for your deity.</p>",
     "class": "Cult"
@@ -16,7 +16,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "blades-in-the-dark",
+    "systemId": "blades68",
     "systemVersion": "4.9",
     "coreVersion": "12.331",
     "createdTime": 1710719016293,

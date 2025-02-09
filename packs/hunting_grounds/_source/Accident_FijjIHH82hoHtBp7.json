@@ -2,7 +2,7 @@
   "name": "Accident",
   "type": "hunting_grounds",
   "_id": "FijjIHH82hoHtBp7",
-  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.6_19.png",
+  "img": "systems/blades68/styles/assets/icons/Icon.6_19.png",
   "system": {
     "description": "<p>A killing with no telltale signs of murder.</p>",
     "class": "Assassins"
@@ -16,7 +16,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "blades-in-the-dark",
+    "systemId": "blades68",
     "systemVersion": "4.9",
     "coreVersion": "12.331",
     "createdTime": 1710714591236,

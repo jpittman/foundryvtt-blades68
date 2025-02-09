@@ -2,7 +2,7 @@
   "_id": "8jExf4Zqad6e3bvn",
   "name": "Leech",
   "type": "class",
-  "img": "systems/blades-in-the-dark/styles/assets/icons/Icons8_64.png",
+  "img": "systems/blades68/styles/assets/icons/Icons8_64.png",
   "system": {
     "description": "A saboteur and technician",
     "logic": "",
@@ -79,7 +79,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "origin": "Compendium.blades-in-the-dark.class.8jExf4Zqad6e3bvn",
+      "origin": "Compendium.blades68.class.8jExf4Zqad6e3bvn",
       "transfer": true,
       "flags": {},
       "tint": "#ffffff",
@@ -94,7 +94,7 @@
         "duplicateSource": null
       },
       "name": "Leech Playbook",
-      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "img": "systems/blades68/styles/assets/icons/Icon.3_13.png",
       "type": "base",
       "system": {},
       "description": "",
@@ -104,8 +104,8 @@
     },
     {
       "name": "Leech Action Ratings",
-      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
-      "origin": "Compendium.blades-in-the-dark.class.Item.8jExf4Zqad6e3bvn",
+      "img": "systems/blades68/styles/assets/icons/Icon.3_13.png",
+      "origin": "Compendium.blades68.class.Item.8jExf4Zqad6e3bvn",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -143,7 +143,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.327",
-        "systemId": "blades-in-the-dark",
+        "systemId": "blades68",
         "systemVersion": "5.1.4.0",
         "createdTime": 1719968185742,
         "modifiedTime": 1719968226456,

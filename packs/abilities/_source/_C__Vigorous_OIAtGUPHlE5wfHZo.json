@@ -16,8 +16,8 @@
   "effects": [
     {
       "name": "Healing Clock Minimum 1",
-      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
-      "origin": "Compendium.blades-in-the-dark.ability.Item.OIAtGUPHlE5wfHZo",
+      "img": "systems/blades68/styles/assets/icons/Icon.3_13.png",
+      "origin": "Compendium.blades68.ability.Item.OIAtGUPHlE5wfHZo",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -49,7 +49,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.328",
-        "systemId": "blades-in-the-dark",
+        "systemId": "blades68",
         "systemVersion": "5.2.0.1",
         "createdTime": 1720399669165,
         "modifiedTime": 1720399710125,

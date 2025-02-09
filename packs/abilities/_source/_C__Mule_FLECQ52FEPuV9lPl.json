@@ -31,7 +31,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "origin": "Compendium.blades-in-the-dark.ability.FLECQ52FEPuV9lPl",
+      "origin": "Compendium.blades68.ability.FLECQ52FEPuV9lPl",
       "transfer": true,
       "flags": {},
       "tint": "#ffffff",
@@ -46,7 +46,7 @@
         "duplicateSource": null
       },
       "name": "Mule",
-      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "img": "systems/blades68/styles/assets/icons/Icon.3_13.png",
       "type": "base",
       "system": {},
       "description": "",

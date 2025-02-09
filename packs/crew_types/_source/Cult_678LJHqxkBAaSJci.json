@@ -266,11 +266,11 @@
   "folder": null,
   "sort": 100001,
   "flags": {},
-  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.7_29.png",
+  "img": "systems/blades68/styles/assets/icons/Icon.7_29.png",
   "effects": [
     {
       "name": "Sacred Sites",
-      "origin": "Compendium.blades-in-the-dark.crew_type.Item.678LJHqxkBAaSJci",
+      "origin": "Compendium.blades68.crew_type.Item.678LJHqxkBAaSJci",
       "duration": {
         "startTime": null,
         "seconds": null,
@@ -305,7 +305,7 @@
         "compendiumSource": null,
         "duplicateSource": null
       },
-      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "img": "systems/blades68/styles/assets/icons/Icon.3_13.png",
       "type": "base",
       "system": {},
       "sort": 0,
@@ -313,8 +313,8 @@
     },
     {
       "name": "Deity Description",
-      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
-      "origin": "Compendium.blades-in-the-dark.crew_type.Item.678LJHqxkBAaSJci",
+      "img": "systems/blades68/styles/assets/icons/Icon.3_13.png",
+      "origin": "Compendium.blades68.crew_type.Item.678LJHqxkBAaSJci",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -352,7 +352,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.330",
-        "systemId": "blades-in-the-dark",
+        "systemId": "blades68",
         "systemVersion": "5.3.2",
         "createdTime": 1737313429762,
         "modifiedTime": 1737313567996,
@@ -365,7 +365,7 @@
     "default": 0
   },
   "_stats": {
-    "systemId": "blades-in-the-dark",
+    "systemId": "blades68",
     "systemVersion": "4.9",
     "coreVersion": "12.328",
     "createdTime": 1710719871336,

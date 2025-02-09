@@ -2,7 +2,7 @@
   "name": "Socialize",
   "type": "hunting_grounds",
   "_id": "SugXsUpxNRnEirNq",
-  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.7_60.png",
+  "img": "systems/blades68/styles/assets/icons/Icon.7_60.png",
   "system": {
     "description": "<p>Improve customer relations and/or supplier relations with a social event.</p>",
     "class": "Hawkers"
@@ -16,7 +16,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "blades-in-the-dark",
+    "systemId": "blades68",
     "systemVersion": "4.9",
     "coreVersion": "12.331",
     "createdTime": 1710720913051,

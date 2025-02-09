@@ -2,7 +2,7 @@
   "_id": "tEob41rtEbHcswNM",
   "name": "Cutter",
   "type": "class",
-  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.2_43.png",
+  "img": "systems/blades68/styles/assets/icons/Icon.2_43.png",
   "system": {
     "description": "A dangerous & intimidating fighter",
     "logic": "",
@@ -79,7 +79,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "origin": "Compendium.blades-in-the-dark.class.tEob41rtEbHcswNM",
+      "origin": "Compendium.blades68.class.tEob41rtEbHcswNM",
       "transfer": true,
       "flags": {},
       "tint": "#ffffff",
@@ -94,7 +94,7 @@
         "duplicateSource": null
       },
       "name": "Cutter Playbook",
-      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "img": "systems/blades68/styles/assets/icons/Icon.3_13.png",
       "type": "base",
       "system": {},
       "description": "",
@@ -104,8 +104,8 @@
     },
     {
       "name": "Cutter Action Ratings",
-      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
-      "origin": "Compendium.blades-in-the-dark.class.Item.tEob41rtEbHcswNM",
+      "img": "systems/blades68/styles/assets/icons/Icon.3_13.png",
+      "origin": "Compendium.blades68.class.Item.tEob41rtEbHcswNM",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -143,7 +143,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.327",
-        "systemId": "blades-in-the-dark",
+        "systemId": "blades68",
         "systemVersion": "5.1.4.0",
         "createdTime": 1719795640242,
         "modifiedTime": 1719795710224,

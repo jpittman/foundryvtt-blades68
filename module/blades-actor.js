@@ -96,7 +96,7 @@ export class BladesActor extends Actor {
         <fieldset class="form-group" style="display:block;justify-content:space-between;">
           <legend>Roll Types</legend>
 		  `;
-		if (game.settings.get('blades-in-the-dark', 'ActionRoll')) {
+		if (game.settings.get('blades68', 'ActionRoll')) {
 		  content += `
           <div class="radio-group" style="display:flex;flex-direction:row;justify-content:space-between;">
             <label style="width: 100px; display: inline-block;"><input type="radio" id="actionRoll" name="rollSelection" checked=true> ${game.i18n.localize("BITD.ActionRoll")}</label>
@@ -119,7 +119,7 @@ export class BladesActor extends Actor {
           </div>
 		  `;
 		}
-		if (game.settings.get('blades-in-the-dark', 'ThreatRoll')) {
+		if (game.settings.get('blades68', 'ThreatRoll')) {
 		   content += `
 		    <div class="radio-group" style="display:flex;flex-direction:row;justify-content:space-between;">
             <label style="width: 100px; display: inline-block;"><input type="radio" id="threatRoll" name="rollSelection" checked=true> ${game.i18n.localize("BITD.ThreatRoll")}</label>

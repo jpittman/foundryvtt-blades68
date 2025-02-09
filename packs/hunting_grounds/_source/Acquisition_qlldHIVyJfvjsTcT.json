@@ -2,7 +2,7 @@
   "name": "Acquisition",
   "type": "hunting_grounds",
   "_id": "qlldHIVyJfvjsTcT",
-  "img": "systems/blades-in-the-dark/styles/assets/icons/Icons8_06.png",
+  "img": "systems/blades68/styles/assets/icons/Icons8_06.png",
   "system": {
     "description": "<p>Procue an arcane artifact and attune it to your god.</p>",
     "class": "Cult"
@@ -16,7 +16,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "blades-in-the-dark",
+    "systemId": "blades68",
     "systemVersion": "4.9",
     "coreVersion": "12.331",
     "createdTime": 1710718803510,

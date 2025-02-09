@@ -176,11 +176,11 @@
   "folder": null,
   "sort": 300001,
   "flags": {},
-  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.7_83.png",
+  "img": "systems/blades68/styles/assets/icons/Icon.7_83.png",
   "effects": [
     {
       "name": "Sales Territory",
-      "origin": "Compendium.blades-in-the-dark.crew_type.Item.sXlemqVvMPOZJbTQ",
+      "origin": "Compendium.blades68.crew_type.Item.sXlemqVvMPOZJbTQ",
       "duration": {
         "startTime": null,
         "seconds": null,
@@ -215,7 +215,7 @@
         "compendiumSource": null,
         "duplicateSource": null
       },
-      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "img": "systems/blades68/styles/assets/icons/Icon.3_13.png",
       "type": "base",
       "system": {},
       "sort": 0,
@@ -227,7 +227,7 @@
     "BwbqQh8sHfeKmUax": 3
   },
   "_stats": {
-    "systemId": "blades-in-the-dark",
+    "systemId": "blades68",
     "systemVersion": "4.9",
     "coreVersion": "12.328",
     "createdTime": 1710721013424,

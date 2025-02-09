@@ -2,7 +2,7 @@
   "name": "Supply",
   "type": "hunting_grounds",
   "_id": "SN60QVEz0lDe5cCQ",
-  "img": "systems/blades-in-the-dark/styles/assets/icons/Icons8_52.png",
+  "img": "systems/blades68/styles/assets/icons/Icons8_52.png",
   "system": {
     "description": "<p>A transaction to acquire new product or establish a new supplier.</p>",
     "class": "Hawkers"
@@ -16,7 +16,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "blades-in-the-dark",
+    "systemId": "blades68",
     "systemVersion": "4.9",
     "coreVersion": "12.331",
     "createdTime": 1710720752867,

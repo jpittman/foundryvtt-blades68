@@ -1,7 +1,7 @@
 {
   "name": "Sabotage",
   "type": "hunting_grounds",
-  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_45.png",
+  "img": "systems/blades68/styles/assets/icons/Icon.3_45.png",
   "system": {
     "description": "<p>Hurt an opponent by destroying something.</p>",
     "class": "Bravos"
@@ -12,7 +12,7 @@
     "core": {}
   },
   "_stats": {
-    "systemId": "blades-in-the-dark",
+    "systemId": "blades68",
     "systemVersion": "4.9",
     "coreVersion": "12.331",
     "createdTime": 1710716988698,

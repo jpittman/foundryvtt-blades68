@@ -2,7 +2,7 @@
   "name": "Burglary",
   "type": "hunting_grounds",
   "_id": "sm2PdktTxwvcsjMm",
-  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.5_77.png",
+  "img": "systems/blades68/styles/assets/icons/Icon.5_77.png",
   "system": {
     "description": "<p>Theft by breaking and entering.</p>",
     "class": "Shadows"
@@ -16,7 +16,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "blades-in-the-dark",
+    "systemId": "blades68",
     "systemVersion": "4.9",
     "coreVersion": "12.331",
     "createdTime": 1710723957756,

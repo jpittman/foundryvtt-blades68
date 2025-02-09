@@ -16,8 +16,8 @@
   "effects": [
     {
       "name": "+1 Trauma Box",
-      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
-      "origin": "Compendium.blades-in-the-dark.crew_upgrade.Item.YvdNh0jOooVF0uWj",
+      "img": "systems/blades68/styles/assets/icons/Icon.3_13.png",
+      "origin": "Compendium.blades68.crew_upgrade.Item.YvdNh0jOooVF0uWj",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -49,7 +49,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.327",
-        "systemId": "blades-in-the-dark",
+        "systemId": "blades68",
         "systemVersion": "5.1.4.0",
         "createdTime": 1720041164133,
         "modifiedTime": 1720041185442,

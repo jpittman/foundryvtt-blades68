@@ -16,8 +16,8 @@
   "effects": [
     {
       "name": "+1d Resist with Resolve",
-      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
-      "origin": "Compendium.blades-in-the-dark.ability.Item.BW4k9Qr3AGw6sEut",
+      "img": "systems/blades68/styles/assets/icons/Icon.3_13.png",
+      "origin": "Compendium.blades68.ability.Item.BW4k9Qr3AGw6sEut",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -49,7 +49,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.327",
-        "systemId": "blades-in-the-dark",
+        "systemId": "blades68",
         "systemVersion": "5.1.4.0",
         "createdTime": 1719793010836,
         "modifiedTime": 1720115754485,

@@ -2,7 +2,7 @@
   "name": "Ironhook Prison",
   "type": "prison",
   "_id": "FgWSIa94h0dHrSZr",
-  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.6_41.png",
+  "img": "systems/blades68/styles/assets/icons/Icon.6_41.png",
   "system": {
     "description": "",
     "turfs": {
@@ -149,7 +149,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "blades-in-the-dark",
+    "systemId": "blades68",
     "systemVersion": "4.9",
     "coreVersion": "12.331",
     "createdTime": 1710641350815,

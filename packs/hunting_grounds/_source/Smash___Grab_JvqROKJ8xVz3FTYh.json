@@ -2,7 +2,7 @@
   "name": "Smash & Grab",
   "type": "hunting_grounds",
   "_id": "JvqROKJ8xVz3FTYh",
-  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.2_28.png",
+  "img": "systems/blades68/styles/assets/icons/Icon.2_28.png",
   "system": {
     "description": "<p>A fast and violent armed robbery.</p>",
     "class": "Bravos"
@@ -16,7 +16,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "blades-in-the-dark",
+    "systemId": "blades68",
     "systemVersion": "4.9",
     "coreVersion": "12.331",
     "createdTime": 1710717061978,

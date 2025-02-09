@@ -2,7 +2,7 @@
   "name": "Robbery",
   "type": "hunting_grounds",
   "_id": "mQ6394HVPUWkQClX",
-  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.6_53.png",
+  "img": "systems/blades68/styles/assets/icons/Icon.6_53.png",
   "system": {
     "description": "<p>Theft by force or threats.</p>",
     "class": "Shadows"
@@ -16,7 +16,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "blades-in-the-dark",
+    "systemId": "blades68",
     "systemVersion": "4.9",
     "coreVersion": "12.331",
     "createdTime": 1710724182226,

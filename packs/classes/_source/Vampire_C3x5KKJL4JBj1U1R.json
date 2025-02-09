@@ -2,7 +2,7 @@
   "_id": "C3x5KKJL4JBj1U1R",
   "name": "Vampire",
   "type": "class",
-  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.1_19.png",
+  "img": "systems/blades68/styles/assets/icons/Icon.1_19.png",
   "system": {
     "description": "A spirit animating an undead body",
     "logic": "",
@@ -115,7 +115,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "origin": "Compendium.blades-in-the-dark.class.QzcDnJbWCY1ueVt7",
+      "origin": "Compendium.blades68.class.QzcDnJbWCY1ueVt7",
       "transfer": true,
       "flags": {},
       "tint": "#ffffff",
@@ -132,7 +132,7 @@
         "compendiumSource": null,
         "duplicateSource": null
       },
-      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "img": "systems/blades68/styles/assets/icons/Icon.3_13.png",
       "type": "base",
       "system": {},
       "sort": 0,
@@ -140,8 +140,8 @@
     },
     {
       "name": "Vampire Action Ratings",
-      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
-      "origin": "Compendium.blades-in-the-dark.class.Item.C3x5KKJL4JBj1U1R",
+      "img": "systems/blades68/styles/assets/icons/Icon.3_13.png",
+      "origin": "Compendium.blades68.class.Item.C3x5KKJL4JBj1U1R",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -203,7 +203,7 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "coreVersion": "12.327",
-        "systemId": "blades-in-the-dark",
+        "systemId": "blades68",
         "systemVersion": "5.1.4.0",
         "createdTime": 1719968771224,
         "modifiedTime": 1719968864488,
@@ -214,11 +214,11 @@
   ],
   "flags": {
     "core": {
-      "sourceId": "Compendium.blades-in-the-dark.class.QzcDnJbWCY1ueVt7"
+      "sourceId": "Compendium.blades68.class.QzcDnJbWCY1ueVt7"
     },
     "exportSource": {
       "world": "blades",
-      "system": "blades-in-the-dark",
+      "system": "blades68",
       "coreVersion": "10.291",
       "systemVersion": "4.6"
     }
@@ -228,13 +228,13 @@
     "ObIyIN2CggLIOVUw": 3
   },
   "_stats": {
-    "systemId": "blades-in-the-dark",
+    "systemId": "blades68",
     "systemVersion": "4.9",
     "coreVersion": "12.327",
     "createdTime": 1686682652146,
     "modifiedTime": 1711075037254,
     "lastModifiedBy": "B7A33cKMwj3J5fQB",
-    "compendiumSource": "Compendium.blades-in-the-dark.class.QzcDnJbWCY1ueVt7",
+    "compendiumSource": "Compendium.blades68.class.QzcDnJbWCY1ueVt7",
     "duplicateSource": null
   },
   "folder": null,

@@ -176,11 +176,11 @@
   "folder": null,
   "sort": 500001,
   "flags": {},
-  "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.6_46.png",
+  "img": "systems/blades68/styles/assets/icons/Icon.6_46.png",
   "effects": [
     {
       "name": "Cargo Types",
-      "origin": "Compendium.blades-in-the-dark.crew_type.Item.WV5R1gcd0eRWY7dk",
+      "origin": "Compendium.blades68.crew_type.Item.WV5R1gcd0eRWY7dk",
       "duration": {
         "startTime": null,
         "seconds": null,
@@ -215,7 +215,7 @@
         "compendiumSource": null,
         "duplicateSource": null
       },
-      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "img": "systems/blades68/styles/assets/icons/Icon.3_13.png",
       "type": "base",
       "system": {},
       "sort": 0,
@@ -227,7 +227,7 @@
     "BwbqQh8sHfeKmUax": 3
   },
   "_stats": {
-    "systemId": "blades-in-the-dark",
+    "systemId": "blades68",
     "systemVersion": "4.9",
     "coreVersion": "12.328",
     "createdTime": 1710725273520,

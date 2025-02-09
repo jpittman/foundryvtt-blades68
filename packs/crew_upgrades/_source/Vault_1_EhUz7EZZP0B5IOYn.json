@@ -61,7 +61,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "origin": "Compendium.blades-in-the-dark.crew_upgrade.EhUz7EZZP0B5IOYn",
+      "origin": "Compendium.blades68.crew_upgrade.EhUz7EZZP0B5IOYn",
       "transfer": true,
       "flags": {},
       "tint": "#ffffff",
@@ -76,7 +76,7 @@
         "duplicateSource": null
       },
       "name": "Unnamed Effect",
-      "img": "systems/blades-in-the-dark/styles/assets/icons/Icon.3_13.png",
+      "img": "systems/blades68/styles/assets/icons/Icon.3_13.png",
       "type": "base",
       "system": {},
       "description": "",
