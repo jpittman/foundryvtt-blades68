@@ -6,4 +6,18 @@ v.0.0.1
 	- Made use of the foundryVTT-cli approach to packing and unpacking of data.
 	- Added scripts to serialize and deserialize the data for dev and testing.
 	- Added in scripts to do that as apart of the release process.
-
+	- Added in a Blades68 Compendium.
+	- Added in Blades68 specific playbook basics:
+		- Name label
+		- Description
+		- Experience clues
+		- Base action stats
+		- Contact labels (Acquaintances)
+	- Temporarily change the way that experience clues are displayed.
+- KKNOWN ISSUES
+	- Scripts for the release process do not currently work. Hand rolled releases for now.
+	- Blades and Blades68 Dataset are together in the Blades in the Dark compendiums.
+	- Experience Clues for Blades in the Dark characters are not displayed correctly.
+	- Acquaintances Label doesn't convert correctly for Blades68 classes.
+	- Tinker is not converted to Wrench for classes that have it.
+	
