@@ -68,6 +68,14 @@
   ],
   "packs": [
     {
+      "name": "blades68_class",
+      "label": "Blades68 Classes",
+      "system": "blades68",
+      "path": "./packs/blades68_classes.db",
+      "banner": "systems/blades68/images/compendium-banners/Doskvol_00.webp",
+      "type": "Item"
+    },
+    {
       "name": "class",
       "label": "Classes",
       "system": "blades68",
@@ -205,6 +213,11 @@
     }
   ],
   "packFolders": [
+    {
+        "name": "Blades68 Character Options",
+        "sorting": "m",
+        "packs": ["blades68_class"]
+    },
     {
       "name": "Character Options",
       "sorting": "m",
