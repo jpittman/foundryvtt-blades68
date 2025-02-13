@@ -2,5 +2,10 @@
 /.idea/*
 /blades68.lock
 
-packs/**/*
+packs/**/CURRENT
+packs/**/LO*
+packs/**/MANIFEST-*
+packs/**/*.ldb
+packs/**/*.log
+
 notes.txt
