@@ -1,0 +1,33 @@
+{
+  "name": "(Sw) Groove Machine",
+  "type": "ability",
+  "_id": "xLoxTQ3NYWu626td",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Your dance moves are exquisite. When&nbsp;you take action while moving it on the dancefloor, take <strong>+1d</strong>&nbsp;and <strong>potency</strong>.</p>",
+    "class": "Swinger",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739562654310,
+    "modifiedTime": 1739562713155,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!xLoxTQ3NYWu626td"
+}

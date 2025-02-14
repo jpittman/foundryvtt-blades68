@@ -1,0 +1,33 @@
+{
+  "name": "(Sw) Echo Twin",
+  "type": "ability",
+  "_id": "TUeNkK1Ze0YckW4r",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>There&rsquo;s an alternate version of you in the&nbsp;resonance field, ghostly and glitched out. Take 2 stress to&nbsp;summon them for a few moments, plus 1 stress for each&nbsp;additional feature: <em>They last for a few minutes rather than&nbsp;moments&mdash;they appear completely stable and solid&mdash;they&nbsp;obey your instructions to the letter.</em></p>",
+    "class": "Swinger",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739563446258,
+    "modifiedTime": 1739563503031,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!TUeNkK1Ze0YckW4r"
+}

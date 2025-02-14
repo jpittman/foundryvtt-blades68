@@ -1,0 +1,33 @@
+{
+  "name": "(Sw) Here Goes Nothing",
+  "type": "ability",
+  "_id": "nG6fMU2Xo5MgKUqW",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Take <strong>2 stress</strong> to roll your <strong>Sway</strong> or&nbsp;<strong>Consort</strong> rating while performing a different action. Use a&nbsp;free flashback to reveal who you convinced to teach you this&nbsp;particular technique (probably at a party).</p>",
+    "class": "Swinger",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739562423937,
+    "modifiedTime": 1739562496081,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!nG6fMU2Xo5MgKUqW"
+}

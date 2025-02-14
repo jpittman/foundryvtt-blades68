@@ -1,0 +1,33 @@
+{
+  "name": "(Sw) Yeah, Baby!",
+  "type": "ability",
+  "_id": "DHr0HZ3xmdGh1aRk",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>When you agree to an NPC&rsquo;s proposal, even&nbsp;though it complicates the crew&rsquo;s goals, everyone else on the&nbsp;crew marks <strong>1 xp</strong> while you clear <strong>3 stress</strong>.</p>",
+    "class": "Swinger",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739562555497,
+    "modifiedTime": 1739562626098,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!DHr0HZ3xmdGh1aRk"
+}
