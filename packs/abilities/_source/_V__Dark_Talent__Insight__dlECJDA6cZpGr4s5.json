@@ -116,7 +116,7 @@
     }
   ],
   "folder": null,
-  "sort": 0,
+  "sort": 1900000,
   "flags": {
     "core": {
       "sourceId": "Item.KdtF8wI4cpY6l1h0"
@@ -124,12 +124,12 @@
   },
   "_id": "dlECJDA6cZpGr4s5",
   "_stats": {
-    "coreVersion": "12.327",
+    "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "5.1.4.0",
     "createdTime": null,
-    "modifiedTime": 1719793778349,
-    "lastModifiedBy": "AvRW5m1Jijf76WiA",
+    "modifiedTime": 1739511995697,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN",
     "compendiumSource": null,
     "duplicateSource": null
   },

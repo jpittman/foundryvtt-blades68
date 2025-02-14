@@ -11,7 +11,7 @@
   },
   "effects": [],
   "folder": null,
-  "sort": 0,
+  "sort": 1100000,
   "flags": {
     "core": {
       "sourceId": "Item.9nLCT5rZdSeM2PR1"
@@ -19,12 +19,12 @@
   },
   "_id": "7DcuxZBdsoDn7Mgo",
   "_stats": {
-    "coreVersion": "12.327",
+    "coreVersion": "12.331",
     "systemId": null,
     "systemVersion": null,
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1739511995697,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN",
     "compendiumSource": null,
     "duplicateSource": null
   },

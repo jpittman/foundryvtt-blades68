@@ -1,0 +1,33 @@
+{
+  "name": "(H68) Learn The Hard Way",
+  "type": "ability",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Whenever you take Harm, clear an amount of stress equal to the Harm Level, and it counts as a successful&nbsp;<strong>Gather Information</strong> roll (with a level of detail equal to the Harm&nbsp;Level). The GM will tell you what you learn.</p>",
+    "class": "Hound '68",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": "PaUiEAoDgddaXGEi",
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739511618977,
+    "modifiedTime": 1739511618977,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_id": "ngyQXhxuJ0WRg36L",
+  "sort": 0,
+  "_key": "!items!ngyQXhxuJ0WRg36L"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "(Vet) Creative Community",
+  "type": "ability",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p class=\"p1\">You gain a second vice; learning a new&nbsp;creative hobby. What is it? When you indulge this vice by going&nbsp;to class, add <strong>+2</strong> to the result, and then create a new <strong>friend</strong> or&nbsp;<strong>rival</strong> (classmate or teacher), or develop your relationship with an&nbsp;existing one. These people have no criminal utility, but they&nbsp;might give you a ride or let you lay low at their place in a pinch.&nbsp;When you overindulge, one of these friends is put in danger.</p>",
+    "class": "Veteran",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739510681128,
+    "modifiedTime": 1739511995697,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_id": "cfOd2Pj76x4vxnw3",
+  "sort": 100000,
+  "_key": "!items!cfOd2Pj76x4vxnw3"
+}

@@ -80,19 +80,19 @@
     }
   ],
   "folder": null,
-  "sort": 0,
+  "sort": 1400000,
   "flags": {
     "core": {
       "sourceId": "Item.tjZrc7AAYU8eGPWv"
     }
   },
   "_stats": {
-    "coreVersion": "12.327",
+    "coreVersion": "12.331",
     "systemId": null,
     "systemVersion": null,
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1739511995697,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN",
     "compendiumSource": null,
     "duplicateSource": null
   },
