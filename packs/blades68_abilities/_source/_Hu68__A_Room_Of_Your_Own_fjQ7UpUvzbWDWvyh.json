@@ -1,0 +1,33 @@
+{
+  "name": "(Hu68) A Room Of Your Own",
+  "type": "ability",
+  "_id": "fjQ7UpUvzbWDWvyh",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You have your own secret little den. You can&nbsp;now put stacks into bank. You have a pet. You can spend a&nbsp;downtime action to look after the pet (describe the lengths you&nbsp;go to), and mark <strong>2xp</strong> in a <strong>memory clock</strong> (below) of your choice.</p>",
+    "class": "Hull '68",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739569469594,
+    "modifiedTime": 1739569609105,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!fjQ7UpUvzbWDWvyh"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "(Hu68) Interface",
+  "type": "ability",
+  "_id": "MU2cUNg1EujMBOa2",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You may <strong>attune</strong> to the local electroplasmic power&nbsp;field to control it or something connected to it (including&nbsp;another hull).</p>",
+    "class": "Hull '68",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739570089092,
+    "modifiedTime": 1739570129395,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!MU2cUNg1EujMBOa2"
+}

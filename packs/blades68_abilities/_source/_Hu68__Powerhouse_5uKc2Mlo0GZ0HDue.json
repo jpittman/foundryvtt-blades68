@@ -1,0 +1,33 @@
+{
+  "name": "(Hu68) Powerhouse",
+  "type": "ability",
+  "_id": "5uKc2Mlo0GZ0HDue",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Take <strong>1 drain</strong> to perform a feat of extreme strength&nbsp;or speed (run faster than an autopod, rend metal with your&nbsp;hands, etc). <em>This factors into effect.</em></p>",
+    "class": "Hull '68",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739569639052,
+    "modifiedTime": 1739569734949,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!5uKc2Mlo0GZ0HDue"
+}

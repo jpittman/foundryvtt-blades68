@@ -1,0 +1,33 @@
+{
+  "name": "(Hu68) Energy Beam",
+  "type": "ability",
+  "_id": "MYn53VwiM3E6SqLe",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You may release some of your energy as an&nbsp;electrical shock around you or as a directed beam. You may also&nbsp;use this ability to create a lightning barrier to repel or trap a&nbsp;resonance entity. Take <strong>1 drain</strong> for each level of <strong>magnitude</strong>.</p>",
+    "class": "Hull '68",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739569920792,
+    "modifiedTime": 1739570041624,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!MYn53VwiM3E6SqLe"
+}

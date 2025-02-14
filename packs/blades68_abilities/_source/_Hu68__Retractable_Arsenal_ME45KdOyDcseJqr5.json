@@ -1,0 +1,33 @@
+{
+  "name": "(Hu68) Retractable Arsenal",
+  "type": "ability",
+  "_id": "ME45KdOyDcseJqr5",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Your items are built-in to your frame and&nbsp;may recess beneath panels out of sight. Your frame can now&nbsp;carry <strong>+2 load</strong>.</p>",
+    "class": "Hull '68",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739569792437,
+    "modifiedTime": 1739569850467,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!ME45KdOyDcseJqr5"
+}

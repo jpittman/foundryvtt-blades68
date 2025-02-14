@@ -1,0 +1,33 @@
+{
+  "name": "(Hu68) Automation",
+  "type": "ability",
+  "_id": "WDTKj5NiCO7kxItm",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You are a soul powering a robotic body. You have&nbsp;human-like strength and senses, by default. Your hull has&nbsp;built-in <strong>armor</strong> (this doesn&rsquo;t count for your load). Your former&nbsp;human feelings, interests, and connections are almost entirely&nbsp;gone (you start with no keys). You may be repaired if damaged&nbsp;or destroyed. <em>Whenever you would take stress, take </em><strong>drain</strong>&nbsp;<em>instead</em>. Choose two <strong>frame features</strong>.</p>",
+    "class": "Hull '68",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739569127073,
+    "modifiedTime": 1739569429232,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!WDTKj5NiCO7kxItm"
+}
