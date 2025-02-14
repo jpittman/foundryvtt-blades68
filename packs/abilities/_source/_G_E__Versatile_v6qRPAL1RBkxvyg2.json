@@ -1,11 +1,11 @@
 {
-  "name": "(H68) Hound's Instincts",
+  "name": "(G/E) Versatile",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>When you <strong>push yourself</strong>, you can also do&nbsp;one of the following: <em>try to figure out where to go next, even with&nbsp;zero leads&mdash;make someone stop and listen to you for a few&nbsp;moments, no matter how unlikely it is.</em></p>",
-    "class": "Hound '68",
-    "price": "1",
+    "description": "<p>Choose a special ability from another source.</p>",
+    "class": "Ghost/Echo",
+    "price": "2",
     "purchased": false,
     "class_default": false,
     "logic": ""
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739558371696,
+    "createdTime": 1739571577241,
     "modifiedTime": 1739571583800,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "Gz4w7JEgenhjc3BH",
-  "sort": 1000000,
-  "_key": "!items!Gz4w7JEgenhjc3BH"
+  "_id": "v6qRPAL1RBkxvyg2",
+  "sort": 700000,
+  "_key": "!items!v6qRPAL1RBkxvyg2"
 }

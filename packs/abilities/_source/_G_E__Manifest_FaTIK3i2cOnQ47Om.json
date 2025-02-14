@@ -1,10 +1,10 @@
 {
-  "name": "(H68) Hound's Instincts",
+  "name": "(G/E) Manifest",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>When you <strong>push yourself</strong>, you can also do&nbsp;one of the following: <em>try to figure out where to go next, even with&nbsp;zero leads&mdash;make someone stop and listen to you for a few&nbsp;moments, no matter how unlikely it is.</em></p>",
-    "class": "Hound '68",
+    "description": "<p>Take 1 drain to flow through the electroplasmic&nbsp;pathways of the resonance field in order to instantly travel to&nbsp;any place you knew intimately in life, or to answer the&nbsp;summoning call when compelled.</p>",
+    "class": "Ghost/Echo",
     "price": "1",
     "purchased": false,
     "class_default": false,
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739558371696,
+    "createdTime": 1739571107161,
     "modifiedTime": 1739571583800,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "Gz4w7JEgenhjc3BH",
-  "sort": 1000000,
-  "_key": "!items!Gz4w7JEgenhjc3BH"
+  "_id": "FaTIK3i2cOnQ47Om",
+  "sort": 500000,
+  "_key": "!items!FaTIK3i2cOnQ47Om"
 }

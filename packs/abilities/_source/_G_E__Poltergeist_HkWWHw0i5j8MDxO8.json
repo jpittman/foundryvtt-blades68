@@ -1,10 +1,10 @@
 {
-  "name": "(H68) Hound's Instincts",
+  "name": "(G/E) Poltergeist",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>When you <strong>push yourself</strong>, you can also do&nbsp;one of the following: <em>try to figure out where to go next, even with&nbsp;zero leads&mdash;make someone stop and listen to you for a few&nbsp;moments, no matter how unlikely it is.</em></p>",
-    "class": "Hound '68",
+    "description": "<p>Take 1 drain to strongly interact with the physical&nbsp;world for a few moments (as if you had a normal body). Extend&nbsp;the reach and magnitude of your interaction to include&nbsp;telekinetic force and electroplasmic discharges by taking more&nbsp;drain (2-6).</p>",
+    "class": "Ghost/Echo",
     "price": "1",
     "purchased": false,
     "class_default": false,
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739558371696,
+    "createdTime": 1739571209200,
     "modifiedTime": 1739571583800,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "Gz4w7JEgenhjc3BH",
-  "sort": 1000000,
-  "_key": "!items!Gz4w7JEgenhjc3BH"
+  "_id": "HkWWHw0i5j8MDxO8",
+  "sort": 600000,
+  "_key": "!items!HkWWHw0i5j8MDxO8"
 }

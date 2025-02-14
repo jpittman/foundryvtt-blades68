@@ -1,0 +1,33 @@
+{
+  "name": "(G/E) Resonance Echo",
+  "type": "ability",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You are now a psychedelic being of swirling&nbsp;multicolored vapor which resembles your living body and&nbsp;clothes. You may weakly interact with the physical world and&nbsp;vice versa. You&rsquo;re vulnerable to paranormal powers and&nbsp;electroplasmic effects. You move about by floating and may fly&nbsp;swiftly without tiring. You may slowly flow through small&nbsp;openings as a vapor. You change the temperature around you&nbsp;and are mind-bending for the living to behold. You are affected&nbsp;by spiritbane charms (take 2 drain to overcome the repulsion),&nbsp;but not many people still carry these. You have less effect under&nbsp;the light of bluetime. <em>Whenever you would take stress, take&nbsp;drain instead. When you would deadlock a key, choose an echo&nbsp;irregularity instead.</em></p>",
+    "class": "Ghost/Echo",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": "PaUiEAoDgddaXGEi",
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739570844566,
+    "modifiedTime": 1739571583800,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_id": "MDAlqBJjKcWGHhXo",
+  "sort": 200000,
+  "_key": "!items!MDAlqBJjKcWGHhXo"
+}
