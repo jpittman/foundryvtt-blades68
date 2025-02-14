@@ -1,0 +1,33 @@
+{
+  "name": "(G/E) Poltergeist",
+  "type": "ability",
+  "_id": "VB8zRPquWcvxF8eE",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Take 1 drain to strongly interact with the physical&nbsp;world for a few moments (as if you had a normal body). Extend&nbsp;the reach and magnitude of your interaction to include&nbsp;telekinetic force and electroplasmic discharges by taking more&nbsp;drain (2-6).</p>",
+    "class": "Ghost/Echo",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739571130722,
+    "modifiedTime": 1739571204547,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!VB8zRPquWcvxF8eE"
+}

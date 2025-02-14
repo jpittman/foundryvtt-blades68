@@ -1,0 +1,33 @@
+{
+  "name": "(G/E) Possess",
+  "type": "ability",
+  "_id": "V4FwTTxUcGDdd4Kz",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You may <strong>attune</strong> to the resonance field in order to takecontrol of a living body. When your control is challenged, you&nbsp;must re-attune (risking electroplasmic harm) or leave the body.&nbsp;Your control is challenged when: <em>you consume resonance&nbsp;energy from the host&mdash;when paranormal powers act against&nbsp;you&mdash;when the host&rsquo;s will is driven to desperation.</em> You may&nbsp;easily and indefinitely possess a hollow or hull which has been&nbsp;prepared for you. If it&rsquo;s a hollow, switch to the Vampire playbook.&nbsp;If hull, switch to the Hull playbook, keeping your previous action&nbsp;ratings. Immediately take one hull playbook ability, and fill two&nbsp;memory clocks (choose the associated special abilities from&nbsp;your previous character&rsquo;s abilities instead of rolling randomly).&nbsp;To remember more than what those two clocks give you will&nbsp;require filling more memory clocks, as usual.</p>",
+    "class": "Ghost/Echo",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739571232630,
+    "modifiedTime": 1739571456129,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!V4FwTTxUcGDdd4Kz"
+}

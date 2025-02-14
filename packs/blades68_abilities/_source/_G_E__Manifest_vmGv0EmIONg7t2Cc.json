@@ -1,0 +1,33 @@
+{
+  "name": "(G/E) Manifest",
+  "type": "ability",
+  "_id": "vmGv0EmIONg7t2Cc",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Take 1 drain to flow through the electroplasmic&nbsp;pathways of the resonance field in order to instantly travel to&nbsp;any place you knew intimately in life, or to answer the&nbsp;summoning call when compelled.</p>",
+    "class": "Ghost/Echo",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739571040764,
+    "modifiedTime": 1739571102074,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!vmGv0EmIONg7t2Cc"
+}
