@@ -1,7 +1,6 @@
 {
   "name": "Operative",
   "type": "class",
-  "_id": "5PLNLPqDX3gctAG6",
   "img": "systems/blades68/styles/assets/icons/Icon.4_27.png",
   "system": {
     "description": "<p>a STEALTHY and </p>\n<p>CLANDESTINE</p>\n<p>espionage PROFESSIONAL</p>",
@@ -96,11 +95,11 @@
         "coreVersion": "12.331",
         "systemId": "blades68",
         "systemVersion": "0.0.1",
-        "createdTime": 1739501146363,
-        "modifiedTime": 1739501314669,
-        "lastModifiedBy": "kpkmRRldHuGvdiEN"
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
       },
-      "_key": "!items.effects!5PLNLPqDX3gctAG6.icLPMIvyRFuwfFKu"
+      "_key": "!items.effects!lk7pujVHZERULJ8F.icLPMIvyRFuwfFKu"
     },
     {
       "name": "Operative Action Ratings",
@@ -145,15 +144,14 @@
         "coreVersion": "12.331",
         "systemId": "blades68",
         "systemVersion": "0.0.1",
-        "createdTime": 1739501146919,
-        "modifiedTime": 1739501437371,
-        "lastModifiedBy": "kpkmRRldHuGvdiEN"
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
       },
-      "_key": "!items.effects!5PLNLPqDX3gctAG6.6Me9fKOpTK7sfseB"
+      "_key": "!items.effects!lk7pujVHZERULJ8F.6Me9fKOpTK7sfseB"
     }
   ],
   "folder": null,
-  "sort": 400000,
   "ownership": {
     "default": 0,
     "kpkmRRldHuGvdiEN": 3
@@ -165,9 +163,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739500676977,
-    "modifiedTime": 1739509074090,
+    "createdTime": 1739509098828,
+    "modifiedTime": 1739509098828,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_key": "!items!5PLNLPqDX3gctAG6"
+  "_id": "lk7pujVHZERULJ8F",
+  "sort": 0,
+  "_key": "!items!lk7pujVHZERULJ8F"
 }
