@@ -1,11 +1,11 @@
 {
-  "name": "(Vet) Got Your Back",
+  "name": "(Vet) Versatile",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>When you <strong>protect</strong> a teammate, clear <strong>1 stress</strong>&nbsp;and take <strong>+1d</strong> to any resistance rolls.</p>",
+    "description": "<p>Choose a special ability from another source.</p>",
     "class": "Veteran",
-    "price": "1",
+    "price": "2",
     "purchased": false,
     "class_default": false,
     "logic": ""
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739509872959,
-    "modifiedTime": 1739559709696,
+    "createdTime": 1739559764622,
+    "modifiedTime": 1739559764622,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "sFY0NiKzWYu3tL5k",
-  "sort": 1000000,
-  "_key": "!items!sFY0NiKzWYu3tL5k"
+  "_id": "xFOfVbQYnROiTsQh",
+  "sort": 0,
+  "_key": "!items!xFOfVbQYnROiTsQh"
 }

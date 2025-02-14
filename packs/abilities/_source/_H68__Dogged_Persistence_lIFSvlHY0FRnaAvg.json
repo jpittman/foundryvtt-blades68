@@ -1,9 +1,9 @@
 {
-  "name": "(H68) Just A Scratch",
+  "name": "(H68) Dogged Persistence",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>Penalties from harm are one level less severe&nbsp;(though level 4 harm is still fatal).</p>",
+    "description": "<p>Twice per score, you may use your&nbsp;<strong>tenacity</strong> to resist a consequence of exhaustion or mental harm&nbsp;(fear, confusion, losing track of someone) or to <strong>push yourself&nbsp;</strong>for&nbsp;influencing someone or searching for clues.</p>",
     "class": "Hound '68",
     "price": "1",
     "purchased": false,
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739511706611,
+    "createdTime": 1739558271177,
     "modifiedTime": 1739558371726,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "sNq0yECF6D4f6ECk",
-  "sort": 200000,
-  "_key": "!items!sNq0yECF6D4f6ECk"
+  "_id": "lIFSvlHY0FRnaAvg",
+  "sort": 400000,
+  "_key": "!items!lIFSvlHY0FRnaAvg"
 }

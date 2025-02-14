@@ -1,9 +1,9 @@
 {
-  "name": "(R) Pamphleteer",
+  "name": "(R) Direct Action",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>You can publish revolutionary literature as a&nbsp;<strong>6-step long-term project</strong>. Name each work. Once complete,&nbsp;a published work can tick another long-term project clock&nbsp;related to the revolution, once per downtime (maximum of&nbsp;four such works may be in effective circulation). If you die or&nbsp;get imprisoned, each work adds <strong>two ticks</strong>.</p>",
+    "description": "<p>When you make a desperate <strong>Wreck</strong> roll with&nbsp;explosives, gain <strong>+1d</strong> and <strong>potency</strong>. Remember that you can&nbsp;trade position for effect to make almost any action&nbsp;desperate, if you dare.</p>",
     "class": "Radical",
     "price": "1",
     "purchased": false,
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739556820643,
+    "createdTime": 1739559155767,
     "modifiedTime": 1739559155777,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "nG4rBMHbxGGNCNSr",
-  "sort": 400000,
-  "_key": "!items!nG4rBMHbxGGNCNSr"
+  "_id": "GyyQXFW0hksJ37SM",
+  "sort": 200000,
+  "_key": "!items!GyyQXFW0hksJ37SM"
 }

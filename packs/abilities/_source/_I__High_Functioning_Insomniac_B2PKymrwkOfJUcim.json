@@ -1,17 +1,17 @@
 {
-  "name": "(Vet) Got Your Back",
+  "name": "(I) High-Functioning Insomniac",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>When you <strong>protect</strong> a teammate, clear <strong>1 stress</strong>&nbsp;and take <strong>+1d</strong> to any resistance rolls.</p>",
-    "class": "Veteran",
+    "description": "<p>During <strong>downtime</strong>, you get <strong>two&nbsp;ticks</strong> to distribute among any long term project clocks that&nbsp;involve research, investigation or crafting.</p>",
+    "class": "Intellectual",
     "price": "1",
     "purchased": false,
     "class_default": false,
     "logic": ""
   },
   "effects": [],
-  "folder": "cJPDzs27jPdqAVDV",
+  "folder": null,
   "ownership": {
     "default": 0,
     "kpkmRRldHuGvdiEN": 3
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739509872959,
-    "modifiedTime": 1739559709696,
+    "createdTime": 1739558863355,
+    "modifiedTime": 1739558863355,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "sFY0NiKzWYu3tL5k",
-  "sort": 1000000,
-  "_key": "!items!sFY0NiKzWYu3tL5k"
+  "_id": "B2PKymrwkOfJUcim",
+  "sort": 0,
+  "_key": "!items!B2PKymrwkOfJUcim"
 }

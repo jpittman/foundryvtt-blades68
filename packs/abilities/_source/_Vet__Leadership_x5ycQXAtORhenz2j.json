@@ -1,9 +1,9 @@
 {
-  "name": "(Vet) Got Your Back",
+  "name": "(Vet) Leadership",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>When you <strong>protect</strong> a teammate, clear <strong>1 stress</strong>&nbsp;and take <strong>+1d</strong> to any resistance rolls.</p>",
+    "description": "<p>When you <strong>Command</strong> a <strong>cohort</strong> in combat, they&nbsp;continue to fight when they would otherwise <strong>break</strong> (they're not&nbsp;taken out when they suffer level 3 harm). They gain <strong>increased&nbsp;effect</strong> and <strong>1 armor</strong>.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
     "class": "Veteran",
     "price": "1",
     "purchased": false,
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739509872959,
-    "modifiedTime": 1739559709696,
+    "createdTime": 1739559715169,
+    "modifiedTime": 1739559715169,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "sFY0NiKzWYu3tL5k",
-  "sort": 1000000,
-  "_key": "!items!sFY0NiKzWYu3tL5k"
+  "_id": "x5ycQXAtORhenz2j",
+  "sort": 0,
+  "_key": "!items!x5ycQXAtORhenz2j"
 }

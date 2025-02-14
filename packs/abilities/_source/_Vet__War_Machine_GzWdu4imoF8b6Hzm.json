@@ -1,9 +1,9 @@
 {
-  "name": "(Vet) Got Your Back",
+  "name": "(Vet) War Machine",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>When you <strong>protect</strong> a teammate, clear <strong>1 stress</strong>&nbsp;and take <strong>+1d</strong> to any resistance rolls.</p>",
+    "description": "<p>When you <strong>push yourself</strong>, you can also do one of&nbsp;the following: <em>sweep and secure a large area single-handedly&nbsp;and without pausing&mdash; engage an improbable number of&nbsp;enemies in a ballet of violence.</em></p>",
     "class": "Veteran",
     "price": "1",
     "purchased": false,
@@ -11,7 +11,7 @@
     "logic": ""
   },
   "effects": [],
-  "folder": "cJPDzs27jPdqAVDV",
+  "folder": "5Sb9YUatUQwtpdMZ",
   "ownership": {
     "default": 0,
     "kpkmRRldHuGvdiEN": 3
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739509872959,
-    "modifiedTime": 1739559709696,
+    "createdTime": 1739559830604,
+    "modifiedTime": 1739559830604,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "sFY0NiKzWYu3tL5k",
-  "sort": 1000000,
-  "_key": "!items!sFY0NiKzWYu3tL5k"
+  "_id": "GzWdu4imoF8b6Hzm",
+  "sort": 0,
+  "_key": "!items!GzWdu4imoF8b6Hzm"
 }

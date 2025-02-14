@@ -1,0 +1,33 @@
+{
+  "name": "(H68) In Too Deep",
+  "type": "ability",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Once per score, you can <strong>Consort</strong> with an NPC to&nbsp;form an intimate bond. If you have such a bond with someone&nbsp;involved in a score, you get <strong>+1d</strong> and <strong>potency</strong> to any actions&nbsp;dealing with them. If they suffer due to the outcome of the score,&nbsp;take <strong>3 stress</strong>.</p>",
+    "class": "Hound '68",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": "PaUiEAoDgddaXGEi",
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739558461874,
+    "modifiedTime": 1739558461874,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_id": "s0LMO256MouiyuCu",
+  "sort": 0,
+  "_key": "!items!s0LMO256MouiyuCu"
+}
