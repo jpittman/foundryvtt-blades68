@@ -1,10 +1,10 @@
 {
-  "name": "(R) Solidarity",
+  "name": "(P) Psychokinesis",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>You gain <strong>potency</strong> when attempting to <strong>Consort</strong>&nbsp;with or <strong>Sway</strong> people from cultures or backgrounds other&nbsp;than your own.</p>",
-    "class": "Radical",
+    "description": "<p>When you <strong>push yourself</strong>, you can also do one&nbsp;of the following: <em>levitate for a short time&mdash;violently push or&nbsp;pull objects through the air.</em></p>",
+    "class": "Paranormalist",
     "price": "1",
     "purchased": false,
     "class_default": false,
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739559386009,
+    "createdTime": 1739567803318,
     "modifiedTime": 1739568088844,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "KLPoy7Hi7YoHMXpd",
-  "sort": 1500000,
-  "_key": "!items!KLPoy7Hi7YoHMXpd"
+  "_id": "URXBe3aXEuSPBGTL",
+  "sort": 500000,
+  "_key": "!items!URXBe3aXEuSPBGTL"
 }

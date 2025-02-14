@@ -1,0 +1,33 @@
+{
+  "name": "(P) Echo Projection",
+  "type": "ability",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Pay <strong>2 stress</strong> to become a radiant being of&nbsp;crackling energy. While in this mode you ignore all harm&nbsp;penalties (level 4 harm is still lethal), your physical attacks&nbsp;gain <strong>potency</strong>, and you can push yourself to shoot arcs of&nbsp;electroplasmic lightning. The projection drops at the end of&nbsp;the scene (or pay 2 stress to continue for another scene).&nbsp;When you drop the projection, take the level 2 harm Drained&nbsp;and the GM will tick a clock of their choice (you may resist&nbsp;these consequences).</p>",
+    "class": "Paranormalist",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": "537uDqf28OmWJoAM",
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739568246552,
+    "modifiedTime": 1739568246552,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_id": "EU0FULz1PHMzYXI3",
+  "sort": 0,
+  "_key": "!items!EU0FULz1PHMzYXI3"
+}
