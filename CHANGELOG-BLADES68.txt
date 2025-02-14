@@ -7,12 +7,25 @@ v.0.0.1
 	- Added scripts to serialize and deserialize the data for dev and testing.
 	- Added in scripts to do that as apart of the release process.
 	- Added in a Blades68 Compendium.
-	- Added in Blades68 specific playbook basics:
+	- Added in Blades68 playbook basics:
 		- Name label
 		- Description
 		- Experience clues
 		- Base action stats
 		- Contact labels (Acquaintances)
+	- Added in Blades68 playbooks:
+		- Ghost/Echo
+		- Hound
+		- Hull
+		- Intellectual
+		- Operative
+		- Paranormalist
+		- Radical
+		- Swinger
+		- Time Traveler (Future)
+		- Time Traveler (Past)
+		- Vampire
+		- Veteran
 	- Temporarily change the way that experience clues are displayed.
 - KKNOWN ISSUES
 	- Scripts for the release process do not currently work. Hand rolled releases for now.

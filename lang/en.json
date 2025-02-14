@@ -256,6 +256,9 @@
   "BITD.Drain": "Drain",
   "BITD.Wear": "Wear",
   "BITD.Gloom": "Gloom",
+  
+  "BLADES68.Instability":"Instability",
+  "BLADES68.TemporalGlitches":"Temporal Glitches",
 
   "BITD.Add": "Add",
   "BITD.Effects": "Effects",
@@ -282,7 +285,8 @@
   "BITD.Acquaintances": "Acquaintances",
   "BITD.Contacts": "Contacts",
   "BLADES68.BrilliantFriends":"Brilliant Friends",
-  "BLADES68.DifficultFriends":"Difficult Friends",
+  "BLADES68.CovertFriends":"Covert Friends",
+  "BLADES68.DifficultFriends":"Difficult Friends",  
   "BLADES68.FunFriends":"Fun Friends",
   "BLADES68.ShadyFriends":"Shady Friends",
   "BLADES68.ZealousFriends":"Zealous Friends",
