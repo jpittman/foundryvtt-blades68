@@ -1,10 +1,10 @@
 {
-  "name": "(R) Total Dedication",
+  "name": "(O) Infiltrator",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>When you roll a desperate action, you get&nbsp;<strong>+1d</strong> to your roll if you also take <strong>-1d</strong> to any resistance rolls&nbsp;against consequences from your action.</p>",
-    "class": "Radical",
+    "description": "<p>Twice per score, you may use your <strong>precision</strong> to&nbsp;resist a consequence from detection or security measures,&nbsp;or to <strong>push yourself</strong> for a feat of athletics or stealth. When&nbsp;you attack from hiding, you get <strong>+1d</strong>.</p>",
+    "class": "Operative",
     "price": "1",
     "purchased": false,
     "class_default": false,
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739559475168,
+    "createdTime": 1739564246828,
     "modifiedTime": 1739565005074,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "FlDw8ARtrzG1ei8Q",
-  "sort": 800000,
-  "_key": "!items!FlDw8ARtrzG1ei8Q"
+  "_id": "GP1wU6svkckxFVRU",
+  "sort": 1200000,
+  "_key": "!items!GP1wU6svkckxFVRU"
 }

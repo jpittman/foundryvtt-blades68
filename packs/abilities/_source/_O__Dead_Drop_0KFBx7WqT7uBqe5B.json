@@ -1,10 +1,10 @@
 {
-  "name": "(R) Total Dedication",
+  "name": "(O) Dead Drop",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>When you roll a desperate action, you get&nbsp;<strong>+1d</strong> to your roll if you also take <strong>-1d</strong> to any resistance rolls&nbsp;against consequences from your action.</p>",
-    "class": "Radical",
+    "description": "<p>You have access to a Bound Resonance Entity that will leave up to <strong>2 load</strong> of items anywhere you need it.&nbsp;You can flashback to requesting the item(s), left anywhere&nbsp;you choose, for free.</p>",
+    "class": "Operative",
     "price": "1",
     "purchased": false,
     "class_default": false,
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739559475168,
+    "createdTime": 1739564468048,
     "modifiedTime": 1739565005074,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "FlDw8ARtrzG1ei8Q",
-  "sort": 800000,
-  "_key": "!items!FlDw8ARtrzG1ei8Q"
+  "_id": "0KFBx7WqT7uBqe5B",
+  "sort": 200000,
+  "_key": "!items!0KFBx7WqT7uBqe5B"
 }
