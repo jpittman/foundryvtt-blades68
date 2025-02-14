@@ -1,0 +1,33 @@
+{
+  "name": "(Vet) Walking Arsenal",
+  "type": "ability",
+  "_id": "M4T3cuHQWn1AKM38",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p class=\"p1\">Your load limit is always 2 higher than normal&nbsp;(5 for a Quiet approach, 8 for Loud). Add another gun to your&nbsp;load list at any time, no matter how many you&rsquo;ve already used&nbsp;and discarded.</p>",
+    "class": "Veteran",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739510238680,
+    "modifiedTime": 1739510290718,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!M4T3cuHQWn1AKM38"
+}

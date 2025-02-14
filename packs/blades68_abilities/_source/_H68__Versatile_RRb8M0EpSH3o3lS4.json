@@ -1,0 +1,33 @@
+{
+  "name": "(H68) Versatile",
+  "type": "ability",
+  "_id": "RRb8M0EpSH3o3lS4",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p class=\"p1\">Choose a special ability from another source.</p>",
+    "class": "Hound '68",
+    "price": "2",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739512119001,
+    "modifiedTime": 1739512169687,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!RRb8M0EpSH3o3lS4"
+}

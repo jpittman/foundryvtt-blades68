@@ -1,0 +1,33 @@
+{
+  "name": "(H68) Hound's Instincts",
+  "type": "ability",
+  "_id": "S78M8xaoSf5DJBC5",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p class=\"p1\">When you <strong>push yourself</strong>, you can also do&nbsp;one of the following: <em>try to figure out where to go next, even with&nbsp;zero leads&mdash;make someone stop and listen to you for a few&nbsp;moments, no matter how unlikely it is.</em></p>",
+    "class": "Hound '68",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739510812033,
+    "modifiedTime": 1739510914911,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!S78M8xaoSf5DJBC5"
+}

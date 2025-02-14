@@ -1,0 +1,33 @@
+{
+  "name": "(H68) Echo Pet",
+  "type": "ability",
+  "_id": "DyYB3z4I7RAzrxsx",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Your pet is imbued with anomalous resonance. It&nbsp;gains <strong>potency</strong> when tracking or fighting the paranormal, and&nbsp;gains a paranormal ability: reality-phasing, mind-link, or&nbsp;time-looping. Take this ability again to choose an additional&nbsp;paranormal ability for your pet.</p>",
+    "class": "Hound '68",
+    "price": "2",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739511935685,
+    "modifiedTime": 1739511989856,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!DyYB3z4I7RAzrxsx"
+}

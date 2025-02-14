@@ -27,6 +27,9 @@ v.0.0.1
 		- Vampire
 		- Veteran
 	- Temporarily change the way that experience clues are displayed.
+	- Added abilities for Blades68 playbooks:
+		- Veteran
+		- Hound
 - KKNOWN ISSUES
 	- Scripts for the release process do not currently work. Hand rolled releases for now.
 	- Blades and Blades68 Dataset are together in the Blades in the Dark compendiums.

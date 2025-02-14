@@ -1,0 +1,33 @@
+{
+  "name": "(Vet) Military Discipline",
+  "type": "ability",
+  "_id": "ctQDcaJQATgnpBSs",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Twice per score, you may use your <strong>training</strong>&nbsp;to eliminate harm from an attack in combat or to <strong>push yourself</strong>&nbsp;during a fight.</p>\n<p>&nbsp;</p>",
+    "class": "Veteran",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739508758206,
+    "modifiedTime": 1739510307015,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!ctQDcaJQATgnpBSs"
+}
