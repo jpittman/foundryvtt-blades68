@@ -1,0 +1,33 @@
+{
+  "name": "(R) Pamphleteer",
+  "type": "ability",
+  "_id": "ophfr9vYJN8G5qaY",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You can publish revolutionary literature as a&nbsp;<strong>6-step long-term project</strong>. Name each work. Once complete,&nbsp;a published work can tick another long-term project clock&nbsp;related to the revolution, once per downtime (maximum of&nbsp;four such works may be in effective circulation). If you die or&nbsp;get imprisoned, each work adds <strong>two ticks</strong>.</p>",
+    "class": "Radical",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739556652243,
+    "modifiedTime": 1739556803205,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!ophfr9vYJN8G5qaY"
+}

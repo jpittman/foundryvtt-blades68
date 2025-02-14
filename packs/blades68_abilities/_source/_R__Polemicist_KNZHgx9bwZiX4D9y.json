@@ -1,0 +1,33 @@
+{
+  "name": "(R) Polemicist",
+  "type": "ability",
+  "_id": "KNZHgx9bwZiX4D9y",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p class=\"p1\">When you <strong>push</strong> yourself, you can also do one of&nbsp;the following: <em>whip a crowd into a righteous fury&mdash;make a&nbsp;hostile or unreasonable person listen to you for a moment.</em></p>",
+    "class": "Radical",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739556448250,
+    "modifiedTime": 1739556512344,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!KNZHgx9bwZiX4D9y"
+}

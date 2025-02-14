@@ -1,0 +1,33 @@
+{
+  "name": "(I) Mentalist",
+  "type": "ability",
+  "_id": "x78w43hAppU4wZHN",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p class=\"p1\">You can deduce trivial details about anyone.&nbsp;Study them to reveal a deep desire they didn&rsquo;t even know&nbsp;they had; gain <strong>+1d </strong>and <strong>potency</strong> when acting on this&nbsp;information.</p>",
+    "class": "Intellectual",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739554480516,
+    "modifiedTime": 1739554533701,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!x78w43hAppU4wZHN"
+}

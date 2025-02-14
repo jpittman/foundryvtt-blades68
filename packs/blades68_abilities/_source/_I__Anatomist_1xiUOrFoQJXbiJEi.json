@@ -1,0 +1,33 @@
+{
+  "name": "(I) Anatomist",
+  "type": "ability",
+  "_id": "1xiUOrFoQJXbiJEi",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p class=\"p1\">You can <strong>Wrench</strong> the human body to treat&nbsp;wounds or stabilize the dying. You may <strong>Study</strong> a sickness or&nbsp;corpse. Everyone in your crew gets <strong>+1d</strong> to their healing&nbsp;treatment rolls.</p>",
+    "class": "Intellectual",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739555200195,
+    "modifiedTime": 1739555280990,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!1xiUOrFoQJXbiJEi"
+}

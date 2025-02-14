@@ -1,0 +1,33 @@
+{
+  "name": "(I) Deep Thinker",
+  "type": "ability",
+  "_id": "Ptv1d3qgCrPb67k6",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p class=\"p1\">When you expound upon your unique and&nbsp;brilliant insights, roll <strong>Study</strong> to confuse or impress a target.&nbsp;When you first act against those confounded by your&nbsp;brilliant arguments, gain <strong>potency</strong>.</p>",
+    "class": "Intellectual",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739555296105,
+    "modifiedTime": 1739555351801,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!Ptv1d3qgCrPb67k6"
+}
