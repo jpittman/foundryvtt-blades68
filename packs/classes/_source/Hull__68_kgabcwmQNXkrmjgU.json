@@ -1,11 +1,11 @@
 {
-  "name": "Swinger",
+  "name": "Hull '68",
   "type": "class",
-  "img": "systems/blades68/styles/assets/icons/Icon.1_01.png",
+  "img": "systems/blades68/styles/assets/icons/Icon.7_05.png",
   "system": {
-    "description": "<p>a WHEELER and DEALER &mdash;</p>\n<p>the LIFE of the PARTY</p>",
+    "description": "<p>the SOUL of a&nbsp;CONDEMNED criminal</p>\n<p>TRAPPED in a ROBOT BODY</p>",
     "logic": "",
-    "experience_clues": "<ul>\n<li class=\"p1\">Every time you roll a <em><strong>desperate action</strong></em> or a <em><strong>zero-dot action</strong></em>, mark xp&nbsp;in that action&rsquo;s attribute.</li>\n<li class=\"p1\">Once per session when you <em><strong>hit a key</strong></em>, mark 1 xp and mark the key.</li>\n</ul>\n<p class=\"p1\">At the end of each session, mark 1 xp (or 2 xp if you really smashed it) if:</p>\n<ul>\n<li style=\"font-style: italic;\"><em>You addressed a challenge with <strong>charm</strong> or <strong>quick-thinking</strong></em><em>.</em></li>\n<li style=\"font-style: italic;\"><em>You struggled with issues stemming from a <strong>deadlock</strong>.</em></li>\n</ul>",
+    "experience_clues": "<ul>\n<li class=\"p1\">Every time you roll a <em><strong>desperate action</strong></em> or a <em><strong>zero-dot action</strong></em>, mark xp&nbsp;in that action&rsquo;s attribute.</li>\n<li class=\"p1\">Once per session when you <em><strong>hit a key</strong></em>, mark 1 xp and mark the key.</li>\n</ul>\n<p class=\"p1\">At the end of each session, mark 1 xp (or 2 xp if you really smashed it) if:</p>\n<ul>\n<li style=\"font-style: italic;\"><em>You addressed a challenge with <strong>cold simplicity</strong></em><em>.</em></li>\n<li style=\"font-style: italic;\"><em>You struggled with issues stemming from a <strong>deadlock</strong>.</em></li>\n</ul>",
     "base_skills": {
       "hunt": [
         0
@@ -47,9 +47,9 @@
   },
   "effects": [
     {
-      "name": "Swinger Playbook",
+      "name": "Hull Playbook",
       "img": "systems/blades68/styles/assets/icons/Icon.3_13.png",
-      "origin": "Compendium.world.blades68-classes.Item.nEURBdHe4oWEYBob",
+      "origin": "Compendium.blades68.blades68_class.Item.BW2rm6IBDFG18jDi",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -60,26 +60,32 @@
         "startTurn": null
       },
       "disabled": false,
-      "_id": "pNshU4knyzNWSVgz",
+      "_id": "076wvOE9yUd7MOYr",
       "type": "base",
       "system": {},
       "changes": [
         {
           "key": "system.acquaintances_label",
           "mode": 5,
-          "value": "BLADES68.FunFriends",
+          "value": "BITD.Contacts",
           "priority": null
         },
         {
-          "key": "system.experience_clues",
-          "mode": 2,
-          "value": "BITD.ExpChallengeDeception",
+          "key": "system.stress.name",
+          "mode": 5,
+          "value": "BITD.Drain",
           "priority": null
         },
         {
           "key": "system.playbook",
           "mode": 5,
-          "value": "Swinger",
+          "value": "Hull",
+          "priority": null
+        },
+        {
+          "key": "system.experience_clues",
+          "mode": 5,
+          "value": "[\"BITD.ExpStruggledWear\", \"BITD.ExpSuppressedHumanLife\", \"BITD.ExpFulfilledFunctions\"]",
           "priority": null
         }
       ],
@@ -99,12 +105,12 @@
         "modifiedTime": null,
         "lastModifiedBy": null
       },
-      "_key": "!items.effects!3Vqh53ogGAK7pZBm.pNshU4knyzNWSVgz"
+      "_key": "!items.effects!kgabcwmQNXkrmjgU.076wvOE9yUd7MOYr"
     },
     {
-      "name": "Swinger Action Ratings",
+      "name": "Hull Action Ratings",
       "img": "systems/blades68/styles/assets/icons/Icon.3_13.png",
-      "origin": "Compendium.world.blades68-classes.Item.nEURBdHe4oWEYBob",
+      "origin": "Compendium.blades68.blades68_class.Item.BW2rm6IBDFG18jDi",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -115,20 +121,20 @@
         "startTurn": null
       },
       "disabled": false,
-      "_id": "4jajkbXswLPCPqRo",
+      "_id": "BvXBxXs77HaGAGeU",
       "type": "base",
       "system": {},
       "changes": [
         {
-          "key": "system.attributes.prowess.skills.finesse.min",
+          "key": "system.attributes.prowess.skills.skirmish.min",
           "mode": 2,
           "value": "1",
           "priority": null
         },
         {
-          "key": "system.attributes.resolve.skills.sway.min",
+          "key": "system.attributes.resolve.skills.attune.min",
           "mode": 2,
-          "value": "2",
+          "value": "1",
           "priority": null
         }
       ],
@@ -148,7 +154,7 @@
         "modifiedTime": null,
         "lastModifiedBy": null
       },
-      "_key": "!items.effects!3Vqh53ogGAK7pZBm.4jajkbXswLPCPqRo"
+      "_key": "!items.effects!kgabcwmQNXkrmjgU.BvXBxXs77HaGAGeU"
     }
   ],
   "folder": null,
@@ -163,11 +169,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739393434077,
+    "createdTime": 1739503928880,
     "modifiedTime": 1739505589711,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "3Vqh53ogGAK7pZBm",
-  "sort": 300000,
-  "_key": "!items!3Vqh53ogGAK7pZBm"
+  "_id": "kgabcwmQNXkrmjgU",
+  "sort": 1200000,
+  "_key": "!items!kgabcwmQNXkrmjgU"
 }

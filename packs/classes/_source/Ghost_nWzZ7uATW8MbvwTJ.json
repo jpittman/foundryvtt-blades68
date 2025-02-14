@@ -194,14 +194,14 @@
   "_stats": {
     "systemId": "blades68",
     "systemVersion": "4.9",
-    "coreVersion": "12.327",
+    "coreVersion": "12.331",
     "createdTime": 1686682646892,
-    "modifiedTime": 1711074720134,
-    "lastModifiedBy": "B7A33cKMwj3J5fQB",
+    "modifiedTime": 1739505589711,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN",
     "compendiumSource": "Compendium.blades68.class.GjmMFKjGfUaoDiTr",
     "duplicateSource": null
   },
   "folder": null,
-  "sort": 0,
+  "sort": 800000,
   "_key": "!items!nWzZ7uATW8MbvwTJ"
 }

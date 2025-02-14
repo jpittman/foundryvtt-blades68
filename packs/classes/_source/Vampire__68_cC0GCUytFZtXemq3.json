@@ -1,11 +1,11 @@
 {
-  "name": "Veteran",
+  "name": "Vampire '68",
   "type": "class",
-  "img": "systems/blades68/styles/assets/icons/Icon.3_32.png",
+  "img": "systems/blades68/styles/assets/icons/Icon.4_63.png",
   "system": {
-    "description": "<p>a BATTERED SOLDIER</p>\n<p>RETURNED from THE FRONT</p>",
+    "description": "<p>a RESONANCE ECHO</p>\n<p>animating an UNDYING BODY</p>",
     "logic": "",
-    "experience_clues": "<ul>\n<li class=\"p1\">Every time you roll a <em><strong>desperate action</strong></em> or a <em><strong>zero-dot action</strong></em>, mark xp&nbsp;in that action&rsquo;s attribute.</li>\n<li class=\"p1\">Once per session when you <em><strong>hit a key</strong></em>, mark 1 xp and mark the key.</li>\n</ul>\n<p class=\"p1\">At the end of each session, mark 1 xp (or 2 xp if you really smashed it) if:</p>\n<ul>\n<li style=\"font-style: italic;\"><em>You addressed a challenge with <strong>violence</strong> or <strong>discipline</strong>.</em></li>\n<li style=\"font-style: italic;\"><em>You struggled with issues stemming from a <strong>deadlock</strong>.</em></li>\n</ul>",
+    "experience_clues": "<ul>\n<li class=\"p1\">Every time you roll a <em><strong>desperate action</strong></em> or a <em><strong>zero-dot action</strong></em>, mark xp&nbsp;in that action&rsquo;s attribute.</li>\n</ul>\n<p class=\"p1\">At the end of each session, mark 1 xp (or 2 xp if you really smashed it) if:</p>\n<ul>\n<li style=\"font-style: italic;\"><em>You addressed a challenge with <strong>dominance</strong> or <strong>slayed without mercy</strong>.</em></li>\n<li><em>You struggled with issues stemming from a <strong>deadlock or</strong></em> stricture.</li>\n</ul>",
     "base_skills": {
       "hunt": [
         0
@@ -47,9 +47,9 @@
   },
   "effects": [
     {
-      "name": "Veteran Playbook",
+      "name": "Vampire Playbook",
       "img": "systems/blades68/styles/assets/icons/Icon.3_13.png",
-      "origin": "Compendium.world.classes.Item.YtQN3wWpdaUAo55d",
+      "origin": "Compendium.blades68.blades68_class.Item.FrlBw3uPXhcvUDO6",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -60,26 +60,62 @@
         "startTurn": null
       },
       "disabled": false,
-      "_id": "Ftyr20v2adyQf60Y",
+      "_id": "lpMxaLocfXbMmqfk",
       "type": "base",
       "system": {},
       "changes": [
         {
           "key": "system.acquaintances_label",
           "mode": 5,
-          "value": "BLADES68.DifficultFriends",
+          "value": "BITD.DarkServants",
+          "priority": null
+        },
+        {
+          "key": "system.trauma.options",
+          "mode": 5,
+          "value": "[\"BITD.TraumaCold\", \"BITD.TraumaHaunted\", \"BITD.TraumaObsessed\", \"BITD.TraumaParanoid\", \"BITD.TraumaRuthless\", \"BITD.TraumaSecretive\", \"BITD.TraumaUnstable\", \"BITD.TraumaVicious\"]",
+          "priority": null
+        },
+        {
+          "key": "system.stress.max",
+          "mode": 2,
+          "value": "3",
+          "priority": null
+        },
+        {
+          "key": "system.experience_max",
+          "mode": 2,
+          "value": "2",
+          "priority": null
+        },
+        {
+          "key": "system.attributes.insight.exp_max",
+          "mode": 5,
+          "value": "8",
+          "priority": null
+        },
+        {
+          "key": "system.attributes.prowess.exp_max",
+          "mode": 5,
+          "value": "8",
+          "priority": null
+        },
+        {
+          "key": "system.attributes.resolve.exp_max",
+          "mode": 5,
+          "value": "8",
           "priority": null
         },
         {
           "key": "system.experience_clues",
           "mode": 2,
-          "value": "BITD.ExpChallengeViolence",
+          "value": "BITD.ExpDisplayedDominance",
           "priority": null
         },
         {
           "key": "system.playbook",
           "mode": 5,
-          "value": "Veteran",
+          "value": "Vampire",
           "priority": null
         }
       ],
@@ -96,15 +132,15 @@
         "systemId": "blades68",
         "systemVersion": "0.0.1",
         "createdTime": null,
-        "modifiedTime": 1739384762629,
-        "lastModifiedBy": "kpkmRRldHuGvdiEN"
+        "modifiedTime": null,
+        "lastModifiedBy": null
       },
-      "_key": "!items.effects!gytadI66DMn42EGP.Ftyr20v2adyQf60Y"
+      "_key": "!items.effects!cC0GCUytFZtXemq3.lpMxaLocfXbMmqfk"
     },
     {
-      "name": "Veteran Action Ratings",
+      "name": "New Effect",
       "img": "systems/blades68/styles/assets/icons/Icon.3_13.png",
-      "origin": "Compendium.world.classes.Item.YtQN3wWpdaUAo55d",
+      "origin": "Compendium.blades68.blades68_class.Item.FrlBw3uPXhcvUDO6",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -115,14 +151,20 @@
         "startTurn": null
       },
       "disabled": false,
-      "_id": "5KJF8ch3bMOhWIOJ",
+      "_id": "Kp5RmRxXCS398HlV",
       "type": "base",
       "system": {},
       "changes": [
         {
           "key": "system.attributes.insight.skills.hunt.min",
           "mode": 2,
-          "value": "2",
+          "value": "1",
+          "priority": null
+        },
+        {
+          "key": "system.attributes.prowess.skills.prowl.min",
+          "mode": 2,
+          "value": "1",
           "priority": null
         },
         {
@@ -132,7 +174,19 @@
           "priority": null
         },
         {
+          "key": "system.attributes.resolve.skills.attune.min",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        },
+        {
           "key": "system.attributes.resolve.skills.command.min",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        },
+        {
+          "key": "system.attributes.resolve.skills.sway.min",
           "mode": 2,
           "value": "1",
           "priority": null
@@ -154,10 +208,14 @@
         "modifiedTime": null,
         "lastModifiedBy": null
       },
-      "_key": "!items.effects!gytadI66DMn42EGP.5KJF8ch3bMOhWIOJ"
+      "_key": "!items.effects!cC0GCUytFZtXemq3.Kp5RmRxXCS398HlV"
     }
   ],
   "folder": null,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
   "flags": {},
   "_stats": {
     "compendiumSource": null,
@@ -165,15 +223,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739301830080,
+    "createdTime": 1739505589682,
     "modifiedTime": 1739505589711,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "ownership": {
-    "default": 0,
-    "kpkmRRldHuGvdiEN": 3
-  },
-  "_id": "gytadI66DMn42EGP",
-  "sort": 700000,
-  "_key": "!items!gytadI66DMn42EGP"
+  "_id": "cC0GCUytFZtXemq3",
+  "sort": 400000,
+  "_key": "!items!cC0GCUytFZtXemq3"
 }

@@ -1,0 +1,142 @@
+{
+  "name": "Time Traveller (from the Future)",
+  "type": "class",
+  "img": "systems/blades68/styles/assets/icons/Icon.2_17.png",
+  "system": {
+    "description": "<p>a VOYAGER visiting</p>\n<p>this ERA on an</p>\n<p>important MISSION</p>",
+    "logic": "",
+    "experience_clues": "<ul>\n<li class=\"p1\">Every time you roll a <em><strong>desperate action</strong></em> or a <em><strong>zero-dot action</strong></em>, mark xp&nbsp;in that action&rsquo;s attribute.</li>\n<li class=\"p1\">Once per session when you <em><strong>hit a key</strong></em>, mark 1 xp and mark the key.</li>\n</ul>\n<p class=\"p1\">At the end of each session, mark 1 xp (or 2 xp if you really smashed it) if:</p>\n<ul>\n<li style=\"font-style: italic;\"><em>You addressed a challenge with <strong>fearless conviction</strong> or <strong>lateral thinking</strong>.</em></li>\n<li style=\"font-style: italic;\"><em>You struggled with issues stemming from a <strong>temporal glitch</strong></em><em>.</em></li>\n</ul>",
+    "base_skills": {
+      "hunt": [
+        0
+      ],
+      "study": [
+        0
+      ],
+      "survey": [
+        0
+      ],
+      "tinker": [
+        0
+      ],
+      "finesse": [
+        0
+      ],
+      "prowl": [
+        0
+      ],
+      "skirmish": [
+        0
+      ],
+      "wreck": [
+        0
+      ],
+      "attune": [
+        0
+      ],
+      "command": [
+        0
+      ],
+      "consort": [
+        0
+      ],
+      "sway": [
+        0
+      ]
+    }
+  },
+  "effects": [
+    {
+      "name": "Time Traveller (Future) Playbook",
+      "img": "systems/blades68/styles/assets/icons/Icon.3_13.png",
+      "origin": "Compendium.blades68.blades68_class.Item.13fJnikXu5mUsP8b",
+      "duration": {
+        "rounds": null,
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "wBSmsJ1oHeTIFku9",
+      "type": "base",
+      "system": {},
+      "changes": [
+        {
+          "key": "system.acquaintances_label",
+          "mode": 5,
+          "value": "",
+          "priority": null
+        },
+        {
+          "key": "system.experience_clues",
+          "mode": 2,
+          "value": "BITD.ExpChallengeViolence",
+          "priority": null
+        },
+        {
+          "key": "system.playbook",
+          "mode": 5,
+          "value": "Time Traveller",
+          "priority": null
+        },
+        {
+          "key": "system.stress.name",
+          "mode": 5,
+          "value": "BLADES68.Instability",
+          "priority": null
+        },
+        {
+          "key": "system.trauma.name",
+          "mode": 5,
+          "value": "BLADES68.TemportalGlitches",
+          "priority": null
+        },
+        {
+          "key": "system.trauma.options",
+          "mode": 5,
+          "value": "",
+          "priority": null
+        }
+      ],
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "blades68",
+        "systemVersion": "0.0.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!items.effects!DrpxYbyFJWi4DAoA.wBSmsJ1oHeTIFku9"
+    }
+  ],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739507105994,
+    "modifiedTime": 1739507105994,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_id": "DrpxYbyFJWi4DAoA",
+  "sort": 0,
+  "_key": "!items!DrpxYbyFJWi4DAoA"
+}
