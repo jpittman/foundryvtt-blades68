@@ -4,7 +4,7 @@
   "_id": "dFJasq6GERr8lC5J",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p class=\"p1\">Once per score, you can <strong>Consort</strong> with an NPC to&nbsp;form an intimate bond. If you have such a bond with someone&nbsp;involved in a score, you get <strong>+1d</strong> and <strong>potency</strong> to any actions&nbsp;dealing with them. If they suffer due to the outcome of the score,&nbsp;take <strong>3 stress</strong>.</p>",
+    "description": "<p>Once per score, you can <strong>Consort</strong> with an NPC to&nbsp;form an intimate bond. If you have such a bond with someone&nbsp;involved in a score, you get <strong>+1d</strong> and <strong>potency</strong> to any actions&nbsp;dealing with them. If they suffer due to the outcome of the score,&nbsp;take <strong>3 stress</strong>.</p>",
     "class": "Hound '68",
     "price": "1",
     "purchased": false,
@@ -26,7 +26,7 @@
     "systemId": "blades68",
     "systemVersion": "0.0.1",
     "createdTime": 1739511796637,
-    "modifiedTime": 1739511915813,
+    "modifiedTime": 1739558450568,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
   "_key": "!items!dFJasq6GERr8lC5J"

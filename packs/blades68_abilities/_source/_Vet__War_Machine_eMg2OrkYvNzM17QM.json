@@ -4,7 +4,7 @@
   "_id": "eMg2OrkYvNzM17QM",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p class=\"p1\">When you <strong>push yourself</strong>, you can also do one of&nbsp;the following: <em>sweep and secure a large area single-handedly&nbsp;and without pausing&mdash; engage an improbable number of&nbsp;enemies in a ballet of violence.</em></p>",
+    "description": "<p>When you <strong>push yourself</strong>, you can also do one of&nbsp;the following: <em>sweep and secure a large area single-handedly&nbsp;and without pausing&mdash; engage an improbable number of&nbsp;enemies in a ballet of violence.</em></p>",
     "class": "Veteran",
     "price": "1",
     "purchased": false,
@@ -26,7 +26,7 @@
     "systemId": "blades68",
     "systemVersion": "0.0.1",
     "createdTime": 1739510382135,
-    "modifiedTime": 1739510470180,
+    "modifiedTime": 1739559822514,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
   "_key": "!items!eMg2OrkYvNzM17QM"

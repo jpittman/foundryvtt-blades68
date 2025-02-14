@@ -4,7 +4,7 @@
   "_id": "x78w43hAppU4wZHN",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p class=\"p1\">You can deduce trivial details about anyone.&nbsp;Study them to reveal a deep desire they didn&rsquo;t even know&nbsp;they had; gain <strong>+1d </strong>and <strong>potency</strong> when acting on this&nbsp;information.</p>",
+    "description": "<p>You can deduce trivial details about anyone.&nbsp;Study them to reveal a deep desire they didn&rsquo;t even know&nbsp;they had; gain <strong>+1d</strong> and <strong>potency</strong> when acting on this&nbsp;information.</p>",
     "class": "Intellectual",
     "price": "1",
     "purchased": false,
@@ -26,7 +26,7 @@
     "systemId": "blades68",
     "systemVersion": "0.0.1",
     "createdTime": 1739554480516,
-    "modifiedTime": 1739554533701,
+    "modifiedTime": 1739558905396,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
   "_key": "!items!x78w43hAppU4wZHN"

@@ -4,7 +4,7 @@
   "_id": "m9z73Wxo44VHeV2X",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p class=\"p1\"><span class=\"s1\">T</span>wice per score, you may use your&nbsp;<strong>tenacity</strong> to resist a consequence of exhaustion or mental harm&nbsp;(fear, confusion, losing track of someone) or to <strong>push yourself </strong>for&nbsp;influencing someone or searching for clues.</p>",
+    "description": "<p>Twice per score, you may use your&nbsp;<strong>tenacity</strong> to resist a consequence of exhaustion or mental harm&nbsp;(fear, confusion, losing track of someone) or to <strong>push yourself&nbsp;</strong>for&nbsp;influencing someone or searching for clues.</p>",
     "class": "Hound '68",
     "price": "1",
     "purchased": false,
@@ -26,7 +26,7 @@
     "systemId": "blades68",
     "systemVersion": "0.0.1",
     "createdTime": 1739512034667,
-    "modifiedTime": 1739512101451,
+    "modifiedTime": 1739558243231,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
   "_key": "!items!m9z73Wxo44VHeV2X"

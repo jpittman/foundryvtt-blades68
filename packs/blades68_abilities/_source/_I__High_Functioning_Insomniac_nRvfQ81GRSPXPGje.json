@@ -4,7 +4,7 @@
   "_id": "nRvfQ81GRSPXPGje",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p class=\"p1\">During <strong>downtime</strong>, you get <strong>two&nbsp;ticks</strong> to distribute among any long term project clocks that&nbsp;involve research, investigation or crafting.</p>",
+    "description": "<p>During <strong>downtime</strong>, you get <strong>two&nbsp;ticks</strong> to distribute among any long term project clocks that&nbsp;involve research, investigation or crafting.</p>",
     "class": "Intellectual",
     "price": "1",
     "purchased": false,
@@ -26,7 +26,7 @@
     "systemId": "blades68",
     "systemVersion": "0.0.1",
     "createdTime": 1739554558249,
-    "modifiedTime": 1739554660553,
+    "modifiedTime": 1739558852157,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
   "_key": "!items!nRvfQ81GRSPXPGje"

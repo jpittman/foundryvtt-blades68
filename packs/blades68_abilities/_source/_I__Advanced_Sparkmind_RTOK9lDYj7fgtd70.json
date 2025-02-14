@@ -4,7 +4,7 @@
   "_id": "RTOK9lDYj7fgtd70",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p class=\"p1\">Choose an additional <strong>Type</strong>, or add&nbsp;an <strong>Edge</strong>, or remove a <strong>Flaw</strong>.</p>",
+    "description": "<p>Choose an additional <strong>Type</strong>, or add&nbsp;an <strong>Edge</strong>, or remove a <strong>Flaw</strong>.</p>",
     "class": "Versatile",
     "price": "2",
     "purchased": false,
@@ -26,7 +26,7 @@
     "systemId": "blades68",
     "systemVersion": "0.0.1",
     "createdTime": 1739555374833,
-    "modifiedTime": 1739555436123,
+    "modifiedTime": 1739558669913,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
   "_key": "!items!RTOK9lDYj7fgtd70"

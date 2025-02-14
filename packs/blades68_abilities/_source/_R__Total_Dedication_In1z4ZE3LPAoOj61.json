@@ -4,7 +4,7 @@
   "_id": "In1z4ZE3LPAoOj61",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p class=\"p1\">When you roll a desperate action, you get&nbsp;<strong>+1d</strong> to your roll if you also take <strong>-1d</strong> to any resistance rolls&nbsp;against consequences from your action.</p>",
+    "description": "<p>When you roll a desperate action, you get&nbsp;<strong>+1d</strong> to your roll if you also take <strong>-1d</strong> to any resistance rolls&nbsp;against consequences from your action.</p>",
     "class": "Radical",
     "price": "1",
     "purchased": false,
@@ -26,7 +26,7 @@
     "systemId": "blades68",
     "systemVersion": "0.0.1",
     "createdTime": 1739556826393,
-    "modifiedTime": 1739556885290,
+    "modifiedTime": 1739559466743,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
   "_key": "!items!In1z4ZE3LPAoOj61"

@@ -4,7 +4,7 @@
   "_id": "KNZHgx9bwZiX4D9y",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p class=\"p1\">When you <strong>push</strong> yourself, you can also do one of&nbsp;the following: <em>whip a crowd into a righteous fury&mdash;make a&nbsp;hostile or unreasonable person listen to you for a moment.</em></p>",
+    "description": "<p>When you <strong>push</strong> yourself, you can also do one of&nbsp;the following: <em>whip a crowd into a righteous fury&mdash;make a&nbsp;hostile or unreasonable person listen to you for a moment.</em></p>",
     "class": "Radical",
     "price": "1",
     "purchased": false,
@@ -26,7 +26,7 @@
     "systemId": "blades68",
     "systemVersion": "0.0.1",
     "createdTime": 1739556448250,
-    "modifiedTime": 1739556512344,
+    "modifiedTime": 1739559182329,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
   "_key": "!items!KNZHgx9bwZiX4D9y"

@@ -4,7 +4,7 @@
   "_id": "bmg3FAFmXCQKTcmN",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p class=\"p1\"><span class=\"s1\">C</span>hoose a special ability from another source.</p>",
+    "description": "<p>Choose a special ability from another source.</p>",
     "class": "Radical",
     "price": "2",
     "purchased": false,
@@ -26,7 +26,7 @@
     "systemId": "blades68",
     "systemVersion": "0.0.1",
     "createdTime": 1739556969222,
-    "modifiedTime": 1739556999811,
+    "modifiedTime": 1739559529699,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
   "_key": "!items!bmg3FAFmXCQKTcmN"

@@ -4,7 +4,7 @@
   "_id": "6r9hbgMPJCj64GdQ",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p class=\"p1\">Twice per score, you may use your <strong>conviction</strong>&nbsp;to resist a consequence of law-breaking (being arrested or&nbsp;hassled by bluecoats, etc) or to push yourself when working&nbsp;with explosives.</p>",
+    "description": "<p>Twice per score, you may use your <strong>conviction</strong>&nbsp;to resist a consequence of law-breaking (being arrested or&nbsp;hassled by bluecoats, etc) or to push yourself when working&nbsp;with explosives.</p>",
     "class": "Radical",
     "price": "1",
     "purchased": false,
@@ -26,7 +26,7 @@
     "systemId": "blades68",
     "systemVersion": "0.0.1",
     "createdTime": 1739555580043,
-    "modifiedTime": 1739555644017,
+    "modifiedTime": 1739559489035,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
   "_key": "!items!6r9hbgMPJCj64GdQ"

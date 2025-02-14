@@ -4,7 +4,7 @@
   "_id": "tcJF6WbuDj2658rr",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p class=\"p1\"><span class=\"s1\">Any flashbacks where you gave&nbsp;</span>another crew member just the right gadget before the score&nbsp;are free. Gain one free <strong>downtime action</strong> to craft such a&nbsp; gadget in a flashback.</p>",
+    "description": "<p>Any flashbacks where you gave&nbsp;another crew member just the right gadget before the score&nbsp;are free. Gain one free <strong>downtime action</strong> to craft such a&nbsp; gadget in a flashback.</p>",
     "class": "Intellectual",
     "price": "1",
     "purchased": false,
@@ -26,7 +26,7 @@
     "systemId": "blades68",
     "systemVersion": "0.0.1",
     "createdTime": 1739554677019,
-    "modifiedTime": 1739554748334,
+    "modifiedTime": 1739559040543,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
   "_key": "!items!tcJF6WbuDj2658rr"

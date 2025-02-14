@@ -4,7 +4,7 @@
   "_id": "FOSdo6k2axNccJ90",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p class=\"p1\">If you loudly and visibly destroy a symbolic target&nbsp;during a score, gain <strong>+2 result level</strong> to any <strong>long-term project</strong>&nbsp;rolls related to your revolutionary work during the following&nbsp;downtime.</p>",
+    "description": "<p>If you loudly and visibly destroy a symbolic target&nbsp;during a score, gain <strong>+2 result level</strong> to any <strong>long-term project</strong>&nbsp;rolls related to your revolutionary work during the following&nbsp;downtime.</p>",
     "class": "Radical",
     "price": "1",
     "purchased": false,
@@ -26,7 +26,7 @@
     "systemId": "blades68",
     "systemVersion": "0.0.1",
     "createdTime": 1739556530840,
-    "modifiedTime": 1739556614656,
+    "modifiedTime": 1739559265225,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
   "_key": "!items!FOSdo6k2axNccJ90"

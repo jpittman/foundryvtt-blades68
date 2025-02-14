@@ -4,7 +4,7 @@
   "_id": "JO4LAGA5Ck7YBDG2",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p class=\"p1\">Choose a special ability from another source.</p>",
+    "description": "<p>Choose a special ability from another source.</p>",
     "class": "Veteran",
     "price": "2",
     "purchased": false,
@@ -26,7 +26,7 @@
     "systemId": "blades68",
     "systemVersion": "0.0.1",
     "createdTime": 1739510695505,
-    "modifiedTime": 1739510730616,
+    "modifiedTime": 1739559747372,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
   "_key": "!items!JO4LAGA5Ck7YBDG2"

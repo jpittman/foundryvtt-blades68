@@ -4,7 +4,7 @@
   "_id": "1xEZFkdsrmlmmUjf",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p class=\"p1\">You gain <strong>potency</strong> when attempting to <strong>Consort</strong>&nbsp;with or <strong>Sway</strong> people from cultures or backgrounds other&nbsp;than your own.</p>",
+    "description": "<p>You gain <strong>potency</strong> when attempting to <strong>Consort</strong>&nbsp;with or <strong>Sway</strong> people from cultures or backgrounds other&nbsp;than your own.</p>",
     "class": "Radical",
     "price": "1",
     "purchased": false,
@@ -26,7 +26,7 @@
     "systemId": "blades68",
     "systemVersion": "0.0.1",
     "createdTime": 1739556378818,
-    "modifiedTime": 1739556427350,
+    "modifiedTime": 1739559314751,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
   "_key": "!items!1xEZFkdsrmlmmUjf"

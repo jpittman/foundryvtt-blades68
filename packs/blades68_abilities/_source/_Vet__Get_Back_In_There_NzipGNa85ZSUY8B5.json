@@ -4,7 +4,7 @@
   "_id": "NzipGNa85ZSUY8B5",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p class=\"p1\">You were subject to experimental procedures&nbsp;designed to increase the shelf-life of front-line soldiers.&nbsp;Permanently fill in one of your healing clock segments. Take <strong>+1d</strong>&nbsp;to healing treatment rolls.</p>",
+    "description": "<p>You were subject to experimental procedures&nbsp;designed to increase the shelf-life of front-line soldiers.&nbsp;Permanently fill in one of your healing clock segments. Take <strong>+1d</strong>&nbsp;to healing treatment rolls.</p>",
     "class": "Veteran",
     "price": "1",
     "purchased": false,
@@ -26,7 +26,7 @@
     "systemId": "blades68",
     "systemVersion": "0.0.1",
     "createdTime": 1739510488288,
-    "modifiedTime": 1739510528164,
+    "modifiedTime": 1739559647818,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
   "_key": "!items!NzipGNa85ZSUY8B5"

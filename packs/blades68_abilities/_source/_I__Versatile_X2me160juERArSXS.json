@@ -4,7 +4,7 @@
   "_id": "X2me160juERArSXS",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p class=\"p1\">Choose a special ability from another source.</p>",
+    "description": "<p>Choose a special ability from another source.</p>",
     "class": "Intellectual",
     "price": "2",
     "purchased": false,
@@ -26,7 +26,7 @@
     "systemId": "blades68",
     "systemVersion": "0.0.1",
     "createdTime": 1739555459834,
-    "modifiedTime": 1739555491704,
+    "modifiedTime": 1739559060849,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
   "_key": "!items!X2me160juERArSXS"

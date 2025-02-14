@@ -4,7 +4,7 @@
   "_id": "pWksgRYkbrFU7rWj",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p class=\"p1\">Twice per score, you may use your <strong>research</strong> to&nbsp;resist a consequence of fatigue, weakness, or resonance&nbsp;effects, or to push yourself when working with technical skill&nbsp;or handling resonance objects.</p>",
+    "description": "<p>Twice per score, you may use your <strong>research</strong> to&nbsp;resist a consequence of fatigue, weakness, or resonance&nbsp;effects, or to push yourself when working with technical skill&nbsp;or handling resonance objects.</p>",
     "class": "Intellectual",
     "price": "1",
     "purchased": false,
@@ -26,7 +26,7 @@
     "systemId": "blades68",
     "systemVersion": "0.0.1",
     "createdTime": 1739554768844,
-    "modifiedTime": 1739554811419,
+    "modifiedTime": 1739559017776,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
   "_key": "!items!pWksgRYkbrFU7rWj"
