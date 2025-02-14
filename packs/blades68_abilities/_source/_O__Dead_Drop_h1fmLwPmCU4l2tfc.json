@@ -1,0 +1,33 @@
+{
+  "name": "(O) Dead Drop",
+  "type": "ability",
+  "_id": "h1fmLwPmCU4l2tfc",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You have access to a Bound Resonance Entity that will leave up to <strong>2 load</strong> of items anywhere you need it.&nbsp;You can flashback to requesting the item(s), left anywhere&nbsp;you choose, for free.</p>",
+    "class": "Operative",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739564390951,
+    "modifiedTime": 1739564461786,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!h1fmLwPmCU4l2tfc"
+}

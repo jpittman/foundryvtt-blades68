@@ -1,0 +1,33 @@
+{
+  "name": "(O) Echo Walker",
+  "type": "ability",
+  "_id": "b4mQ4KYNlq2EDqPy",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>When you push yourself, you can also&nbsp;disappear into the resonance field immediately. Reappear&nbsp;later, whereever you want (you have to be able to move there&nbsp;physically). When you re-appear you are so <em>cold</em> (level 1&nbsp;harm) and something from the resonance field may notice/follow you (GM will tick a clock). You may resist these&nbsp;consequences.</p>",
+    "class": "Operative",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739564503588,
+    "modifiedTime": 1739564605515,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!b4mQ4KYNlq2EDqPy"
+}

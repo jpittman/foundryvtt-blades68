@@ -1,0 +1,33 @@
+{
+  "name": "(O) Infiltrator",
+  "type": "ability",
+  "_id": "VYdKYhluoiXOKVny",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Twice per score, you may use your <strong>precision</strong> to&nbsp;resist a consequence from detection or security measures,&nbsp;or to <strong>push yourself</strong> for a feat of athletics or stealth. When&nbsp;you attack from hiding, you get <strong>+1d</strong>.</p>",
+    "class": "Operative",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739564141907,
+    "modifiedTime": 1739564232238,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!VYdKYhluoiXOKVny"
+}
