@@ -1,0 +1,33 @@
+{
+  "name": "(P) Parapsychology",
+  "type": "ability",
+  "_id": "vrtFqbsmkZD5Q3MH",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You&rsquo;re immune to the terror that&nbsp;paranormal entities inflict on sight. Take <strong>+1d</strong> to resistance&nbsp;rolls with Resolve. Take <strong>+1d</strong> when you gather info about the&nbsp;paranormal.</p>",
+    "class": "Paranormalist",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739568490712,
+    "modifiedTime": 1739568579102,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!vrtFqbsmkZD5Q3MH"
+}

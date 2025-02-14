@@ -1,0 +1,33 @@
+{
+  "name": "(P) Galaxy Brain",
+  "type": "ability",
+  "_id": "wlacKqDNknPBZkdg",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>When you drop Echo Projection, the GM no&nbsp;longer ticks a clock (you still take the <em>Drained</em> harm).</p>",
+    "class": "Paranormalist",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739568278345,
+    "modifiedTime": 1739568309783,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!wlacKqDNknPBZkdg"
+}

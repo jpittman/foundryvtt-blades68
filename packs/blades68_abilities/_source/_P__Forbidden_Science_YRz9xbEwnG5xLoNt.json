@@ -1,0 +1,33 @@
+{
+  "name": "(P) Forbidden Science",
+  "type": "ability",
+  "_id": "YRz9xbEwnG5xLoNt",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You can use a downtime action to&nbsp;perform a <strong>paranormal experiment</strong> to manifest a&nbsp;supernatural effect or being. Gain <strong>one free downtime&nbsp;action</strong> to perform such experiments.</p>",
+    "class": "Paranormalist",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739567994011,
+    "modifiedTime": 1739568083084,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!YRz9xbEwnG5xLoNt"
+}

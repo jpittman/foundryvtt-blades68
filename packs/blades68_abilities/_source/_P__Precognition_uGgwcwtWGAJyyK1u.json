@@ -1,0 +1,33 @@
+{
+  "name": "(P) Precognition",
+  "type": "ability",
+  "_id": "uGgwcwtWGAJyyK1u",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Two times per score you can <strong>assist</strong> a&nbsp;teammate without paying stress. Tell us how you prepared&nbsp;for this in advance.</p>",
+    "class": "Paranormalist",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739567246919,
+    "modifiedTime": 1739567343511,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!uGgwcwtWGAJyyK1u"
+}

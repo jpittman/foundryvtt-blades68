@@ -1,0 +1,33 @@
+{
+  "name": "(P) Medium",
+  "type": "ability",
+  "_id": "PhW6ngzLJWrtFCiv",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You can communicate with all paranormal entities,&nbsp;even those not present in the physical realm. Take <strong>+1d</strong> and&nbsp;<strong>potency</strong> when you do.</p>",
+    "class": "Paranormalist",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739568361184,
+    "modifiedTime": 1739568419180,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!PhW6ngzLJWrtFCiv"
+}
