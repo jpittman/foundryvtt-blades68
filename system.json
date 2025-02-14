@@ -76,6 +76,14 @@
       "type": "Item"
     },
     {
+      "name": "blades68_ability",
+      "label": "Blades68 Abilities",
+      "system": "blades68",
+      "path": "./packs/blades68_abilities.db",
+      "banner": "systems/blades68/images/compendium-banners/Doskvol_06.webp",
+      "type": "Item"
+    },
+    {
       "name": "class",
       "label": "Classes",
       "system": "blades68",
@@ -216,7 +224,7 @@
     {
         "name": "Blades68 Character Options",
         "sorting": "m",
-        "packs": ["blades68_class"]
+        "packs": ["blades68_class", "blades68_ability"]
     },
     {
       "name": "Character Options",
