@@ -1,10 +1,10 @@
 {
-  "name": "(Vet) Echo Fighter",
+  "name": "(I) Deep Thinker",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>Thanks to special training, you may engage&nbsp;enemies in combat with nothing but your mind. You gain&nbsp;<strong>potency</strong> in combat vs. the paranormal. You can attempt to read&nbsp;people&rsquo;s next intentions.</p>",
-    "class": "Veteran",
+    "description": "<p class=\"p1\">When you expound upon your unique and&nbsp;brilliant insights, roll <strong>Study</strong> to confuse or impress a target.&nbsp;When you first act against those confounded by your&nbsp;brilliant arguments, gain <strong>potency</strong>.</p>",
+    "class": "Intellectual",
     "price": "1",
     "purchased": false,
     "class_default": false,
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739510044188,
-    "modifiedTime": 1739554817506,
+    "createdTime": 1739555364239,
+    "modifiedTime": 1739555364239,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "6rtxIf6PcsSjLjz8",
-  "sort": 1600000,
-  "_key": "!items!6rtxIf6PcsSjLjz8"
+  "_id": "KI1j8VF9EJTTs2hX",
+  "sort": 0,
+  "_key": "!items!KI1j8VF9EJTTs2hX"
 }

@@ -1,10 +1,10 @@
 {
-  "name": "(H68) Versatile",
+  "name": "(I) Advanced Sparkmind",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p class=\"p1\">Choose a special ability from another source.</p>",
-    "class": "Hound '68",
+    "description": "<p class=\"p1\">Choose an additional <strong>Type</strong>, or add&nbsp;an <strong>Edge</strong>, or remove a <strong>Flaw</strong>.</p>",
+    "class": "Versatile",
     "price": "2",
     "purchased": false,
     "class_default": false,
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739512173678,
-    "modifiedTime": 1739554817506,
+    "createdTime": 1739555447517,
+    "modifiedTime": 1739555447517,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "6mJnVoSb8NLBX8al",
-  "sort": 100000,
-  "_key": "!items!6mJnVoSb8NLBX8al"
+  "_id": "ixTaCpsGJHPy5TLZ",
+  "sort": 0,
+  "_key": "!items!ixTaCpsGJHPy5TLZ"
 }

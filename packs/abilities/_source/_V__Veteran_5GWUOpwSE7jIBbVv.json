@@ -12,7 +12,7 @@
   },
   "effects": [],
   "folder": null,
-  "sort": 800000,
+  "sort": 1500000,
   "flags": {
     "core": {
       "sourceId": "Compendium.blades68.ability.z1H8ntG0PE1PGRSB"
@@ -24,7 +24,7 @@
     "systemId": null,
     "systemVersion": null,
     "createdTime": null,
-    "modifiedTime": 1739511995697,
+    "modifiedTime": 1739554817506,
     "lastModifiedBy": "kpkmRRldHuGvdiEN",
     "compendiumSource": null,
     "duplicateSource": null

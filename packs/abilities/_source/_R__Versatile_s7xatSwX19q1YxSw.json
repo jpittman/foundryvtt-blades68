@@ -1,17 +1,17 @@
 {
-  "name": "(H68) Versatile",
+  "name": "(R) Versatile",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p class=\"p1\">Choose a special ability from another source.</p>",
-    "class": "Hound '68",
+    "description": "<p class=\"p1\"><span class=\"s1\">C</span>hoose a special ability from another source.</p>",
+    "class": "Radical",
     "price": "2",
     "purchased": false,
     "class_default": false,
     "logic": ""
   },
   "effects": [],
-  "folder": null,
+  "folder": "537uDqf28OmWJoAM",
   "ownership": {
     "default": 0,
     "kpkmRRldHuGvdiEN": 3
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739512173678,
-    "modifiedTime": 1739554817506,
+    "createdTime": 1739557002180,
+    "modifiedTime": 1739557002180,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "6mJnVoSb8NLBX8al",
-  "sort": 100000,
-  "_key": "!items!6mJnVoSb8NLBX8al"
+  "_id": "s7xatSwX19q1YxSw",
+  "sort": 0,
+  "_key": "!items!s7xatSwX19q1YxSw"
 }

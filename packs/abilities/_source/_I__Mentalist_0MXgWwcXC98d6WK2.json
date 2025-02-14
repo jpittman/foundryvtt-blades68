@@ -1,10 +1,10 @@
 {
-  "name": "(H68) Hound's Instincts",
+  "name": "(I) Mentalist",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p class=\"p1\">When you <strong>push yourself</strong>, you can also do&nbsp;one of the following: <em>try to figure out where to go next, even with&nbsp;zero leads&mdash;make someone stop and listen to you for a few&nbsp;moments, no matter how unlikely it is.</em></p>",
-    "class": "Hound '68",
+    "description": "<p class=\"p1\">You can deduce trivial details about anyone.&nbsp;Study them to reveal a deep desire they didn&rsquo;t even know&nbsp;they had; gain <strong>+1d </strong>and <strong>potency</strong> when acting on this&nbsp;information.</p>",
+    "class": "Intellectual",
     "price": "1",
     "purchased": false,
     "class_default": false,
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739510923278,
+    "createdTime": 1739554540523,
     "modifiedTime": 1739554817506,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "ymEGzrn7pZ1oZu0J",
-  "sort": 900000,
-  "_key": "!items!ymEGzrn7pZ1oZu0J"
+  "_id": "0MXgWwcXC98d6WK2",
+  "sort": 400000,
+  "_key": "!items!0MXgWwcXC98d6WK2"
 }

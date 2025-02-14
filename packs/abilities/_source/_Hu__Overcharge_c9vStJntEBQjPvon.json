@@ -11,7 +11,7 @@
   },
   "effects": [],
   "folder": null,
-  "sort": 1800000,
+  "sort": 2500000,
   "flags": {
     "core": {
       "sourceId": "Item.FA8pi47XOSwUUA7K"
@@ -23,7 +23,7 @@
     "systemId": null,
     "systemVersion": null,
     "createdTime": null,
-    "modifiedTime": 1739511995697,
+    "modifiedTime": 1739554817506,
     "lastModifiedBy": "kpkmRRldHuGvdiEN",
     "compendiumSource": null,
     "duplicateSource": null

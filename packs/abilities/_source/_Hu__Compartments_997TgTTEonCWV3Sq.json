@@ -55,7 +55,7 @@
     }
   ],
   "folder": null,
-  "sort": 1200000,
+  "sort": 1900000,
   "flags": {
     "core": {
       "sourceId": "Item.5goOpDb9pPrONuRS"
@@ -67,7 +67,7 @@
     "systemId": null,
     "systemVersion": null,
     "createdTime": null,
-    "modifiedTime": 1739511995697,
+    "modifiedTime": 1739554817506,
     "lastModifiedBy": "kpkmRRldHuGvdiEN",
     "compendiumSource": null,
     "duplicateSource": null

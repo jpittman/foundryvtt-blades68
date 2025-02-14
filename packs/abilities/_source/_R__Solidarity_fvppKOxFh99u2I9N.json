@@ -1,17 +1,17 @@
 {
-  "name": "(H68) No Hard Feelings",
+  "name": "(R) Solidarity",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p class=\"p1\">You gain <strong>potency</strong> when you <strong>Consort</strong> with&nbsp;someone who has caused you to mark Harm.</p>",
-    "class": "Hound '68",
+    "description": "<p class=\"p1\">You gain <strong>potency</strong> when attempting to <strong>Consort</strong>&nbsp;with or <strong>Sway</strong> people from cultures or backgrounds other&nbsp;than your own.</p>",
+    "class": "Radical",
     "price": "1",
     "purchased": false,
     "class_default": false,
     "logic": ""
   },
   "effects": [],
-  "folder": null,
+  "folder": "537uDqf28OmWJoAM",
   "ownership": {
     "default": 0,
     "kpkmRRldHuGvdiEN": 3
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739511779993,
-    "modifiedTime": 1739554817506,
+    "createdTime": 1739556431970,
+    "modifiedTime": 1739556432011,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "52yMJ3O8DMwgNy8D",
-  "sort": 1100000,
-  "_key": "!items!52yMJ3O8DMwgNy8D"
+  "_id": "fvppKOxFh99u2I9N",
+  "sort": 200000,
+  "_key": "!items!fvppKOxFh99u2I9N"
 }

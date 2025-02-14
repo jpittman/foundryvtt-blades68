@@ -1,0 +1,33 @@
+{
+  "name": "(R) True Believer",
+  "type": "ability",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p class=\"p1\">Twice per score, you may use your <strong>conviction</strong>&nbsp;to resist a consequence of law-breaking (being arrested or&nbsp;hassled by bluecoats, etc) or to push yourself when working&nbsp;with explosives.</p>",
+    "class": "Radical",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": "537uDqf28OmWJoAM",
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739555656575,
+    "modifiedTime": 1739556432011,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_id": "IxmOqEUgppb8UBuR",
+  "sort": 100000,
+  "_key": "!items!IxmOqEUgppb8UBuR"
+}
