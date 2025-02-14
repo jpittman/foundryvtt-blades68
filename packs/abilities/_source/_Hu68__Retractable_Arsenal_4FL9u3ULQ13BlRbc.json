@@ -1,10 +1,10 @@
 {
-  "name": "(I) Unalloyed Genius",
+  "name": "(Hu68) Retractable Arsenal",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>When you <strong>craft an invention</strong>, take <strong>+1</strong>&nbsp;result level to your roll. Gaittion clocks start with 1 tick&nbsp;already filled.</p>",
-    "class": "Intellectual",
+    "description": "<p>Your items are built-in to your frame and&nbsp;may recess beneath panels out of sight. Your frame can now&nbsp;carry <strong>+2 load</strong>.</p>",
+    "class": "Hull '68",
     "price": "1",
     "purchased": false,
     "class_default": false,
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739554451964,
+    "createdTime": 1739569877776,
     "modifiedTime": 1739570134233,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "yqglEMDEL3idae6p",
-  "sort": 2100000,
-  "_key": "!items!yqglEMDEL3idae6p"
+  "_id": "4FL9u3ULQ13BlRbc",
+  "sort": 200000,
+  "_key": "!items!4FL9u3ULQ13BlRbc"
 }

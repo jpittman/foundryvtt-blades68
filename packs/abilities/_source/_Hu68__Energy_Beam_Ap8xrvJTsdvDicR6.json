@@ -1,10 +1,10 @@
 {
-  "name": "(I) Unalloyed Genius",
+  "name": "(Hu68) Energy Beam",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>When you <strong>craft an invention</strong>, take <strong>+1</strong>&nbsp;result level to your roll. Gaittion clocks start with 1 tick&nbsp;already filled.</p>",
-    "class": "Intellectual",
+    "description": "<p>You may release some of your energy as an&nbsp;electrical shock around you or as a directed beam. You may also&nbsp;use this ability to create a lightning barrier to repel or trap a&nbsp;resonance entity. Take <strong>1 drain</strong> for each level of <strong>magnitude</strong>.</p>",
+    "class": "Hull '68",
     "price": "1",
     "purchased": false,
     "class_default": false,
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739554451964,
+    "createdTime": 1739570055341,
     "modifiedTime": 1739570134233,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "yqglEMDEL3idae6p",
-  "sort": 2100000,
-  "_key": "!items!yqglEMDEL3idae6p"
+  "_id": "Ap8xrvJTsdvDicR6",
+  "sort": 400000,
+  "_key": "!items!Ap8xrvJTsdvDicR6"
 }

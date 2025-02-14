@@ -1,10 +1,10 @@
 {
-  "name": "(I) Unalloyed Genius",
+  "name": "(Hu68) Interface",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>When you <strong>craft an invention</strong>, take <strong>+1</strong>&nbsp;result level to your roll. Gaittion clocks start with 1 tick&nbsp;already filled.</p>",
-    "class": "Intellectual",
+    "description": "<p>You may <strong>attune</strong> to the local electroplasmic power&nbsp;field to control it or something connected to it (including&nbsp;another hull).</p>",
+    "class": "Hull '68",
     "price": "1",
     "purchased": false,
     "class_default": false,
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739554451964,
+    "createdTime": 1739570134217,
     "modifiedTime": 1739570134233,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "yqglEMDEL3idae6p",
-  "sort": 2100000,
-  "_key": "!items!yqglEMDEL3idae6p"
+  "_id": "2Tyhgj9Qx4SAnP6l",
+  "sort": 300000,
+  "_key": "!items!2Tyhgj9Qx4SAnP6l"
 }
