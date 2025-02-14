@@ -1,11 +1,12 @@
 {
-  "name": "Radical",
+  "name": "Paranormalist",
   "type": "class",
-  "img": "systems/blades68/styles/assets/icons/Icons8_81.png",
+  "_id": "PZ2MTPR4DXme6MbH",
+  "img": "systems/blades68/styles/assets/icons/Icon.2_75.png",
   "system": {
-    "description": "<p>An AGITATOR &mdash;</p>\n<p>INCENDIARY in EVERY SENSE</p>",
+    "description": "<p class=\"p1\"><span class=\"s1\">a </span>MAVERICK</p>\n<p class=\"p1\">THINKER <span class=\"s1\">and</span></p>\n<p>VISIONARY</p>",
     "logic": "",
-    "experience_clues": "<ul>\n<li class=\"p1\">Every time you roll a <em><strong>desperate action</strong></em> or a <em><strong>zero-dot action</strong></em>, mark xp&nbsp;in that action&rsquo;s attribute.</li>\n<li class=\"p1\">Once per session when you <em><strong>hit a key</strong></em>, mark 1 xp and mark the key.</li>\n</ul>\n<p class=\"p1\">At the end of each session, mark 1 xp (or 2 xp if you really smashed it) if:</p>\n<ul>\n<li style=\"font-style: italic;\"><em>You addressed a challenge with <strong>persuasian</strong> or <strong>mayhem</strong>.</em></li>\n<li style=\"font-style: italic;\"><em>You struggled with issues stemming from a <strong>deadlock</strong>.</em></li>\n</ul>",
+    "experience_clues": "<ul>\n<li class=\"p1\">Every time you roll a <em><strong>desperate action</strong></em> or a <em><strong>zero-dot action</strong></em>, mark xp&nbsp;in that action&rsquo;s attribute.</li>\n<li class=\"p1\">Once per session when you <em><strong>hit a key</strong></em>, mark 1 xp and mark the key.</li>\n</ul>\n<p class=\"p1\">At the end of each session, mark 1 xp (or 2 xp if you really smashed it) if:</p>\n<ul>\n<li style=\"font-style: italic;\"><em>You addressed a challenge with <strong>knowledge</strong> or <strong>paranormal power</strong></em><em>.</em></li>\n<li style=\"font-style: italic;\"><em>You struggled with issues stemming from a <strong>deadlock</strong>.</em></li>\n</ul>",
     "base_skills": {
       "hunt": [
         0
@@ -47,9 +48,9 @@
   },
   "effects": [
     {
-      "name": "Radical Playbook",
+      "name": "Paranormalist Playbook",
       "img": "systems/blades68/styles/assets/icons/Icon.3_13.png",
-      "origin": "Compendium.world.blades68-classes.Item.cMo1ObA8ooELHfRV",
+      "origin": "Compendium.blades68.blades68_class.Item.PZ2MTPR4DXme6MbH",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -60,26 +61,26 @@
         "startTurn": null
       },
       "disabled": false,
-      "_id": "OphBoQLLxLOXJTrn",
+      "_id": "RZlVT7LsKHCU4gdu",
       "type": "base",
       "system": {},
       "changes": [
         {
           "key": "system.acquaintances_label",
           "mode": 5,
-          "value": "BLADES68.ZealousFriends",
+          "value": "BITD.StrangeFriends",
           "priority": null
         },
         {
           "key": "system.experience_clues",
           "mode": 2,
-          "value": "BITD.ExpChallengeTechnical",
+          "value": "BITD.ExpChallengeViolence",
           "priority": null
         },
         {
           "key": "system.playbook",
           "mode": 5,
-          "value": "Radical",
+          "value": "Paranormalist",
           "priority": null
         }
       ],
@@ -95,16 +96,16 @@
         "coreVersion": "12.331",
         "systemId": "blades68",
         "systemVersion": "0.0.1",
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
+        "createdTime": 1739501996213,
+        "modifiedTime": 1739503083285,
+        "lastModifiedBy": "kpkmRRldHuGvdiEN"
       },
-      "_key": "!items.effects!ZxzF4KEhSDkrpUCQ.OphBoQLLxLOXJTrn"
+      "_key": "!items.effects!PZ2MTPR4DXme6MbH.RZlVT7LsKHCU4gdu"
     },
     {
-      "name": "Radical Action Ratings",
+      "name": "Paranormalist Action Rating",
       "img": "systems/blades68/styles/assets/icons/Icon.3_13.png",
-      "origin": "Compendium.world.blades68-classes.Item.cMo1ObA8ooELHfRV",
+      "origin": "Compendium.blades68.blades68_class.Item.PZ2MTPR4DXme6MbH",
       "duration": {
         "rounds": null,
         "startTime": null,
@@ -115,20 +116,20 @@
         "startTurn": null
       },
       "disabled": false,
-      "_id": "D6nhKh8YgA9SpfXv",
+      "_id": "NBW5YTixkvSf9X78",
       "type": "base",
       "system": {},
       "changes": [
         {
-          "key": "system.attributes.prowess.skills.wreck.min",
+          "key": "system.attributes.insight.skills.study.min",
           "mode": 2,
-          "value": "2",
+          "value": "1",
           "priority": null
         },
         {
-          "key": "system.attributes.resolve.skills.sway.min",
+          "key": "system.attributes.resolve.skills.attune.min",
           "mode": 2,
-          "value": "1",
+          "value": "2",
           "priority": null
         }
       ],
@@ -144,14 +145,15 @@
         "coreVersion": "12.331",
         "systemId": "blades68",
         "systemVersion": "0.0.1",
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
+        "createdTime": 1739501997558,
+        "modifiedTime": 1739503174872,
+        "lastModifiedBy": "kpkmRRldHuGvdiEN"
       },
-      "_key": "!items.effects!ZxzF4KEhSDkrpUCQ.D6nhKh8YgA9SpfXv"
+      "_key": "!items.effects!PZ2MTPR4DXme6MbH.NBW5YTixkvSf9X78"
     }
   ],
   "folder": null,
+  "sort": 500000,
   "ownership": {
     "default": 0,
     "kpkmRRldHuGvdiEN": 3
@@ -163,11 +165,9 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739394646252,
+    "createdTime": 1739501516788,
     "modifiedTime": 1739507250348,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "ZxzF4KEhSDkrpUCQ",
-  "sort": 1000000,
-  "_key": "!items!ZxzF4KEhSDkrpUCQ"
+  "_key": "!items!PZ2MTPR4DXme6MbH"
 }
