@@ -1,10 +1,10 @@
 {
-  "name": "(TTF) Advanced Combat Reflexes",
+  "name": "(TTP) Shadow Walk",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>Cybernetic implants and&nbsp;futuristic combat training let you react to threats in a&nbsp;fraction of a second and even dodge bullets. Your bare&nbsp;hands count as a <em>fine</em> weapon. When there&rsquo;s a question&nbsp;about who acts first, the answer is you.</p>",
-    "class": "Time Traveller (From The Future)",
+    "description": "<p>Take 1 instability to teleport anywhere you&nbsp;can see.</p>",
+    "class": "Time Traveller (From The Past)",
     "price": "1",
     "purchased": false,
     "class_default": false,
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739647506159,
+    "createdTime": 1739650397692,
     "modifiedTime": 1739650397709,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "J5QSSQyS29dkuhe4",
-  "sort": 1100000,
-  "_key": "!items!J5QSSQyS29dkuhe4"
+  "_id": "bOHlvbAroxkV80JS",
+  "sort": 800000,
+  "_key": "!items!bOHlvbAroxkV80JS"
 }

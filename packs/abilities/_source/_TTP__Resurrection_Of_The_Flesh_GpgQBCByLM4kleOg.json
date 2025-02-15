@@ -1,11 +1,11 @@
 {
-  "name": "(Hu68) Frame Upgrade",
+  "name": "(TTP) Resurrection Of The Flesh",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>Choose an additional frame feature.</p>",
-    "class": "Hull '68",
-    "price": "3",
+    "description": "<p>Take 5 instability to reverse the&nbsp;timeline of your physical body to a pre-injured state. Clear&nbsp;all harm.</p>",
+    "class": "Time Traveller (From The Past)",
+    "price": "1",
     "purchased": false,
     "class_default": false,
     "logic": ""
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739570202659,
-    "modifiedTime": 1739650397709,
+    "createdTime": 1739650529055,
+    "modifiedTime": 1739650529055,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "rmRYwYj695MKkfDr",
-  "sort": 1000000,
-  "_key": "!items!rmRYwYj695MKkfDr"
+  "_id": "GpgQBCByLM4kleOg",
+  "sort": 0,
+  "_key": "!items!GpgQBCByLM4kleOg"
 }

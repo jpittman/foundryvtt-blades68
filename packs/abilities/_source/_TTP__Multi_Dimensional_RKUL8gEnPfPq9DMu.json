@@ -1,10 +1,10 @@
 {
-  "name": "(TTF) Multi-Dimensional",
+  "name": "(TTP) Multi-Dimensional",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
     "description": "<p>Unmoored in time, you can tap into the&nbsp;knowledge and experiences of yourself from alternate&nbsp;timelines. <strong>Attune</strong> to instantly &ldquo;remember&rdquo; a new skill or&nbsp;experience (e.g. piloting an airship, speaking another&nbsp;language, knowing how to relate to wealthy aristocrats).</p>",
-    "class": "Time Traveller (From The Future)",
+    "class": "Time Traveller (From The Past)",
     "price": "1",
     "purchased": false,
     "class_default": false,
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739648104194,
+    "createdTime": 1739650328940,
     "modifiedTime": 1739650397709,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "JebWFxgZC2IaYWfm",
-  "sort": 200000,
-  "_key": "!items!JebWFxgZC2IaYWfm"
+  "_id": "RKUL8gEnPfPq9DMu",
+  "sort": 900000,
+  "_key": "!items!RKUL8gEnPfPq9DMu"
 }
