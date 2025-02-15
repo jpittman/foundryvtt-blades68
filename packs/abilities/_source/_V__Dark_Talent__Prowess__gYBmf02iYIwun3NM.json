@@ -128,7 +128,7 @@
     "systemId": "blades68",
     "systemVersion": "5.1.4.0",
     "createdTime": 1719795534021,
-    "modifiedTime": 1739559709696,
+    "modifiedTime": 1739646018033,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
   "ownership": {
@@ -137,6 +137,6 @@
   },
   "img": "icons/svg/item-bag.svg",
   "_id": "gYBmf02iYIwun3NM",
-  "sort": 900000,
+  "sort": 1200000,
   "_key": "!items!gYBmf02iYIwun3NM"
 }

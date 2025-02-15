@@ -1,10 +1,10 @@
 {
-  "name": "(Vet) Got Your Back",
+  "name": "(V68) Feral Whispers",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>When you <strong>protect</strong> a teammate, clear <strong>1 stress</strong>&nbsp;and take <strong>+1d</strong> to any resistance rolls.</p>",
-    "class": "Veteran",
+    "description": "<p>You can attune to animals to have them do&nbsp;your bidding.</p>",
+    "class": "Vampire '68",
     "price": "1",
     "purchased": false,
     "class_default": false,
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739509872959,
-    "modifiedTime": 1739646018033,
+    "createdTime": 1739646419929,
+    "modifiedTime": 1739646419929,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "sFY0NiKzWYu3tL5k",
-  "sort": 1300000,
-  "_key": "!items!sFY0NiKzWYu3tL5k"
+  "_id": "TiDOqRxWbOOCKeAR",
+  "sort": 0,
+  "_key": "!items!TiDOqRxWbOOCKeAR"
 }

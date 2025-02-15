@@ -1,10 +1,10 @@
 {
-  "name": "(Vet) Got Your Back",
+  "name": "(V68) Resonance Void",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>When you <strong>protect</strong> a teammate, clear <strong>1 stress</strong>&nbsp;and take <strong>+1d</strong> to any resistance rolls.</p>",
-    "class": "Veteran",
+    "description": "<p>You are invisible to resonance entities and&nbsp;may not be harmed by them. Take <strong>2 stress</strong> to cause living&nbsp;things to avert their gaze and fail to observe you for a few&nbsp;moments.</p>",
+    "class": "Vampire '68",
     "price": "1",
     "purchased": false,
     "class_default": false,
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739509872959,
+    "createdTime": 1739646018018,
     "modifiedTime": 1739646018033,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "sFY0NiKzWYu3tL5k",
-  "sort": 1300000,
-  "_key": "!items!sFY0NiKzWYu3tL5k"
+  "_id": "ZZmd0Zc4MsNN8fXY",
+  "sort": 600000,
+  "_key": "!items!ZZmd0Zc4MsNN8fXY"
 }
