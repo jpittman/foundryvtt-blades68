@@ -1,0 +1,33 @@
+{
+  "name": "(V68) Terrible Power",
+  "type": "ability",
+  "_id": "QL8fyH4VT9h22K6g",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Take <strong>1 stress</strong> to perform a feat of&nbsp;superhuman strength or speed (run faster than an autopod,&nbsp;bend steel with bare hands, leap onto the roof of a building,&nbsp;etc). <em>This factors into effect.</em></p>",
+    "class": "Vampire '68",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739645689233,
+    "modifiedTime": 1739645789562,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!QL8fyH4VT9h22K6g"
+}

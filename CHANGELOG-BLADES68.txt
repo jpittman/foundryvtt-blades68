@@ -37,6 +37,7 @@ v.0.0.1
 		- Paranormalist
 		- Hull
 		- Ghost/Echo
+		- Vampire
 - KKNOWN ISSUES
 	- Scripts for the release process do not currently work. Hand rolled releases for now.
 	- Blades and Blades68 Dataset are together in the Blades in the Dark compendiums.

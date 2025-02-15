@@ -1,0 +1,33 @@
+{
+  "name": "(V68) Versatile",
+  "type": "ability",
+  "_id": "T6zXkWdTYIz5gw86",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Choose a special ability from another source.</p>",
+    "class": "Vampre '68",
+    "price": "3",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739646426804,
+    "modifiedTime": 1739646540489,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!T6zXkWdTYIz5gw86"
+}

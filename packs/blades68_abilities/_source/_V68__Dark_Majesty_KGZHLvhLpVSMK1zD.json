@@ -1,0 +1,33 @@
+{
+  "name": "(V68) Dark Majesty",
+  "type": "ability",
+  "_id": "KGZHLvhLpVSMK1zD",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Choose Insight, Prowess, or Resolve. Your&nbsp;max rating for actions under that attribute becomes 5.&nbsp;When you take this ability, add +1 dot to the resistance&nbsp;rating of the attribute you&rsquo;ve chosen.</p>",
+    "class": "Vampire '68",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739646042976,
+    "modifiedTime": 1739646130470,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!KGZHLvhLpVSMK1zD"
+}
