@@ -1,10 +1,10 @@
 {
-  "name": "(I) High-Functioning Insomniac",
+  "name": "(TTF) Psionics",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>During <strong>downtime</strong>, you get <strong>two&nbsp;ticks</strong> to distribute among any long term project clocks that&nbsp;involve research, investigation or crafting.</p>",
-    "class": "Intellectual",
+    "description": "<p>When you <strong>push yourself</strong>, you can also do one of&nbsp;the following: <em>communicate without words&mdash;view another&nbsp;location clairvoyantly&mdash;temporarily increase your strength&nbsp;and speed&mdash;mentally interface with technology.</em></p>",
+    "class": "Time Traveller (From The Future)",
     "price": "1",
     "purchased": false,
     "class_default": false,
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739558863355,
+    "createdTime": 1739647659815,
     "modifiedTime": 1739648074679,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "B2PKymrwkOfJUcim",
-  "sort": 1500000,
-  "_key": "!items!B2PKymrwkOfJUcim"
+  "_id": "IlYTNhMMLcSXB4Qb",
+  "sort": 400000,
+  "_key": "!items!IlYTNhMMLcSXB4Qb"
 }

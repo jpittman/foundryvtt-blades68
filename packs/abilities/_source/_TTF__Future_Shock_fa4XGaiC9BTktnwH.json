@@ -1,0 +1,33 @@
+{
+  "name": "(TTF) Future Shock",
+  "type": "ability",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You are a visitor from the future, here on an&nbsp;important mission. Your mind starts muddled from the time&nbsp;travel process. Every time you fill your playbook XP, you gain&nbsp;clarity&mdash;choose a new <strong>time traveller trait</strong> below, <strong><em>and</em></strong> a&nbsp;<strong>versatile ability</strong> from another playbook (reflecting your&nbsp;former life and experiences), <strong><em>and</em></strong> take another temporal&nbsp;glitch, <strong><em>and</em></strong> note down a new <strong>detail of your mission</strong>. <em>You&nbsp;burn brightly but briefly. Make the most of your time here.</em></p>",
+    "class": "Time Traveller (From The Future)",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739647518255,
+    "modifiedTime": 1739648074679,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_id": "fa4XGaiC9BTktnwH",
+  "sort": 300000,
+  "_key": "!items!fa4XGaiC9BTktnwH"
+}

@@ -1,10 +1,10 @@
 {
-  "name": "(I) High-Functioning Insomniac",
+  "name": "(TTF) Quantum Displacement",
   "type": "ability",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>During <strong>downtime</strong>, you get <strong>two&nbsp;ticks</strong> to distribute among any long term project clocks that&nbsp;involve research, investigation or crafting.</p>",
-    "class": "Intellectual",
+    "description": "<p>Take 1 instability to teleport&nbsp;anywhere you can see.</p>",
+    "class": "Time Traveller (From The Future)",
     "price": "1",
     "purchased": false,
     "class_default": false,
@@ -23,11 +23,11 @@
     "coreVersion": "12.331",
     "systemId": "blades68",
     "systemVersion": "0.0.1",
-    "createdTime": 1739558863355,
-    "modifiedTime": 1739648074679,
+    "createdTime": 1739648349507,
+    "modifiedTime": 1739648349507,
     "lastModifiedBy": "kpkmRRldHuGvdiEN"
   },
-  "_id": "B2PKymrwkOfJUcim",
-  "sort": 1500000,
-  "_key": "!items!B2PKymrwkOfJUcim"
+  "_id": "XMApbQup4tpGjESJ",
+  "sort": 0,
+  "_key": "!items!XMApbQup4tpGjESJ"
 }
