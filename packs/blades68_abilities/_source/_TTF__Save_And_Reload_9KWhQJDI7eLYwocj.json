@@ -1,0 +1,33 @@
+{
+  "name": "(TTF) Save And Reload",
+  "type": "ability",
+  "_id": "9KWhQJDI7eLYwocj",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Take 5 instability to rewind the timeline of&nbsp;your physical body to a pre-injured state. Clear all harm.</p>",
+    "class": "Time Traveller (From The Future)",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739648399001,
+    "modifiedTime": 1739648570924,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!9KWhQJDI7eLYwocj"
+}

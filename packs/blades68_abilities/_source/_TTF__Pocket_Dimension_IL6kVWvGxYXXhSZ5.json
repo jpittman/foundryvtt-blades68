@@ -1,0 +1,33 @@
+{
+  "name": "(TTF) Pocket Dimension",
+  "type": "ability",
+  "_id": "IL6kVWvGxYXXhSZ5",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Take 2 instability to step out of this&nbsp;timeline for a few minutes, disappearing instantly before&nbsp;reappearing in the same place. Take 1 instability for each&nbsp;additional feature:<em> It lasts for up to an hour rather than a few&nbsp;minutes&mdash;you reappear in a visible location of your choice&mdash;you also take anyone you&rsquo;re touching.</em></p>",
+    "class": "Time Traveller (From The Future)",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739647731706,
+    "modifiedTime": 1739647819333,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!IL6kVWvGxYXXhSZ5"
+}

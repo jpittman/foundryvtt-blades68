@@ -1,0 +1,33 @@
+{
+  "name": "(TTF) Advanced Combat Reflexes",
+  "type": "ability",
+  "_id": "Crwh0Z5FWujkBXvC",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Cybernetic implants and&nbsp;futuristic combat training let you react to threats in a&nbsp;fraction of a second and even dodge bullets. Your bare&nbsp;hands count as a <em>fine</em> weapon. When there&rsquo;s a question&nbsp;about who acts first, the answer is you.</p>",
+    "class": "Time Traveller (From The Future)",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739647407386,
+    "modifiedTime": 1739647503144,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!Crwh0Z5FWujkBXvC"
+}

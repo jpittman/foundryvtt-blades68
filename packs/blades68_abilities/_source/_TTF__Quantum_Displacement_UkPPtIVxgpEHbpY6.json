@@ -1,0 +1,33 @@
+{
+  "name": "(TTF) Quantum Displacement",
+  "type": "ability",
+  "_id": "UkPPtIVxgpEHbpY6",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Take 1 instability to teleport&nbsp;anywhere you can see.</p>",
+    "class": "Time Traveller (From The Future)",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739648283151,
+    "modifiedTime": 1739648342944,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!UkPPtIVxgpEHbpY6"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "(TTF) Psionics",
+  "type": "ability",
+  "_id": "KQPL4dMFvg5ZIFa8",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>When you <strong>push yourself</strong>, you can also do one of&nbsp;the following: <em>communicate without words&mdash;view another&nbsp;location clairvoyantly&mdash;temporarily increase your strength&nbsp;and speed&mdash;mentally interface with technology.</em></p>",
+    "class": "Time Traveller (From The Future)",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739647556955,
+    "modifiedTime": 1739647637616,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!KQPL4dMFvg5ZIFa8"
+}
