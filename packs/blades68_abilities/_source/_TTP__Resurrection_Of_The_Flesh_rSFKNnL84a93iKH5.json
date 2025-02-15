@@ -1,0 +1,33 @@
+{
+  "name": "(TTP) Resurrection Of The Flesh",
+  "type": "ability",
+  "_id": "rSFKNnL84a93iKH5",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Take 5 instability to reverse the&nbsp;timeline of your physical body to a pre-injured state. Clear&nbsp;all harm.</p>",
+    "class": "Time Traveller (From The Past)",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739650430006,
+    "modifiedTime": 1739650506773,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!rSFKNnL84a93iKH5"
+}

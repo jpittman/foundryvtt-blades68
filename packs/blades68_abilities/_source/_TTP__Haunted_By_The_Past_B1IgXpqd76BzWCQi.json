@@ -1,0 +1,33 @@
+{
+  "name": "(TTP) Haunted By The Past",
+  "type": "ability",
+  "_id": "B1IgXpqd76BzWCQi",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You are a visitor from the past, here on&nbsp;an important mission. Your mind starts muddled from the&nbsp;time travel process. Every time you fill your playbook XP, you&nbsp;gain clarity&mdash;choose a new <strong>time traveller trait</strong> below, <em><strong>and</strong></em>&nbsp;an ability from one of the <em>Blades in the Dark</em> playbooks, <em><strong>and</strong></em>&nbsp;take another <strong>temporal glitch</strong>, <strong><em>and</em></strong> note down a new <strong>detail&nbsp;of your mission</strong>. <em>You burn brightly but briefly. Make the&nbsp;most of your time here.</em></p>",
+    "class": "Time Traveller (From The Past)",
+    "price": "1",
+    "purchased": false,
+    "class_default": false,
+    "logic": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "kpkmRRldHuGvdiEN": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "blades68",
+    "systemVersion": "0.0.1",
+    "createdTime": 1739649591398,
+    "modifiedTime": 1739649802766,
+    "lastModifiedBy": "kpkmRRldHuGvdiEN"
+  },
+  "_key": "!items!B1IgXpqd76BzWCQi"
+}
