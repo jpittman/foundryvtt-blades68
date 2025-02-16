@@ -6,44 +6,45 @@ v.0.0.1
 	- Made use of the foundryVTT-cli approach to packing and unpacking of data.
 	- Added scripts to serialize and deserialize the data for dev and testing.
 	- Added in scripts to do that as apart of the release process.
-	- Added in a Blades68 Compendium.
-	- Added in Blades68 playbook basics:
-		- Name label
-		- Description
-		- Experience clues
-		- Base action stats
-		- Contact labels (Acquaintances)
-	- Added in Blades68 playbooks:
-		- Ghost/Echo
-		- Hound
-		- Hull
-		- Intellectual
-		- Operative
-		- Paranormalist
-		- Radical
-		- Swinger
-		- Time Traveler (Future)
-		- Time Traveler (Past)
-		- Vampire
-		- Veteran
-	- Temporarily change the way that experience clues are displayed.
-	- Added abilities for Blades68 playbooks:
-		- Veteran
-		- Hound
-		- Intellectual
-		- Radical
-		- Swinger
-		- Operative
-		- Paranormalist
-		- Hull
-		- Ghost/Echo
-		- Vampire
-		- Time Traveller (Future)
-		- Time Traveller (Past)
+- Added in a Blades68 Compendium.
+- Added in Blades68 playbook basics:
+	- Name label
+	- Description
+	- Experience clues
+	- Base action stats
+	- Contact labels (Acquaintances)
+- Added in Blades68 playbooks:
+	- Ghost/Echo
+	- Hound
+	- Hull
+	- Intellectual
+	- Operative
+	- Paranormalist
+	- Radical
+	- Swinger
+	- Time Traveler (Future)
+	- Time Traveler (Past)
+	- Vampire
+	- Veteran
+- Temporarily change the way that experience clues are displayed.
+- Added abilities for Blades68 playbooks:
+	- Veteran
+	- Hound
+	- Intellectual
+	- Radical
+	- Swinger
+	- Operative
+	- Paranormalist
+	- Hull
+	- Ghost/Echo
+	- Vampire
+	- Time Traveller (Future)
+	- Time Traveller (Past)
 - KKNOWN ISSUES
 	- Scripts for the release process do not currently work. Hand rolled releases for now.
 	- Blades and Blades68 Dataset are together in the Blades in the Dark compendiums.
 	- Experience Clues for Blades in the Dark characters are not displayed correctly.
-	- Acquaintances Label doesn't convert correctly for Blades68 classes.
+	- Acquaintances Label do not always convert correctly for Blades68 classes.
 	- Tinker is not converted to Wrench for classes that have it.
+	- Replacements for the Stress and Trauma Labels do not always display correctly.
 	
